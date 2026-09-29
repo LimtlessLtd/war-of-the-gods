@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "ulrick-first-verdict",
+  "kind": "moment",
+  "moment_id": "S60-9684",
+  "title": "The Scales are used for the first time",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a torchlit stone chamber. Ulrick slams his gauntleted palm onto the base of the great bronze Scales of Judgement and shouts a name; the pans flare with holy fire and embers swirl upward, the verdict not yet given. Tense and awe-struck. Characters: Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, in heavy dark plate armour with bronze-orange pauldrons and a long white tabard.",
+  "references": [
+    {
+      "path": "PCs/Ulrick.png",
+      "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Ulrick slams his hand onto the glowing Scales of Judgement and shouts a name as embers swirl."
+}

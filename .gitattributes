@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Git executes these hooks through its shell on Windows and Unix.
+.githooks/* text eol=lf
+scripts/*.py text eol=lf

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "the-first-grape",
+  "kind": "moment",
+  "moment_id": "S37-11300",
+  "title": "B.0.B.'s first grape",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a warm, lamplit close-up moment. D.E.R.E.K. (also called Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, wearing hooded red-and-orange robes decorated with clockwork and clock-face motifs; he kneels and, with great ceremony, offers a single green grape between golden fingertips. B.0.B.: a small round brass construct about knee height, with one large eye, red lips and thin spindly clockwork arms and legs, who hovers a little off the ground. B.0.B. has pressed the grape to his red lips and it is vanishing with a big gulp; his whole round body tilts happily back and forth mid-hover, his one huge eye wide with wonder. The first taste of food he has ever had. Tender, funny and slightly absurd, like a father feeding his son. Soft golden light, shallow depth of field, a cosy blurred background.",
+  "references": [
+    {
+      "path": "PCs/Chadron.png",
+      "role": "Character appearance reference for D.E.R.E.K.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    },
+    {
+      "path": "Website/docs/media/img/p_bob.jpg",
+      "role": "Character appearance reference for B.0.B.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "D.E.R.E.K. kneels to offer a single green grape to little B.0.B., who gulps it down and wobbles with delight."
+}

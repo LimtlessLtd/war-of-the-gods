@@ -1,0 +1,742 @@
+{
+ "summary": "uPm1pFOppGg",
+ "tribute": "JJJVMHzCw3Y",
+ "intro": "ICRXFuj3UFk",
+ "sessions": {
+  "14": {
+   "id": "8HMaj0jvIzY",
+   "title": "The One With The Gnomes"
+  },
+  "15": {
+   "id": "WroybYqm-S4",
+   "title": "The Battle for Muttonham (Setup & Scouts)"
+  },
+  "16": {
+   "id": "hmkZ3KAvaFI",
+   "title": "The Battle for Muttonham (Part 2 of 70)"
+  },
+  "17": {
+   "id": "rUBCG0EMEzM",
+   "title": "The Final Battle for Muttonham Finale"
+  },
+  "18": {
+   "id": "ZsuotDwZEvA",
+   "title": "Train Tickets From Hell"
+  },
+  "19": {
+   "id": "UbWkF5a0O6Y",
+   "title": "Public Transport Experiences"
+  },
+  "20": {
+   "id": "zsim_xiduZg",
+   "title": "Vicious Children & Self Defence Situations"
+  },
+  "21": {
+   "id": "JNiwwN_rYCc",
+   "title": "The One With No Sound!"
+  },
+  "22": {
+   "id": "Sz9hf2DUB3U",
+   "title": "NATE  DIES AGAIN"
+  },
+  "23": {
+   "id": "SLMQHaYR2FI",
+   "title": "The One Where Everyone Has Their Turn & No One Is Upset About Anything"
+  },
+  "24": {
+   "id": "pVzLJUUKpbg",
+   "title": "Ritualistic Ritualised STD Rituals"
+  },
+  "25": {
+   "id": "-JcdIUwIyZI",
+   "title": "Aurilian Enema"
+  },
+  "26": {
+   "id": "ySE3KIYdMwI",
+   "title": "A Just & Fair Trial"
+  },
+  "27": {
+   "id": "kXMsuvf6tNw",
+   "title": "The One With No Technical Difficulties And Big Plot"
+  },
+  "28": {
+   "id": "08nnLYItv7w",
+   "title": "Ulrick the Perceiver of Toes"
+  },
+  "29": {
+   "id": "V8m-l4Jtfe0",
+   "title": "Great Actors and Offensive Accents"
+  },
+  "30": {
+   "id": "wfO0GeKjPPE",
+   "title": "The Gang Gets Schooled"
+  },
+  "31": {
+   "id": "5W2iOju2U-o",
+   "title": "Durzo's Quest (F*ck Durzo)"
+  },
+  "32": {
+   "id": "fodAm03pYKE",
+   "title": "Durzo's Quest (F*ck Nate)"
+  },
+  "33": {
+   "id": "6ILAc5zbO4o",
+   "title": "Regards & Riddles (Nate & Lyrials FINAL Regards)"
+  },
+  "34": {
+   "id": "oezSj85AbLw",
+   "title": "DEATH & FIRE"
+  },
+  "35": {
+   "id": "gZdF1k4rDxk",
+   "title": "Durzo Becomes The Emissary Of Death"
+  },
+  "36": {
+   "id": "jV2YDJBHNXg",
+   "title": "Robot's Quest"
+  },
+  "37": {
+   "id": "kymzC5XYz5w",
+   "title": "MORE MODRONS!?"
+  },
+  "38": {
+   "id": "E7Ub6_aZMrA",
+   "title": "Who The F*** Is Gamblok!?"
+  },
+  "39": {
+   "id": "HzS5ENFMxEY",
+   "title": "Prison Breaks & Forced Shankings"
+  },
+  "40": {
+   "id": "VgEWiutXQ5U",
+   "title": "Baby Sitters & Shopping Sprees"
+  },
+  "41": {
+   "id": "b_vPG61G19M",
+   "title": "The Tale of the 80ft Glaive"
+  },
+  "42": {
+   "id": "6mAvvwe9WYY",
+   "title": "MORE SEWERS!? MORE GNOMES!?"
+  },
+  "43": {
+   "id": "9BvwboL4Ke8",
+   "title": "Fiddles Whale Saves The Day"
+  },
+  "44": {
+   "id": "OtXIKnUALH4",
+   "title": "DM Loses His Shit With Poor Innocent Paladin"
+  },
+  "45": {
+   "id": "KtOaK60N_HA",
+   "title": "Muscle Mummys & Horny Heroes"
+  },
+  "46": {
+   "id": "2iQ_dxSkeag",
+   "title": "Durzo REALLY Wants To DIE!"
+  },
+  "47": {
+   "id": "KL5Onk1Mcy8",
+   "title": "The Lore That Time (And The DM) Forgot"
+  },
+  "48": {
+   "id": "VyJBo_CHWjM",
+   "title": "Wasted Potential - D.E.R.E.K. Edition"
+  },
+  "49": {
+   "id": "WsRMrhVdrGU",
+   "title": "Magic Mushrooms & Ancient Airships"
+  },
+  "50": {
+   "id": "G4I3FDHr5gQ",
+   "title": "Plummet Gate The Re-Plummeting"
+  },
+  "51": {
+   "id": "VMN-7OpA-88",
+   "title": "Birds WERE Real This WHOLE Time?!"
+  },
+  "52": {
+   "id": "HwT2vUIzQHM",
+   "title": "New Year New Sewer Arc"
+  },
+  "53": {
+   "id": "CFPsL7U4408",
+   "title": "Sewer Dragons & Gnomish Gnonsense"
+  },
+  "54": {
+   "id": "tyGzMkKFaQk",
+   "title": "Actual Psychopaths Design INSANE Interview Process"
+  },
+  "55": {
+   "id": "ciGKKY5Wars",
+   "title": "Insane Interview Arc Continues & The Return Of B0B"
+  },
+  "56": {
+   "id": "K-K7g8BnXBA",
+   "title": "Spontaneous Surgeries & Troublesome Timey Wimey Tripe"
+  },
+  "57": {
+   "id": "3RTtQzTWd5Y",
+   "title": "Can A 5 Year Old Baby Defeat The God Of Death?"
+  },
+  "58": {
+   "id": "a5xPODUqApw",
+   "title": "D.E.R.E.K.'s Wibbly Wobbly Timey Wimey Arc"
+  },
+  "59": {
+   "id": "LhXCd3y0L24",
+   "title": "D.E.R.E.K.'s Eye Room of One-ness"
+  },
+  "60": {
+   "id": "RXWh_lCW-v8",
+   "title": "Ulrick's True Form Is FINALLY Revealed"
+  }
+ },
+ "reveals": [
+  {
+   "id": "hAqplfs3Maw",
+   "title": "Agni's Reveal"
+  },
+  {
+   "id": "AErOmEJPL4s",
+   "title": "Auril's Reveal"
+  },
+  {
+   "id": "Mouz9zvvnyw",
+   "title": "Nyxara's Reveal"
+  },
+  {
+   "id": "IWhKm2lODgI",
+   "title": "Blibdoolpoolp's Reveal"
+  },
+  {
+   "id": "7yySjcXePR0",
+   "title": "Gaia's Reveal"
+  },
+  {
+   "id": "mAxqcXTBLcY",
+   "title": "Chronos's Reveal"
+  }
+ ],
+ "hymns": [
+  {
+   "id": "gK6JE4c_CxQ",
+   "title": "Agni Flame Eternal"
+  },
+  {
+   "id": "uOMFx1emEf4",
+   "title": "Auril, All Hail!"
+  },
+  {
+   "id": "8-BaVdlNaRo",
+   "title": "Vow to the Veiled Reaper"
+  },
+  {
+   "id": "V9eh9szyaa0",
+   "title": "Doolmara Vask"
+  },
+  {
+   "id": "cxxL_4fjkDY",
+   "title": "Stone & Seed"
+  },
+  {
+   "id": "GukTreJnrUQ",
+   "title": "A Timeless Hymn"
+  }
+ ],
+ "clips": {
+  "RXWh_lCW-v8": {
+   "kind": "video",
+   "title": "Ulrick's True Form Is FINALLY Revealed"
+  },
+  "LhXCd3y0L24": {
+   "kind": "video",
+   "title": "D.E.R.E.K.'s Eye Room of One-ness"
+  },
+  "a5xPODUqApw": {
+   "kind": "video",
+   "title": "D.E.R.E.K.'s Wibbly Wobbly Timey Wimey Arc"
+  },
+  "3RTtQzTWd5Y": {
+   "kind": "video",
+   "title": "Can A 5 Year Old Baby Defeat The God Of Death?"
+  },
+  "K-K7g8BnXBA": {
+   "kind": "video",
+   "title": "Spontaneous Surgeries & Troublesome Timey Wimey Tripe"
+  },
+  "ciGKKY5Wars": {
+   "kind": "video",
+   "title": "Insane Interview Arc Continues & The Return Of B0B"
+  },
+  "tyGzMkKFaQk": {
+   "kind": "video",
+   "title": "Actual Psychopaths Design INSANE Interview Process"
+  },
+  "CFPsL7U4408": {
+   "kind": "video",
+   "title": "Sewer Dragons & Gnomish Gnonsense"
+  },
+  "HwT2vUIzQHM": {
+   "kind": "video",
+   "title": "New Year New Sewer Arc"
+  },
+  "VMN-7OpA-88": {
+   "kind": "video",
+   "title": "Birds WERE Real This WHOLE Time?!"
+  },
+  "WsRMrhVdrGU": {
+   "kind": "video",
+   "title": "Magic Mushrooms & Ancient Airships"
+  },
+  "VyJBo_CHWjM": {
+   "kind": "video",
+   "title": "Wasted Potential - D.E.R.E.K. Edition"
+  },
+  "KL5Onk1Mcy8": {
+   "kind": "video",
+   "title": "The Lore That Time (And The DM) Forgot"
+  },
+  "2iQ_dxSkeag": {
+   "kind": "video",
+   "title": "Durzo REALLY Wants To DIE!"
+  },
+  "KtOaK60N_HA": {
+   "kind": "video",
+   "title": "Session 45 - Muscle Mummys & Horny Heroes"
+  },
+  "9BvwboL4Ke8": {
+   "kind": "video",
+   "title": "Session 43 - Fiddles Whale Saves The Day"
+  },
+  "6mAvvwe9WYY": {
+   "kind": "video",
+   "title": "Session 42 - MORE SEWERS!? MORE GNOMES!?"
+  },
+  "b_vPG61G19M": {
+   "kind": "video",
+   "title": "Session 41 - The Tale of the 80ft Glaive"
+  },
+  "VgEWiutXQ5U": {
+   "kind": "video",
+   "title": "Session 40 - Baby Sitters & Shopping Sprees"
+  },
+  "HzS5ENFMxEY": {
+   "kind": "video",
+   "title": "Session 39 - Prison Breaks & Forced Shankings"
+  },
+  "JJJVMHzCw3Y": {
+   "kind": "video",
+   "title": "Lyrial & Nate Tribute"
+  },
+  "E7Ub6_aZMrA": {
+   "kind": "video",
+   "title": "Session 38 - Who The F*** Is Gamblok!?"
+  },
+  "kymzC5XYz5w": {
+   "kind": "video",
+   "title": "Session 37 - MORE MODRONS!?"
+  },
+  "jV2YDJBHNXg": {
+   "kind": "video",
+   "title": "Session 36 - Robot's Quest"
+  },
+  "gZdF1k4rDxk": {
+   "kind": "video",
+   "title": "Session 35 - Durzo Becomes The Emissary Of Death"
+  },
+  "oezSj85AbLw": {
+   "kind": "video",
+   "title": "Session 34 - DEATH & FIRE"
+  },
+  "cxxL_4fjkDY": {
+   "kind": "video",
+   "title": "Stone & Seed [Hymn]"
+  },
+  "GukTreJnrUQ": {
+   "kind": "video",
+   "title": "A Timeless Hymn [Hymn]"
+  },
+  "V9eh9szyaa0": {
+   "kind": "video",
+   "title": "Doolmara Vask [Hymn]"
+  },
+  "8-BaVdlNaRo": {
+   "kind": "video",
+   "title": "Vow to the Veiled Reaper [Hymn]"
+  },
+  "uOMFx1emEf4": {
+   "kind": "video",
+   "title": "Auril, All Hail! [Hymn]"
+  },
+  "gK6JE4c_CxQ": {
+   "kind": "video",
+   "title": "Agni Flame Eternal [Hymn]"
+  },
+  "Mouz9zvvnyw": {
+   "kind": "video",
+   "title": "Nyxara's Reveal"
+  },
+  "7yySjcXePR0": {
+   "kind": "video",
+   "title": "Gaia's Reveal"
+  },
+  "mAxqcXTBLcY": {
+   "kind": "video",
+   "title": "Chronos's Reveal"
+  },
+  "IWhKm2lODgI": {
+   "kind": "video",
+   "title": "Blibdoolpoolp's Reveal"
+  },
+  "AErOmEJPL4s": {
+   "kind": "video",
+   "title": "Auril's Reveal"
+  },
+  "hAqplfs3Maw": {
+   "kind": "video",
+   "title": "Agni's Reveal"
+  },
+  "uPm1pFOppGg": {
+   "kind": "video",
+   "title": "An AI Summary of Sessions 1-13"
+  },
+  "2BE8ssMFmTs": {
+   "kind": "short",
+   "title": "Nate HILARIOUSLY Somehow Becomes Employed",
+   "pcs": [
+    "nate"
+   ],
+   "mood": "funny",
+   "stars": 3
+  },
+  "qE7xUUdtZiI": {
+   "kind": "short",
+   "title": "Train Tickets From HELL",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "Z9wLX54QcdM": {
+   "kind": "short",
+   "title": "End of Session Loot Results In DYNAMITE Arrows And 1k GOLD",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "wv6r7wvbXGs": {
+   "kind": "short",
+   "title": "Robots Insist On Forms Being Filled In In Triplicate",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "F0gwI0cCP7g": {
+   "kind": "short",
+   "title": "Nate Can't Even Say Aurils Name After He Betrayed Her",
+   "pcs": [
+    "nate"
+   ],
+   "mood": "funny",
+   "stars": 4
+  },
+  "_8HsCvWnU4Q": {
+   "kind": "short",
+   "title": "The Maze And Madness Of Bureaucratic Hell",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "8e6nwQHMhs8": {
+   "kind": "short",
+   "title": "The Team Manages To Escape Bureaucratic Hell",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "8sauX4rOLNk": {
+   "kind": "short",
+   "title": "D.E.R.E.K. Lies About Being In Prison",
+   "pcs": [
+    "derek"
+   ],
+   "mood": "funny",
+   "stars": 4
+  },
+  "ceg3b0-sIDw": {
+   "kind": "short",
+   "title": "The Fateweaver Weaves Durzos Fate",
+   "pcs": [
+    "durzo"
+   ],
+   "mood": "epic",
+   "stars": 4
+  },
+  "sGSjXzhMdhY": {
+   "kind": "short",
+   "title": "The Great Modron March (Every 289 Years!)",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "v9XkNPyyx0I": {
+   "kind": "short",
+   "title": "The Team Is AMAZED By A Stone Wall...",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "LcvpGBdqB4I": {
+   "kind": "short",
+   "title": "MORE FORMS! MORE BUREAUCRACY!",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "lghKIjiCIUc": {
+   "kind": "short",
+   "title": "The Team Breaks Into Prison With Derek To Breakout Derek",
+   "pcs": [
+    "derek"
+   ],
+   "mood": "epic",
+   "stars": 4
+  },
+  "pHWmY818Poc": {
+   "kind": "short",
+   "title": "Gideon Summons An Army To Fight The Fate Eater",
+   "pcs": [
+    "gideon"
+   ],
+   "mood": "epic",
+   "stars": 5
+  },
+  "IuvJfdVlxDE": {
+   "kind": "short",
+   "title": "Some Kind Of Fabulous Sequence",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "lFD_SMH96_0": {
+   "kind": "short",
+   "title": "Why Are These Modrons Terrified Of Derek?",
+   "pcs": [
+    "derek"
+   ],
+   "mood": "funny",
+   "stars": 3
+  },
+  "t5dcv2zuAjo": {
+   "kind": "short",
+   "title": "Durzo Wriggles Around In The Mud Like Rambo",
+   "pcs": [
+    "durzo"
+   ],
+   "mood": "funny",
+   "stars": 4
+  },
+  "WLDHZQZM2PQ": {
+   "kind": "short",
+   "title": "Nates Sacrifice Was ENTIRELY In Vein",
+   "pcs": [
+    "nate"
+   ],
+   "mood": "epic",
+   "stars": 5
+  },
+  "ewvVA7DWWWI": {
+   "kind": "short",
+   "title": "Lyrials Last Stand (He DIES)",
+   "pcs": [
+    "lyrial"
+   ],
+   "mood": "epic",
+   "stars": 5
+  },
+  "G8yQYckbGfo": {
+   "kind": "short",
+   "title": "Nate Rolls Terribly And Tries To Sacrifice Himself",
+   "pcs": [
+    "nate"
+   ],
+   "mood": "epic",
+   "stars": 4
+  },
+  "0Gyq8K1Q0l0": {
+   "kind": "short",
+   "title": "Nate Dies But Gets Better.... Or Does He?",
+   "pcs": [
+    "nate"
+   ],
+   "mood": "epic",
+   "stars": 4
+  },
+  "rmMzuBEsN4g": {
+   "kind": "short",
+   "title": "Two Idiots One Haunted House",
+   "pcs": [
+    "nate",
+    "lyrial"
+   ],
+   "mood": "funny",
+   "stars": 4
+  },
+  "98pmFtWQOtk": {
+   "kind": "short",
+   "title": "Hilarity & Anger After 2 Players DIE",
+   "pcs": [
+    "nate",
+    "lyrial"
+   ],
+   "mood": "funny",
+   "stars": 4
+  },
+  "U5J0IHWOfsY": {
+   "kind": "short",
+   "title": "Task Assigned, Task Forgotten",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "wEHLVTcJcnc": {
+   "kind": "short",
+   "title": "Familiar Figure Files For Felief",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "9C50Nn2_CJw": {
+   "kind": "short",
+   "title": "Hoards And Hordes",
+   "pcs": [],
+   "mood": "epic",
+   "stars": 2
+  },
+  "04n8gdLwiA4": {
+   "kind": "short",
+   "title": "The God Of Death Is The NICEST GOD!?!?",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "tiqEWM60_o4": {
+   "kind": "short",
+   "title": "Is Mori REALLY The God Of Death In Disguise?",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "WkrifOo6b9M": {
+   "kind": "short",
+   "title": "Racist Gnome Finally Finds Out What Its Like",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "Kye2uzDwMw8": {
+   "kind": "short",
+   "title": "How Will They Cross the River",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "VMvPbLNmxqQ": {
+   "kind": "short",
+   "title": "Gnomes Dont Believe In Money!?",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "wanDaUzFVT4": {
+   "kind": "short",
+   "title": "Watch the Frustration Build",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "QtsCKIcr-QQ": {
+   "kind": "short",
+   "title": "Inside Gnome Home",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "c5VlU3IWll4": {
+   "kind": "short",
+   "title": "Gnome Politics and Robot Wars",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 2
+  },
+  "3usfYWpNQ9Q": {
+   "kind": "short",
+   "title": "King Flippy Nibs’ Hilarious Warning",
+   "pcs": [],
+   "mood": "funny",
+   "stars": 3
+  },
+  "-tXoWU8pQ64": {
+   "kind": "short",
+   "title": "When Doppelgangers Strike",
+   "pcs": [],
+   "mood": "epic",
+   "stars": 3
+  },
+  "yF8R9QiOc_I": {
+   "kind": "short",
+   "title": "Secrets of the Ashen Brotherhood",
+   "pcs": [
+    "durzo"
+   ],
+   "mood": "epic",
+   "stars": 3
+  },
+  "rNEtaxbhijE": {
+   "kind": "short",
+   "title": "Meet the Heroes",
+   "pcs": [],
+   "mood": "epic",
+   "stars": 3
+  },
+  "nwWRsyDLqzI": {
+   "kind": "short",
+   "title": "Discovering the Temple of Nyxara",
+   "pcs": [
+    "durzo"
+   ],
+   "mood": "epic",
+   "stars": 4
+  },
+  "mGyrPFM7OLo": {
+   "kind": "short",
+   "title": "Breaking Vows and Prison Breaks",
+   "pcs": [
+    "ulrick"
+   ],
+   "mood": "epic",
+   "stars": 3
+  },
+  "1S1XG0RNuTs": {
+   "kind": "short",
+   "title": "Blowing Up Muttonham Church",
+   "pcs": [],
+   "mood": "epic",
+   "stars": 5
+  },
+  "ICRXFuj3UFk": {
+   "kind": "short",
+   "title": "War of the Gods - Intro"
+  },
+  "GlDD5smr4Pw": {
+   "kind": "short",
+   "title": "Agni Beseeches The Team For Aid",
+   "pcs": [
+    "ulrick",
+    "lyrial"
+   ],
+   "mood": "epic",
+   "stars": 4
+  }
+ }
+}

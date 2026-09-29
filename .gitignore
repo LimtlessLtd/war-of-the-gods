@@ -1,0 +1,63 @@
+# This public repo carries only the campaign website and the guards that keep it
+# that way (scripts/check_public_paths.py). Everything else in the campaign folder
+# stays on this computer: DM notes, handouts, gods, PCs, the Discord export, maps,
+# tokens, Dungeon Alchemist files and the private DM site.
+/*
+!/.gitignore
+!/.gitattributes
+!/.githooks/
+!/.github/
+!/scripts/
+!/Website/
+!/GIT_SETUP.md
+!/CLAUDE.md
+!/LICENSE
+
+# Videos stay on this computer. Case-insensitive patterns apply in every folder.
+# MPEG .ts files are checked by the video hooks so TypeScript files remain usable.
+*.[mM][pP]4
+*.[mM]4[vV]
+*.[mM][oO][vV]
+*.[qQ][tT]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[wW][mM][vV]
+*.[aA][sS][fF]
+*.[fF][lL][vV]
+*.[fF]4[vV]
+*.[mM][pP][eE][gG]
+*.[mM][pP][gG]
+*.[mM][pP][eE]
+*.[mM][pP][vV]
+*.[mM]1[vV]
+*.[mM]2[vV]
+*.[mM]2[pP]
+*.[mM]2[tT]
+*.[mM]2[tT][sS]
+*.[mM][tT][sS]
+*.[vV][oO][bB]
+*.[oO][gG][vV]
+*.3[gG][pP]
+*.3[gG]2
+*.[dD][iI][vV][xX]
+*.[xX][vV][iI][dD]
+*.[rR][mM]
+*.[rR][mM][vV][bB]
+*.[yY][uU][vV]
+*.[hH]264
+*.[hH]265
+*.[hH][eE][vV][cC]
+*.[mM][xX][fF]
+*.[bB][iI][kK]
+*.[bB][kK]2
+*.[rR][oO][qQ]
+# ...except the campaign website's short moment clips (see GIT_SETUP.md).
+!/Website/docs/media/video/S*.mp4
+
+# Local caches and operating-system files
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+Desktop.ini

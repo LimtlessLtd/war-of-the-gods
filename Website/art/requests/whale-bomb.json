@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "whale-bomb",
+  "kind": "moment",
+  "moment_id": "S48-10826",
+  "title": "The adventuring whale bomb",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: inside a vast flooded chamber of an ancient temple of fire, lit by braziers and churning water, an enormous sperm whale looms with its jaws wide open, delighted. In the foreground Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, wearing heavy dark plate armour with bronze-orange pauldrons and a long white cloth tabard over the armour, wielding a long glaive; he is heaving a single wooden barrel of black tar into the whale's open mouth with both arms, his glaive slung on his back. A length of rope trails from the barrel out of the whale's mouth as an improvised fuse. The whale is magically swelling larger, faint golden light rippling over its skin. Tone: heroic and utterly absurd at the same time, played completely straight. Ulrick is the only person in the scene.",
+  "references": [
+    {
+      "path": "PCs/Ulrick.png",
+      "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Ulrick, in plate armour and a white tabard, shoves a barrel of tar with a rope fuse into the open jaws of a swelling sperm whale in a flooded fire temple."
+}

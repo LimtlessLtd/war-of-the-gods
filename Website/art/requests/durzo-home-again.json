@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "durzo-home-again",
+  "kind": "moment",
+  "moment_id": "S34-3598",
+  "title": "It's okay, son. I love you",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a small elven village at dusk on the day it was raided. A seven-year-old child version of Durzo (same silver-white hair and face as the reference, but a small boy) clings sobbing to his father Gren, a broad-shouldered elven blacksmith in a leather apron, in front of their cottage doorway, where his mother Silver, an elven healer, looks on in alarm. Around the corner a horde of orcs with torches is coming. At the edge of the village stands a tall ornate mirror, shimmering. Heartbreaking and tender, epic in scale. Characters: Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour.",
+  "references": [
+    {
+      "path": "PCs/Durzo.png",
+      "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "A young Durzo clings in tears to his father outside their cottage as orcs with torches round the corner, a shimmering mirror waiting at the village edge."
+}

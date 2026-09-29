@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "lethargic-leviathan",
+  "kind": "moment",
+  "moment_id": "S52-7866",
+  "title": "The Lethargic Leviathan",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a cramped, torchlit brick sewer tunnel beneath Fireholm, ankle-deep water, pipes and rubble. Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice, a quiver of arrows on his back. He holds up a spiral conch shell glowing with sea-green magic, looking proud of himself. Out of a swirling watery portal behind him squeezes an enormous sea leviathan, far too big for the space: its vast barnacled head fills the tunnel wall to wall, bricks cracking around it, but its huge eyes are heavy-lidded and drowsy, utterly unbothered, as if it has just been woken from a nap. Scale is the joke: tiny goblin, gigantic sleepy monster, nowhere to stand.",
+  "references": [
+    {
+      "path": "PCs/Fiddle.jpg",
+      "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Fiddle the goblin raises a glowing conch as a gigantic, sleepy-eyed sea leviathan squeezes out of a portal and fills a cramped sewer tunnel."
+}

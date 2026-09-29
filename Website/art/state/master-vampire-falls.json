@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "master-vampire-falls",
+  "status": "failed",
+  "token": "a6e077eed189428ad0124d9b0ddbf5db37effbcbb74d50a5",
+  "request_sha256": "baf859ac9c59896c89b7f65c0e4daaae166a0dcede0151b742f96fb9332702e8",
+  "request": {
+    "schema_version": 1,
+    "id": "master-vampire-falls",
+    "kind": "moment",
+    "moment_id": "S46-5717",
+    "title": "The master vampire falls",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the frozen great hall of Frostfall Fortress at night, frost on the stone, broken banners, moonlight through a high window. Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour, holding a pair of daggers; he has just landed the final blow on a tall, gaunt master vampire in a dark high-collared cloak, which is collapsing and dissolving into shadow and ash. The vampire is half-transparent, as if only Durzo could ever see it. Durzo stands over it, exhausted and bloodied but triumphant. Cold blue light with an ember glow on the blades.",
+    "references": [
+      {
+        "path": "PCs/Durzo.png",
+        "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Durzo, a silver-haired half-elf rogue, stands over a dissolving master vampire in the frozen hall of Frostfall Fortress."
+  },
+  "claimed_at": "2026-09-29T12:59:09+00:00",
+  "reason": "Built-in image generation rejected the output under its violence safety filter (moderation_blocked); no image returned and no retry made.",
+  "failed_at": "2026-09-29T13:00:35+00:00"
+}

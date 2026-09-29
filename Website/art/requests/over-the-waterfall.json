@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "over-the-waterfall",
+  "kind": "moment",
+  "moment_id": "S17-14053",
+  "title": "Over the waterfall",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a blizzard over the Muttonham falls. A great wooden ship packed with Frost Wardens in white armour, frost giants and frost trolls tips over the edge of a thundering waterfall; at the stern Nate rises into the air, grinning, coat flapping. Cliffs, a stone bridge and the town in the distance. Spectacular. Characters: Nate: a human warlock and pirate with long wild red hair and stubble, in a dark navy captain's coat over a loose white shirt.",
+  "references": [
+    {
+      "path": "PCs/DEAD/Nate.jpg",
+      "role": "Character appearance reference for Nate. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "A ship full of Frost Wardens and giants plunges over a waterfall in a blizzard as Nate flies clear, grinning."
+}

@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>War of the Gods</title>
+<meta name="description" content="The War of the Gods campaign: every session, the map, the funniest moments and the Discord chaos, for the players of Aurilia.">
+<meta property="og:title" content="War of the Gods">
+<meta property="og:description" content="Every session, the map, the funniest moments and the Discord chaos.">
+<meta property="og:image" content="media/og.jpg">
+<meta name="theme-color" content="#0C1117">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230C1117'/%3E%3Cpath d='M32 10c6 10 14 14 14 26a14 14 0 0 1-28 0c0-7 4-11 7-15 1 5 3 7 6 8-1-7 0-12 1-19z' fill='%23F0904A'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/style.css?v=202609291547">
+</head>
+<body>
+<header class="hero" id="hero">
+  <div class="hero-art" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="kicker">A campaign chronicle · Sessions 1–60</div>
+    <h1><a href="#/">War of the <span>Gods</span></a></h1>
+    <p class="lede">Fire against ice, shadow and sea and time in between. Everything the heroes of Aurilia have seen, won, lost and blown up, from the docks of Campess Port to the end of time and back. Plus everything the table said while doing it.</p>
+    <div class="stats" id="stats"></div>
+    <nav class="hstrip" id="hstrip" aria-label="The heroes"></nav>
+  </div>
+  <div class="hero-cap" id="hero-cap"></div>
+</header>
+
+<nav class="tabs" aria-label="Site sections">
+  <ul id="tabs">
+    <li><a href="#/" data-v="timeline">Timeline</a></li>
+    <li><a href="#/map" data-v="map">The Map</a></li>
+    <li><a href="#/moments" data-v="moments">Best Moments</a></li>
+    <li><a href="#/art" data-v="art">Painted</a></li>
+    <li><a href="#/quotes" data-v="quotes">Quotes</a></li>
+    <li><a href="#/discord" data-v="discord">The Discord</a></li>
+    <li><a href="#/fallen" data-v="fallen">The Fallen</a></li>
+    <li><a href="#/heroes" data-v="heroes">Heroes</a></li>
+    <li><a href="#/gods" data-v="gods">The Gods</a></li>
+    <li><a href="#/people" data-v="people">People</a></li>
+    <li><a href="#/watch" data-v="watch">Watch</a></li>
+  </ul>
+</nav>
+
+<main class="wrap">
+<section class="view" data-view="timeline" id="v-timeline">
+  <h2>The Timeline</h2>
+  <p class="sub">Every session in order, grouped into chapters and set against the in-game calendar and the real-world dates we played them. Open any session for its best moments and what the Discord was posting that week.</p>
+  <p class="note">The in-game clock was never kept, so every in-game date is reckoned from the story: Day 1 is the landing at Campess Port in the year 1000 of the Age of Frost. Treat the dates as legend, not ledger.</p>
+  <div class="filters" role="group" aria-label="Filter sessions" id="tl-filters">
+    <button type="button" data-f="all" aria-pressed="true">Everything</button>
+    <button type="button" data-f="deaths" aria-pressed="false">Deaths</button>
+    <button type="button" data-f="gods" aria-pressed="false">The gods</button>
+    <button type="button" data-f="battles" aria-pressed="false">Battles</button>
+    <button type="button" data-f="prophecy" aria-pressed="false">Prophecy &amp; time</button>
+    <button type="button" data-f="modrons" aria-pressed="false">Modron bureaucracy</button>
+    <button type="button" data-f="fun" aria-pressed="false">Has best moments</button>
+  </div>
+  <div id="timeline"></div>
+</section>
+
+<section class="view" data-view="session" id="v-session" hidden></section>
+<section class="view" data-view="hero" id="v-hero" hidden></section>
+
+<section class="view" data-view="art" id="v-art" hidden>
+  <h2>Painted Moments</h2>
+  <p class="sub">The table's best moments, painted. Open one to see it large, hear how it actually went down at the table, or jump to its session.</p>
+  <p class="note">These are AI illustrations, made with ChatGPT from the session recordings and the players' own character portraits. More are on the way.</p>
+  <div class="art-grid" id="art-grid"></div>
+</section>
+
+<section class="view" data-view="map" id="v-map" hidden>
+  <h2>The Road So Far</h2>
+  <p class="sub">Drag the slider, or press play, to follow the party across Aurilia one session at a time. Click a place to see everything that happened there.</p>
+  <div class="mapwrap">
+    <div id="leaf" role="application" aria-label="Map of Aurilia"></div>
+    <aside class="mappanel" aria-live="polite">
+      <div class="mp-top">
+        <div class="scrub">
+          <span class="lbl">S1</span>
+          <input type="range" id="mp-range" min="1" max="60" value="1" aria-label="Session">
+          <span class="lbl" id="mp-last">S60</span>
+        </div>
+        <div class="mp-ctl">
+          <button class="btn" id="mp-prev" aria-label="Previous session">‹</button>
+          <button class="btn primary" id="mp-play">▶ Play the journey</button>
+          <button class="btn" id="mp-next" aria-label="Next session">›</button>
+        </div>
+      </div>
+      <div class="mp-body" id="mp-body"></div>
+    </aside>
+  </div>
+</section>
+
+<section class="view" data-view="moments" id="v-moments" hidden>
+  <h2>Best Moments</h2>
+  <p class="sub">The biggest laughs and the biggest swings of the campaign, found by listening for the table losing it. Press play to hear the moment, or jump to it in the full recording.</p>
+  <div class="filters" role="group" aria-label="Kind of moment" id="mo-kinds"></div>
+  <div class="filters" id="mo-filters">
+    <input type="search" id="mo-q" placeholder="Search moments, quotes, names…" aria-label="Search moments">
+    <select id="mo-hero" aria-label="Hero"><option value="">Every hero</option></select>
+    <select id="mo-ch" aria-label="Chapter"><option value="">All chapters</option></select>
+    <button type="button" class="btn" id="mo-rand">🎲 Random moment</button>
+  </div>
+  <div class="moments" id="moments"></div>
+</section>
+
+<section class="view" data-view="quotes" id="v-quotes" hidden>
+  <h2>Quotes</h2>
+  <p class="sub">Things that were actually said at the table. Click a quote to hear it. Anything D.E.R.E.K. claims about time is D.E.R.E.K.'s opinion, not canon.</p>
+  <div class="filters" id="q-filters"></div>
+  <div class="quotes" id="quotes"></div>
+</section>
+
+<section class="view" data-view="discord" id="v-discord" hidden>
+  <h2>Meanwhile, in the Discord</h2>
+  <p class="sub">What the table was posting between sessions, filed under the arc it belongs to.</p>
+  <div class="filters" id="dc-filters"></div>
+  <div id="discord"></div>
+</section>
+
+<section class="view" data-view="fallen" id="v-fallen" hidden>
+<h2>The Fallen</h2>
+  <p class="sub">Heroes who did not make it to the end of the war, and the long list of people and creatures who met the heroes and regretted it.</p>
+
+  <div class="fallen">
+    <article class="grave">
+      <img loading="lazy" src="media/img/p_nate.jpg" alt="Portrait of Nate Wavecrest">
+      <div>
+        <h3>Nathaniel Wavecrest</h3>
+        <p class="epi">Hero of Muttonham. Architect of the waterfall. Last of the Wavecrests.</p>
+        <dl class="facts">
+          <div><dt>Played by</dt><dd>Eugenio</dd></div>
+          <div><dt>Fell</dt><dd>Session 33 · Day 46 · 16th of Wolfmoon</dd></div>
+          <div><dt>Where</dt><dd>A haunted house on Mt Mistmourne</dd></div>
+          <div><dt>Time since landing</dt><dd>46 days</dd></div>
+        </dl>
+        <p>Human warlock, pirate, and one of the last of a sailing dynasty chosen by the Mad Sea Mother. He was marked by Blibdoolpoolp at the river crossing, murdered his way through Campess Port, blew up a church and paid for everybody's beer. At Muttonham he double-crossed Auril herself and sent a ship over the waterfall onto three hundred Frost Wardens, and the whole town chanted his name. Auril's blight crept up his chest after that, and he died once in the Nogratis caves and got better. The second time, walking into a haunted house with Lyrial, he didn't.</p>
+        <div class="s-links"><a href="https://www.youtube.com/watch?v=JJJVMHzCw3Y" target="_blank" rel="noopener">Watch the Lyrial &amp; Nate tribute</a><a href="https://www.youtube.com/shorts/G8yQYckbGfo" target="_blank" rel="noopener">▸ Nate rolls terribly and tries to sacrifice himself</a><a href="https://www.youtube.com/shorts/WLDHZQZM2PQ" target="_blank" rel="noopener">▸ Nate's sacrifice was entirely in vein</a><a href="https://www.youtube.com/shorts/0Gyq8K1Q0l0" target="_blank" rel="noopener">▸ Nate dies but gets better… or does he?</a></div>
+      </div>
+    </article>
+
+    <article class="grave">
+      <img loading="lazy" src="media/img/p_lyrial.jpg" alt="Portrait of Lyrial Thorne">
+      <div>
+        <h3>Lyrial Thorne</h3>
+        <p class="epi">Orphan, smuggler, bard, and Grub's best friend.</p>
+        <dl class="facts">
+          <div><dt>Played by</dt><dd>Chris</dd></div>
+          <div><dt>Fell</dt><dd>Session 33 · Day 46 · 16th of Wolfmoon</dd></div>
+          <div><dt>Where</dt><dd>The same haunted house, beside Nate</dd></div>
+          <div><dt>Time since landing</dt><dd>46 days</dd></div>
+        </dl>
+        <p>An unwanted child from Dryton, raised in a Reeding orphanage, who learned to hide in plain sight moving goods through the docks. He came to Campess Port chasing rumours of an orphan causing havoc. Agni marked him, Grub adored him, and he once spat on Auril's shrine and nearly died of it. He applied to lecture at Nogratis University, disappeared after the jailbreak with only a stone-message left behind, and made his last stand in a house full of ghosts.</p>
+        <div class="s-links"><a href="https://www.youtube.com/watch?v=JJJVMHzCw3Y" target="_blank" rel="noopener">Watch the Lyrial &amp; Nate tribute</a><a href="https://www.youtube.com/shorts/ewvVA7DWWWI" target="_blank" rel="noopener">▸ Lyrial's last stand (he dies)</a><a href="https://www.youtube.com/shorts/rmMzuBEsN4g" target="_blank" rel="noopener">▸ Two idiots, one haunted house</a><a href="https://www.youtube.com/shorts/98pmFtWQOtk" target="_blank" rel="noopener">▸ Hilarity &amp; anger after two players die</a></div>
+      </div>
+    </article>
+
+    <article class="grave">
+      <img loading="lazy" src="media/img/p_gavin.jpg" alt="Portrait of Gavin">
+      <div>
+        <h3>Gavin</h3>
+        <p class="epi">Came to rescue a prisoner. The prisoner killed him. Twice.</p>
+        <dl class="facts">
+          <div><dt>Played by</dt><dd>Graham</dd></div>
+          <div><dt>Fell</dt><dd>Session 39 · Day 55 · 25th of Wolfmoon</dd></div>
+          <div><dt>Where</dt><dd>A pit in Fireholm Prison</dd></div>
+          <div><dt>Time since landing</dt><dd>55 days</dd></div>
+        </dl>
+        <p>A human fighter who joined in Fireholm with one goal: get a certain prisoner out of Fireholm Prison. The prisoner was Fiddle. Gavin turned out to be a bit of a dick, so the team settled it the only way they know, with a pit fight. Fiddle won, resurrected Gavin, and won again. Fiddle's first quest, <i>Saving Private Fiddle</i>, was technically Gavin's last request.</p>
+      </div>
+    </article>
+
+    <article class="grave">
+      <img loading="lazy" src="media/img/p_lan.jpg" alt="Portrait of Lan">
+      <div>
+        <h3>Lan</h3>
+        <p class="epi">Stepped off the boat at Campess Port with the others. Nobody built him a statue.</p>
+        <dl class="facts">
+          <div><dt>Fell</dt><dd>The earliest days, before the tale really began</dd></div>
+          <div><dt>Where</dt><dd>Somewhere near Campess Port</dd></div>
+        </dl>
+        <p>One of the original heroes. The official record describes him only as "lame, and dead". At the table, though, some players say they have fonder memories of Lan than of Lyrial and Nate put together. So here, at last, is his memorial.</p>
+      </div>
+    </article>
+
+    <article class="grave">
+      <div style="width:150px;height:150px;border-radius:50%;border:2px solid var(--line2);display:grid;place-items:center;font-family:var(--display);font-size:64px;color:var(--gaia);background:var(--bg2)" aria-hidden="true">T</div>
+      <div>
+        <h3>Tijuana the Iguana</h3>
+        <p class="epi">A long and stable member of the group.</p>
+        <dl class="facts">
+          <div><dt>Companion of</dt><dd>Ulrick</dd></div>
+          <div><dt>Fell</dt><dd>The airship days</dd></div>
+          <div><dt>Cause</dt><dd>Punched, then thrown off an airship</dd></div>
+        </dl>
+        <p>An iguana from a loot table who lived in the nook between Ulrick's shield and breastplate, head poking over one shoulder, and ate maggots from the magic box. For a while she and a jar of tadpoles served as Nate's proof of identity. Nobody talks about how she ended up over the side, but the table knows who did it.</p>
+      </div>
+    </article>
+  </div>
+
+  <h3 class="group">In memoriam</h3>
+  <div class="gallery">
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_memory.jpg" alt="Memorial poster: In memory of two brave companions, Nate Wavecrest and Lyrial Thorn"><figcaption>Farewell, adventurers</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_mutton.jpg" alt="Front page of The Daily Mutton"><figcaption>The Daily Mutton reports</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_battle.jpg" alt="Nate and Lyrial facing an army of Frost Wardens and ice giants"><figcaption>The Battle of Muttonham</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_church.jpg" alt="A church exploding behind a lone figure"><figcaption>The Muttonham church, Session 12</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_clock.jpg" alt="Lyrial beside the grandfather clock inside a bubble of frozen time"><figcaption>Chronos' clock</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_blib.jpg" alt="Nate standing before the Mad Sea Mother in a snowstorm"><figcaption>Nate and the Mad Sea Mother</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_agni.jpg" alt="Lyrial beneath a towering vision of Agni"><figcaption>Lyrial, marked by Agni</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_spiders.jpg" alt="Fighting giant spiders in Farmer John's field"><figcaption>Farmer John's spiders</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_kids.jpg" alt="Nate casting lightning in a train carriage full of children"><figcaption>Vicious children</figcaption></figure>
+    <figure><img loading="lazy" loading="lazy" src="media/img/g_haunt.jpg" alt="Nate and Lyrial lying still as ghosts swirl around them"><figcaption>The haunted house</figcaption></figure>
+  </div>
+  <p class="note">Tribute artwork from the Lyrial &amp; Nate tribute.</p>
+
+  <h3 class="group">The roll of the dead</h3>
+  <div class="tablewrap"><table class="roll">
+    <thead><tr><th>Who</th><th>When</th><th>How</th></tr></thead>
+    <tbody>
+      <tr><td>Daisy the cow</td><td class="d">S2 · Day 2</td><td>Full of spider eggs. Put down, messily.</td></tr>
+      <tr><td>Gobril the Goblin Mage</td><td class="d">S3 · Day 3</td><td>The goblin camp north of Campess Port.</td></tr>
+      <tr><td>Borgan, Goblin War Chief</td><td class="d">S3 · Day 3</td><td>Same camp, same afternoon.</td></tr>
+      <tr><td>Alaric Voss</td><td class="d">S6 · Day 6</td><td>Frost Warden Inquisitor. Lured into an ambush with two barrels of oil, knocked prone, finished off.</td></tr>
+      <tr><td>Gobgan the Younger</td><td class="d">S7 · Day 8</td><td>The goblin who got away, until the river ruins.</td></tr>
+      <tr><td>Han Jodgeman</td><td class="d">S8 · Day 9</td><td>Proprietor of the Barely Cursed Bazaar. The sandwiches were people.</td></tr>
+      <tr><td>Karen &amp; Kyle</td><td class="d">S9 · Day 11</td><td>Usurpers of the Muttonham Ashen Brotherhood.</td></tr>
+      <tr><td>Warden Steven Highflag</td><td class="d">S11 · Day 13</td><td>Murdered in his own prison. Nate exploded the body.</td></tr>
+      <tr><td>~300 Frost Wardens</td><td class="d">S17 · Day 21</td><td>A ship, a waterfall, and Nate Wavecrest.</td></tr>
+      <tr><td>Jamalathan</td><td class="d">S16–17 · Day 21</td><td>Fell defending Muttonham. Cannonballs were involved, and Nate insists he aimed away.</td></tr>
+      <tr><td>Nate &amp; Lyrial</td><td class="d">S33 · Day 46</td><td>The haunted house on Mt Mistmourne.</td></tr>
+      <tr><td>Mori's cold-room horrors</td><td class="d">S33 · Day 46</td><td>An undead monstrosity and an undead dragon, put down by Durzo and Ulrick.</td></tr>
+      <tr><td>Gavin</td><td class="d">S39 · Day 55</td><td>Pit fight, Fireholm Prison. Killed by Fiddle, resurrected by Fiddle, killed by Fiddle.</td></tr>
+      <tr><td>The sewer tyrant</td><td class="d">S43 · Day 62</td><td>The thing under the inn. A whale was involved.</td></tr>
+      <tr><td>The master vampire</td><td class="d">S46 · Day 69</td><td>Frostfall Fortress. Only Durzo could see it.</td></tr>
+      <tr><td>A gnome in disguise</td><td class="d">S55 · Day 95</td><td>Impersonating D.E.R.E.K. at the docks. B.0.B. took care of it.</td></tr>
+      <tr><td>Thanatos</td><td class="d">S57 · the End</td><td>A new god of a dead future, born from a pit of cauldron-slurry.</td></tr>
+      <tr><td>Time Raider Vortos</td><td class="d">S59 · out of time</td><td>Fell in his own containment test. D.E.R.E.K. then declared him alive in every timeline, which is not how any of this works.</td></tr>
+      <tr><td>Tijuana the Iguana</td><td class="d">The airship days</td><td>Over the side.</td></tr>
+      <tr><td>James Moorecroft</td><td class="d">Unknown</td><td>The real land baron of Campess Port, recorded among the dead.</td></tr>
+    </tbody>
+  </table></div>
+
+</section>
+<section class="view" data-view="heroes" id="v-heroes" hidden>
+<h2>The Heroes</h2>
+  <p class="sub">They started as the Frostfall Four. The roster has changed a lot since then. Open a hero for their top three epic and funny moments, what they said at the table, and their story session by session.</p>
+  <div id="heroes-list"></div>
+
+</section>
+<section class="view" data-view="gods" id="v-gods" hidden>
+<h2>The Gods</h2>
+  <p class="sub">A thousand years ago Auril and Nyxara cast Agni down. Now fire is rising again, and every god wants a champion.</p>
+  <div class="gods">
+    <article class="god" style="--c:var(--agni)"><h3>Agni</h3><div class="dom">The Humble Axeman · Fire, warmth, justice</div>
+      <blockquote>"As frosts thaw. Fires rise. Shadows grow. Tides turn."</blockquote>
+      <p>Revealed himself in Campess Port, Session 6. He marked Ulrick, now his Harbinger of Judgement, and Lyrial. His Scales were stolen ages ago and reclaimed at the source of the Cinderflow. One of his avatars is trapped in the Nimbus Coronet.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=hAqplfs3Maw" target="_blank" rel="noopener">Agni's reveal</a><a href="https://www.youtube.com/watch?v=gK6JE4c_CxQ" target="_blank" rel="noopener">Hymn: Agni Flame Eternal</a></div></article>
+    <article class="god" style="--c:var(--auril)"><h3>Auril</h3><div class="dom">Lady Frostkiss · Ice, winter, tyranny</div>
+      <blockquote>"Pledge yourselves to me, and you will know what it is to rule."</blockquote>
+      <p>The ruler of Aurilia for a thousand years, backed by the Frost Wardens and the Winter's Legion. Nate carried her mark and betrayed her at Muttonham, and paid for it with a creeping blight.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=AErOmEJPL4s" target="_blank" rel="noopener">Auril's reveal</a><a href="https://www.youtube.com/watch?v=uOMFx1emEf4" target="_blank" rel="noopener">Hymn: Auril, All Hail!</a></div></article>
+    <article class="god" style="--c:var(--nyxara)"><h3>Nyxara</h3><div class="dom">The Veiled Shadow · Death, shadow, secrets</div>
+      <blockquote>"All flames will die. All frosts will thaw. All seas will dry."</blockquote>
+      <p>Found in a sealed temple beneath Campess Port. She helped Auril topple Agni, and Auril then betrayed her. She holds Durzo's sister Elara, named Durzo her Emissary, and has asked Agni for an alliance. Gideon carries her mark too.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=Mouz9zvvnyw" target="_blank" rel="noopener">Nyxara's reveal</a><a href="https://www.youtube.com/watch?v=8-BaVdlNaRo" target="_blank" rel="noopener">Hymn: Vow to the Veiled Reaper</a></div></article>
+    <article class="god" style="--c:var(--blib)"><h3>Blibdoolpoolp</h3><div class="dom">The Mad Sea Mother · Madness, sea, chaos</div>
+      <blockquote>"Where is the thrill in the expected?"</blockquote>
+      <p>Revealed herself in the river ruins, Session 7. She has toyed with the Wavecrest family for generations. She marked Nate, and now Fiddle is her chosen, with dice that have twenty-one sides.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=IWhKm2lODgI" target="_blank" rel="noopener">Blibdoolpoolp's reveal</a><a href="https://www.youtube.com/watch?v=V9eh9szyaa0" target="_blank" rel="noopener">Hymn: Doolmara Vask</a></div></article>
+    <article class="god" style="--c:var(--gaia)"><h3>Gaia</h3><div class="dom">Nature's Shepherd · Nature, balance, life</div>
+      <blockquote>"The world is sick. It has lost its balance."</blockquote>
+      <p>She waits to rebuild whatever the war leaves behind. Her druids pointed the team to Mega-Jon, and her embrace marks Gideon, who restored life at the end of time.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=7yySjcXePR0" target="_blank" rel="noopener">Gaia's reveal</a><a href="https://www.youtube.com/watch?v=cxxL_4fjkDY" target="_blank" rel="noopener">Hymn: Stone &amp; Seed</a></div></article>
+    <article class="god" style="--c:var(--chronos)"><h3>Chronos</h3><div class="dom">The Timekeeper · Time, fate, destiny</div>
+      <blockquote>"Let's start at the end. I have seen your deaths."</blockquote>
+      <p>Met by Ulrick and Lyrial aboard a ship frozen in time, beside a grandfather clock that stops the world. His sigil marks the whole party, and the Temporal Anomaly showed them four possible endings.</p>
+      <div class="links"><a href="https://www.youtube.com/watch?v=mAxqcXTBLcY" target="_blank" rel="noopener">Chronos's reveal</a><a href="https://www.youtube.com/watch?v=GukTreJnrUQ" target="_blank" rel="noopener">Hymn: A Timeless Hymn</a></div></article>
+  </div>
+
+  <h3 class="group">The four futures</h3>
+  <p class="sub">What the Fatewatchers inscribed about the Temporal Anomaly, Session 56.</p>
+  <div class="people">
+    <div class="npc"><div class="top"><h4>Snow</h4><span class="st foe">Auril</span></div><p>A thousand more years of winter, unbroken.</p></div>
+    <div class="npc"><div class="top"><h4>Jungle</h4><span class="st">Gaia &amp; the Sea</span></div><p>The oceans rise inland and new life overruns the drowned world. <i>Beware the Scion.</i></p></div>
+    <div class="npc"><div class="top"><h4>Desert</h4><span class="st">All six</span></div><p>Every god grasping for supremacy, and the world itself the battlefield.</p></div>
+    <div class="npc"><div class="top"><h4>Death</h4><span class="st dead">Nyxara</span></div><p>Everyone dead and the gods gone quiet. Even Mori finds it boring.</p></div>
+  </div>
+
+</section>
+<section class="view" data-view="people" id="v-people" hidden>
+<h2>People of Aurilia</h2>
+  <p class="sub">Friends, enemies, and the many people who were both at different times.</p>
+  <h3 class="group">Allies</h3>
+  <div class="people">
+    <div class="npc"><div class="top"><h4>Cassandra Vulx</h4><span class="st">Ashen Brotherhood</span></div><p>Leader of the Campess Port chapter. She first appeared in Durzo's bath. Her aid arrived at Muttonham just when all seemed lost, and she is still in love with Sir Jared.</p></div>
+    <div class="npc"><div class="top"><h4>Sir Jared of Blampsfield</h4><span class="st">Muttonham</span></div><p>Broken out of Muttonham prison in Session 10, and the voice of Muttonham's defiance: "For Muttonham, for Agni, for freedom!"</p></div>
+    <div class="npc"><div class="top"><h4>Michael Flameaxes</h4><span class="st">Ashen Brotherhood</span></div><p>Rebuilding the Fireholm Brotherhood in the sewers. Gave Ulrick the Nimbus Coronet. The man the White Judgement dropped on the deck may not really be him.</p></div>
+    <div class="npc"><div class="top"><h4>Grub the Ethereal</h4><span class="st">Nyxara-touched</span></div><p>A goblin with a magic box and a tunnel network, bonded to Lyrial. He can materialise lost goblin loot.</p></div>
+    <div class="npc"><div class="top"><h4>Mori the Mortuarian</h4><span class="st">Nyxara's</span></div><p>Ferryman and seller of burial plans. He has turned up at the worst moments ever since Mt Mistmourne. Does he have foresight? Has he been round the wheel before?</p></div>
+    <div class="npc"><div class="top"><h4>Astrarius</h4><span class="st">Agni's faithful</span></div><p>The muscular tiefling leader of a nomadic band of Agni worshippers. She retook Frostfall Fortress with the team's help.</p></div>
+    <div class="npc"><div class="top"><h4>Farmer John</h4><span class="st">Campess Port</span></div><p>Lost his animals to spider-things and his legs to a hatchling. He now rolls into town in a wheelchair.</p></div>
+    <div class="npc"><div class="top"><h4>Mega-Jon</h4><span class="st">Gaia's</span></div><p>Tree Jon (blind), Bone Jon (mute) and Water Jon (deaf), combined. He threw his axe away at the Battle of Muttonham and turned up again on the Cinderflow.</p></div>
+    <div class="npc"><div class="top"><h4>King Flippy Nips</h4><span class="st">Guh-Nome-Home</span></div><p>Ruler of a gnome town with chest-high walls. No tall-ees allowed. Be home before tea time.</p></div>
+    <div class="npc"><div class="top"><h4>Teller</h4><span class="st">Fortune teller</span></div><p>Knows everyone's name, takes payment in shoes, shadows and secrets, and sees things nobody wants to hear.</p></div>
+    <div class="npc"><div class="top"><h4>R.E.D. &amp; Vallos</h4><span class="st">D.E.R.E.K.'s family</span></div><p>A red construct brother and the inventor who built them both, living in a sealed lab full of vats.</p></div>
+    <div class="npc"><div class="top"><h4>The crew of the Skycrest</h4><span class="st">Hired hands</span></div><p>Moira Rarius, ex-Frost Warden spy. The Sky Splinters (Brakka, Pike, Mottle Bottle). Three in Accordance, three modrons. The Final Act lurks below.</p></div>
+  </div>
+  <h3 class="group">Enemies</h3>
+  <div class="people">
+    <div class="npc"><div class="top"><h4>Alaric Voss</h4><span class="st dead">† Session 6</span></div><p>Frost Warden Inquisitor of Campess Port, and the first big kill.</p></div>
+    <div class="npc"><div class="top"><h4>Judge Mallory Voss</h4><span class="st foe">Nogratis</span></div><p>Alaric's mother. She convicted Ulrick of everything and mind-probed Lyrial in a cupboard.</p></div>
+    <div class="npc"><div class="top"><h4>Head Teacher Prismari</h4><span class="st foe">Nogratis University</span></div><p>Teleports, hits hard, and gives detention to the wrong paladin.</p></div>
+    <div class="npc"><div class="top"><h4>Lord Mayor Ebonanzzer Spooch</h4><span class="st foe">Fireholm</span></div><p>More interested in wealth than in ruling. Gives the opening speech at the arena.</p></div>
+    <div class="npc"><div class="top"><h4>The White Judgement</h4><span class="st foe">Frost Wardens</span></div><p>A knight on a white dragon who dropped "Michael" on the deck with a threat: "We'll be watching you." His real name is unknown.</p></div>
+    <div class="npc"><div class="top"><h4>The goblin brothers</h4><span class="st dead">† Sessions 3 &amp; 7</span></div><p>Gobril the mage, Borgan the war chief, and Gobgan the Younger, who got away until he didn't.</p></div>
+    <div class="npc"><div class="top"><h4>Han Jodgeman</h4><span class="st dead">† Session 8</span></div><p>Barely cursed items and mystery-meat sandwiches.</p></div>
+    <div class="npc"><div class="top"><h4>Amelia Quinn</h4><span class="st foe">Old enemy</span></div><p>Hated Nate. The feeling was mutual.</p></div>
+    <div class="npc"><div class="top"><h4>Gamblok</h4><span class="st">Modron</span></div><p>A chair-bound administrator of the Concrete Tree. Posture check!</p></div>
+  </div>
+
+</section>
+
+<section class="view" data-view="watch" id="v-watch" hidden>
+  <h2>Watch It Again</h2>
+  <p class="sub">Everything on the Monsters &amp; Morons channel, gathered in one place.</p>
+  <div id="watch"></div>
+</section>
+</main>
+
+<div class="wrap"><footer>
+  Built from the campaign's Foundry world, the session recordings, the Monsters &amp; Morons channel and the Ballers &amp; Bandits Discord. In-game dates are reckoned, quotes are transcribed from the recordings and may be slightly off, and anything the heroes don't know yet has been left out. Last updated 29 September 2026.
+</footer></div>
+
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+  <div class="stage" id="lb-stage"></div>
+  <div class="cap" id="lb-cap"></div>
+  <button class="x" id="lb-x" aria-label="Close">✕</button>
+  <button class="pv" id="lb-pv" aria-label="Previous">‹</button>
+  <button class="nx" id="lb-nx" aria-label="Next">›</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/app.js?v=202609291547"></script>
+</body>
+</html>

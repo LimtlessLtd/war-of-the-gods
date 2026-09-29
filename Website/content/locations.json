@@ -1,0 +1,25 @@
+{
+  "map": {"src": "media/map/aurilia.jpg", "w": 2048, "h": 1536},
+  "locations": [
+    {"id": "campess", "name": "Campess Port", "x": 722, "y": 1348, "blurb": "Where the heroes stepped off the boat. Doppelgangers, goblins, a hidden temple and the first inquisitor to fall."},
+    {"id": "river", "name": "The river road", "x": 752, "y": 1196, "blurb": "A sea hag, a mad sea goddess and the Barely Cursed Bazaar."},
+    {"id": "muttonham", "name": "Muttonham", "x": 664, "y": 1100, "blurb": "Market town, church-free since Session 12. Held against Auril's army."},
+    {"id": "pass", "name": "Nogratis Pass", "x": 1150, "y": 1084, "blurb": "Modron ticket offices, a haunted train and a werewolf dinner party."},
+    {"id": "caves", "name": "The caves under the pass", "x": 1272, "y": 1080, "blurb": "Hugo's shortcut. It was not a shortcut."},
+    {"id": "nogratis", "name": "Nogratis", "x": 1338, "y": 1052, "blurb": "A university town under frost. An enema, a werewolf and a very fair trial."},
+    {"id": "mistmourne", "name": "Mt Mistmourne", "x": 1350, "y": 790, "blurb": "Nyxara's citadel. Two heroes went up and did not come down."},
+    {"id": "swamp", "name": "The swamp below Mt Mistmourne", "x": 1412, "y": 890, "blurb": "A prison full of modrons, and D.E.R.E.K."},
+    {"id": "fireholm", "name": "Fireholm", "x": 1214, "y": 694, "blurb": "Agni's old heart. The Concrete Tree, the Grand Arena and an unreasonable number of sewers."},
+    {"id": "prison", "name": "Fireholm Prison", "x": 1242, "y": 776, "blurb": "Where Fiddle was freed and Gavin was not."},
+    {"id": "frostfall", "name": "Frostfall Fortress", "x": 962, "y": 706, "blurb": "The old Brotherhood outpost on the Cinderflow ravine, and its vampires."},
+    {"id": "cinderflow", "name": "The source of the Cinderflow", "x": 930, "y": 612, "blurb": "Teller, the Floating Sanctuary, Agni's trials and his Scales."},
+    {"id": "skyport", "name": "Fireholm Skyport", "x": 1176, "y": 652, "blurb": "Home berth of the Skycrest."},
+    {"id": "anomaly", "name": "The Temporal Anomaly", "x": 1010, "y": 930, "blurb": "Somewhere between Fireholm and Muttonham, the fog rolled in and time stopped behaving."}
+  ],
+  "session_locations": {
+    "1-6": "campess", "7-8": "river", "9-17": "muttonham", "18-21": "pass", "22-23": "caves",
+    "24-31": "nogratis", "32-35": "mistmourne", "36": "swamp", "37-38": "fireholm", "39": "prison",
+    "40-44": "fireholm", "45-46": "frostfall", "47-49": "cinderflow", "50": "skyport", "51-53": "fireholm",
+    "54-55": "skyport", "56-60": "anomaly"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "gavins-last-fight",
+  "kind": "moment",
+  "moment_id": "S39-8300",
+  "title": "Killed, revived, killed again",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a crude iron cage in the middle of an icy prison yard. Fiddle stands over a fallen human fighter in a plain tunic, dagger in hand, while shocked faces watch through the bars. Grim and darkly comic. Characters: Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice.",
+  "references": [
+    {
+      "path": "PCs/Fiddle.jpg",
+      "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Inside an iron cage in an icy prison, Fiddle stands dagger in hand over a fallen fighter while onlookers gape."
+}

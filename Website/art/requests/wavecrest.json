@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "wavecrest",
+  "kind": "moment",
+  "moment_id": "S17-15012",
+  "title": "Wavecrest! Wavecrest!",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the snowy town square of Muttonham after the battle, smoke rising. A jubilant crowd chants and hoists Nate onto their shoulders while an armoured knight, Sir Jared of Blampsfield, raises his sword in salute. Triumphant. Characters: Nate: a human warlock and pirate with long wild red hair and stubble, in a dark navy captain's coat over a loose white shirt.",
+  "references": [
+    {
+      "path": "PCs/DEAD/Nate.jpg",
+      "role": "Character appearance reference for Nate. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "The people of Muttonham hoist Nate onto their shoulders in the snowy square while a knight salutes."
+}

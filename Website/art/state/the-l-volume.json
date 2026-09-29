@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "the-l-volume",
+  "status": "completed",
+  "token": "c3060b2823a25b3a22aa3ef65eeef969f046099eec001345",
+  "request_sha256": "8d5a12feb45452a45c1aee60f57cfe851eb78494a57ead3e9d4b07daf59654ee",
+  "request": {
+    "schema_version": 1,
+    "id": "the-l-volume",
+    "kind": "moment",
+    "moment_id": "S19-5905",
+    "title": "The L volume of Britannica",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: inside a dim, lamplit passenger carriage of a train stopped dead in a dark mountain tunnel, frost on the windows. Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, wearing heavy dark plate armour with bronze-orange pauldrons and a long white cloth tabard over the armour. He sits on a bench with his sleeve rolled up, a fresh bite mark on his forearm bandaged in cloth, insisting with a stoic face that he is absolutely fine. Beside him, Lyrial: a lean half-elf bard with long brown hair worn in loose braids and beaded locks, green eyes and light stubble, in a worn brown leather coat over an olive jacket and white shirt; he has pulled an enormous, dusty, ancient encyclopedia out of his bag and is flipping through it with a frown of deep concentration, reading the one article that might help. The book is obviously centuries out of date and is the only volume he owns: the only lettering in the whole image is a single large letter L embossed in gold on its spine. Warm lamp glow against the cold blue dark of the tunnel. Understated comedy.",
+    "references": [
+      {
+        "path": "PCs/DEAD/Lyrial.jpeg",
+        "role": "Character appearance reference for Lyrial. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "On a stalled train, Lyrial frowns into a huge dusty encyclopedia volume marked L while Ulrick sits nearby with a bandaged bite, insisting he is fine."
+  },
+  "claimed_at": "2026-09-29T13:56:00+00:00",
+  "output": "art/generated/the-l-volume.png",
+  "sha256": "874cf7e2170e079e89a2f3c47bb0a72bb3815a6b164b7a82c959d05d4fd59162",
+  "format": "png",
+  "completed_at": "2026-09-29T13:57:31+00:00"
+}

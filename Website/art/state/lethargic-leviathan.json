@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "lethargic-leviathan",
+  "status": "completed",
+  "token": "bbac77b77c2c9c5e37647548ba10b228ec80c400b8771f0a",
+  "request_sha256": "4d72fcba28eab5f38d4a33483f2aea4a86a919d4c172236924d0a7d7a772524b",
+  "request": {
+    "schema_version": 1,
+    "id": "lethargic-leviathan",
+    "kind": "moment",
+    "moment_id": "S52-7866",
+    "title": "The Lethargic Leviathan",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a cramped, torchlit brick sewer tunnel beneath Fireholm, ankle-deep water, pipes and rubble. Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice, a quiver of arrows on his back. He holds up a spiral conch shell glowing with sea-green magic, looking proud of himself. Out of a swirling watery portal behind him squeezes an enormous sea leviathan, far too big for the space: its vast barnacled head fills the tunnel wall to wall, bricks cracking around it, but its huge eyes are heavy-lidded and drowsy, utterly unbothered, as if it has just been woken from a nap. Scale is the joke: tiny goblin, gigantic sleepy monster, nowhere to stand.",
+    "references": [
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Fiddle the goblin raises a glowing conch as a gigantic, sleepy-eyed sea leviathan squeezes out of a portal and fills a cramped sewer tunnel."
+  },
+  "claimed_at": "2026-09-29T13:51:51+00:00",
+  "output": "art/generated/lethargic-leviathan.png",
+  "sha256": "ed56195ff57842cf740ddbe3104b94e5c380515ef4520078b16f02b7d4d02524",
+  "format": "png",
+  "completed_at": "2026-09-29T13:53:18+00:00"
+}

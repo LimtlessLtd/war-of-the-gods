@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "elara-at-the-gate",
+  "kind": "moment",
+  "moment_id": "S16-8195",
+  "title": "Elara fights at last",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the besieged town of Muttonham in a blizzard at night, a battered wooden gate and barricades, trolls hammering at the gate, fires burning. Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour, holding a pair of daggers; beside him, summoned for the first time, stands the shadow of his lost sister Elara, a slender figure made of living darkness with faint violet light, a woman's silhouette. Durzo is looking at her with an expression of utter exasperation rather than awe. Epic battle, comedic undertone.",
+  "references": [
+    {
+      "path": "PCs/Durzo.png",
+      "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Durzo fights beside the shadow of his sister Elara at Muttonham's gate in a blizzard, looking deeply unimpressed with her."
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "derek-pulls-the-lever",
+  "status": "completed",
+  "token": "ed81687b3142ceab9de5407fb4aeabb3c141ad151378fe41",
+  "request_sha256": "6f31dd600b5aff89d4d43d61fd0927c7f4bb5afb4a7964c1ce8b72198efdf396",
+  "request": {
+    "schema_version": 1,
+    "id": "derek-pulls-the-lever",
+    "kind": "moment",
+    "moment_id": "S48-6498",
+    "title": "D.E.R.E.K. pulls the lever",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a sealed sarcophagus chamber in Agni's sanctum holding a massive, ominous arcane machine of brass and red crystal, humming with power. D.E.R.E.K. (also called Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, wearing hooded red-and-orange robes decorated with clockwork and clock-face motifs; with total curiosity and no hesitation he is pulling a large lever on the machine. A beam of energy lances out across the chamber towards B.0.B.: a small round brass construct about knee height, with one large eye, red lips and thin spindly clockwork arms and legs, who is standing in exactly the wrong place, arms up. Motion, sparks, a split-second before disaster. Darkly comic.",
+    "references": [
+      {
+        "path": "PCs/Chadron.png",
+        "role": "Character appearance reference for D.E.R.E.K.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "Website/docs/media/img/p_bob.jpg",
+        "role": "Character appearance reference for B.0.B.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "D.E.R.E.K. pulls the lever of a huge arcane machine as its beam fires straight at little B.0.B."
+  },
+  "claimed_at": "2026-09-29T12:53:41+00:00",
+  "output": "art/generated/derek-pulls-the-lever.png",
+  "sha256": "18ff09ad0a9d6fd5d3e10f0b74c0f2b3fa3b71231a727539780ddf22392ed280",
+  "format": "png",
+  "completed_at": "2026-09-29T12:55:07+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "front-door-unlocked",
+  "kind": "moment",
+  "moment_id": "S45-3340",
+  "title": "The front door isn't locked",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the great front gate of Frostfall Fortress, a grim old stone outpost above a ravine of ice, at dusk, snow in the air. Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, wearing heavy dark plate armour with bronze-orange pauldrons and a long white cloth tabard over the armour; he is loaded down like a siege engine: a portable battering ram over one shoulder, a spare ram under his arm, and barrels of oil and tar strapped to his back, ready to blow the place apart. Beside him, Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour; he has simply pushed the huge door with one finger and it is swinging open with a creak, unlocked. He looks back at Ulrick, deadpan. Ulrick's face: disappointment, and a hopeful look at his barrels. Comedy played straight, cold blue dusk with warm torchlight from inside the doorway.",
+  "references": [
+    {
+      "path": "PCs/Ulrick.png",
+      "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    },
+    {
+      "path": "PCs/Durzo.png",
+      "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Ulrick, laden with battering rams and barrels of oil and tar, watches as Durzo pushes the unlocked front gate of Frostfall Fortress open with one finger."
+}

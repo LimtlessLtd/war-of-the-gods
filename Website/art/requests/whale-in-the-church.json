@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "whale-in-the-church",
+  "kind": "moment",
+  "moment_id": "S25-2254",
+  "title": "A sperm whale on the church floor",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: inside a cold stone church in the frost-bound city of Nogratis, pews scattered, icy stained glass. A full-size sperm whale lies beached across the church floor, enormous and bewildered, while a towering ice devil of jagged blue ice rears up on the far side of it. In front of the whale, Nate: a human warlock and pirate with long wild red hair and stubble, wearing a dark navy captain's coat over a loose white shirt with leather straps; he leans back with his arms crossed and a smug grin, as if daring the devil to try him. Comedy played straight, epic scale.",
+  "references": [
+    {
+      "path": "PCs/DEAD/Nate.jpg",
+      "role": "Character appearance reference for Nate. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Nate, a red-haired pirate warlock, stands smugly with arms crossed before a sperm whale beached on a church floor, facing an ice devil."
+}

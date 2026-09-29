@@ -1,0 +1,7212 @@
+[
+ {
+  "s": 14,
+  "t": 2926,
+  "d": 55,
+  "title": "NO TALL-EES: meet the robot guards",
+  "id": "S14-2926",
+  "score": 0.35,
+  "audio": "media/audio/S14-2926.m4a",
+  "cut": "2926+55",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Guh-Nome-Home's robot guards yell \"HALT! No tall-ees!\", stand about three and a half feet tall, and wobble like upturned tortoises when you tip one over.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "It's open, and the robots say: HALT! No tall-ees!"
+   },
+   {
+    "w": "",
+    "x": "How tall are these robots?"
+   },
+   {
+    "w": "DM",
+    "x": "They're a bit taller than the gnomes. About three and a half feet."
+   },
+   {
+    "w": "",
+    "x": "Pick one up and put it on its side and see what happens."
+   },
+   {
+    "w": "DM",
+    "x": "It wobbles around like a tortoise trying to get onto its front again."
+   },
+   {
+    "w": "",
+    "x": "You're getting attacked by bad robots, and this is your defence."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "It wobbles around like a tortoise trying to get onto its front again."
+  }
+ },
+ {
+  "s": 14,
+  "t": 6790,
+  "d": 58,
+  "title": "If it meets, it beats",
+  "id": "S14-6790",
+  "score": 0.34,
+  "audio": "media/audio/S14-6790.m4a",
+  "cut": "6790+58",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ulrick's strength contest with a gnome robot ends in a tie, the table argues over the old \"if it meets, it beats\" rule, and a flat d20 roll-off settles it with a 20.",
+  "lines": [
+   {
+    "w": "",
+    "x": "What happens if they're the same strength?"
+   },
+   {
+    "w": "",
+    "x": "Well, if it meets, it beats, right?"
+   },
+   {
+    "w": "DM",
+    "x": "Whoever wins the D20 wins the strength check."
+   },
+   {
+    "w": "",
+    "x": "Oh, come on, Ulrick, please."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I got a 20!"
+   },
+   {
+    "w": "",
+    "x": "If it meets, it beats!"
+   },
+   {
+    "w": "",
+    "x": "Beep-boop!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "If it meets, it beats!"
+  }
+ },
+ {
+  "s": 14,
+  "t": 12806,
+  "d": 58,
+  "title": "The cheese compass leads to… cheese",
+  "id": "S14-12806",
+  "score": 0.64,
+  "audio": "media/audio/S14-12806.m4a",
+  "cut": "12806+58",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The cheese compass points straight at… cheese. So the cheese gets turned into a healing potion, purely so the compass will point somewhere else.",
+  "lines": [
+   {
+    "w": "",
+    "x": "It's a cheese, though. The cheese compass pointed there."
+   },
+   {
+    "w": "",
+    "x": "No, it's just cheese."
+   },
+   {
+    "w": "",
+    "x": "Alright, I'm going to turn this cheese into a healing potion, and I'll take it."
+   },
+   {
+    "w": "",
+    "x": "Do you want to use the cheese compass again?"
+   },
+   {
+    "w": "",
+    "x": "When I turn this into a potion, we can, because then it won't go to it."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "No, it's just cheese."
+  }
+ },
+ {
+  "s": 15,
+  "t": 3500,
+  "d": 52,
+  "title": "Have you met Stan?",
+  "id": "S15-3500",
+  "score": 0.73,
+  "audio": "media/audio/S15-3500.m4a",
+  "cut": "3500+52",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Asked how to leave the team's service, the answer is \"death, at this point\". Then the awkward introductions: \"Jamalathon, have you met Stan?\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "I was just hoping to leave your service, really."
+   },
+   {
+    "w": "",
+    "x": "I think the only way you're going to leave our service is death at this point."
+   },
+   {
+    "w": "",
+    "x": "We need to talk about Stan."
+   },
+   {
+    "w": "",
+    "x": "Have you introduced Stan to Jamalathan?"
+   },
+   {
+    "w": "",
+    "x": "Jamalathan, have you met Stan?"
+   },
+   {
+    "w": "DM",
+    "x": "Man, fuck off, you pig!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I think the only way you're going to leave our service is death at this point."
+  }
+ },
+ {
+  "s": 15,
+  "t": 4266,
+  "d": 40,
+  "title": "This doesn't go past this room",
+  "id": "S15-4266",
+  "score": 0.53,
+  "audio": "media/audio/S15-4266.m4a",
+  "cut": "4266+40",
+  "pcs": [
+   "durzo",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Something happens that Durzo and Ulrick agree never leaves the room, and definitely never reaches Nate. Sealed with a confused fist bump.",
+  "lines": [
+   {
+    "w": "Durzo",
+    "x": "Well, Ulrick, that was... We don't talk about this. We don't tell Nate none of it. This doesn't go past this room."
+   },
+   {
+    "w": "",
+    "x": "That was epic."
+   },
+   {
+    "w": "DM",
+    "x": "Durzo has a sense of accomplishment from that statement and feels good inside now."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I return the fist bump. Confused, but I return it anyway."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "We don't talk about this. We don't tell Nate none of it. This doesn't go past this room."
+  }
+ },
+ {
+  "s": 15,
+  "t": 9895,
+  "d": 62,
+  "title": "Who's giving the speech?",
+  "id": "S15-9895",
+  "score": 0.32,
+  "audio": "media/audio/S15-9895.m4a",
+  "cut": "9895+62",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "The Muttonham militia turns round for a rousing pre-battle speech, and every single one of them is staring at Durzo.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Who wants to give the speech to the men here? They're all turning around."
+   },
+   {
+    "w": "",
+    "x": "This is awkward as fuck."
+   },
+   {
+    "w": "DM",
+    "x": "Everyone is literally staring at Durzo."
+   },
+   {
+    "w": "Durzo",
+    "x": "Oh, fuck off, John. I'm not talking to you."
+   },
+   {
+    "w": "",
+    "x": "Bye, Durzo!"
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "Oh, fuck off, John. I'm not talking to you."
+  }
+ },
+ {
+  "s": 15,
+  "t": 10135,
+  "d": 75,
+  "title": "Potion round!",
+  "id": "S15-10135",
+  "score": 0.64,
+  "audio": "media/audio/S15-10135.m4a",
+  "cut": "10135+75",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Potion round on the barricades as the army comes into view. A panicked voice on the Stones of Communication spends its words on \"we should all get tattoos if we survive this\".",
+  "lines": [
+   {
+    "w": "",
+    "x": "Potion round. I'm gonna need it."
+   },
+   {
+    "w": "",
+    "x": "Wait until you can see the whites of their eyes."
+   },
+   {
+    "w": "",
+    "x": "It's the Night King!"
+   },
+   {
+    "w": "DM",
+    "x": "You hear a hurried voice coming in on the stone: guys, we should all get tattoos if we survive this."
+   },
+   {
+    "w": "DM",
+    "x": "You now can't use that stone for the entire time."
+   },
+   {
+    "w": "",
+    "x": "It's wasted a stone!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Guys, we should all get tattoos if we survive this."
+  }
+ },
+ {
+  "s": 15,
+  "t": 13560,
+  "d": 40,
+  "title": "PvP enabled",
+  "id": "S15-13560",
+  "score": 0.15,
+  "audio": "media/audio/S15-13560.m4a",
+  "cut": "13560+40",
+  "pcs": [
+   "nate",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Nate's attack wipes out a whole pack of enemies, 34 damage each, and Elara's shadow with them. \"What is Nate doing?\" PvP is apparently enabled.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "These guys each take 34 damage, including Elara's shadow. They're all dead."
+   },
+   {
+    "w": "",
+    "x": "What the fuck is Nate doing?"
+   },
+   {
+    "w": "",
+    "x": "The moment I set PvP is fucking enabled."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "What the fuck is Nate doing?"
+  }
+ },
+ {
+  "s": 16,
+  "t": 5745,
+  "d": 40,
+  "title": "We agreed on one ballista",
+  "id": "S16-5745",
+  "score": 0.45,
+  "audio": "media/audio/S16-5745.m4a",
+  "cut": "5745+40",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ulrick insists he can work a ballista with one arm and hold his glaive in the other, because \"we agreed\". Nobody else remembers agreeing.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "I've only got a ballista in one arm, and I've got a glaive in the other."
+   },
+   {
+    "w": "Ulrick",
+    "x": "We agreed. I can have one ballista."
+   },
+   {
+    "w": "DM",
+    "x": "No, you agreed that with yourself. What I agreed was, a ballista takes two hands."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Durzo's dead. I've killed him, just now, to win this argument."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "No, you agreed that with yourself."
+  }
+ },
+ {
+  "s": 16,
+  "t": 7388,
+  "d": 34,
+  "title": "I didn't even have to sabotage that one",
+  "id": "S16-7388",
+  "score": 0.56,
+  "audio": "media/audio/S16-7388.m4a",
+  "cut": "7388+34",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Nobody gave Sir Jared any orders, so he's been standing by the flag doing nothing, and the defenders' morale starts to waver. The DM didn't even have to sabotage that one.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Where is Sir Jared?"
+   },
+   {
+    "w": "DM",
+    "x": "By the flag. He's doing nothing. You haven't told him to do anything."
+   },
+   {
+    "w": "",
+    "x": "Has John done anything?"
+   },
+   {
+    "w": "",
+    "x": "I didn't even have to sabotage that one."
+   },
+   {
+    "w": "DM",
+    "x": "So they're going to start wavering, team."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I didn't even have to sabotage that one."
+  }
+ },
+ {
+  "s": 16,
+  "t": 8195,
+  "d": 50,
+  "title": "Elara, you're useless",
+  "id": "S16-8195",
+  "score": 0.89,
+  "audio": "media/audio/S16-8195.m4a",
+  "cut": "8195+50",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Durzo's long-lost sister Elara finally fights at his side against the trolls, and the verdict is instant: \"You're fucking useless. What can you even do?\"",
+  "lines": [
+   {
+    "w": "Durzo",
+    "x": "Elara, you're fucking useless. Jesus Christ. What can you even do?"
+   },
+   {
+    "w": "",
+    "x": "Has anybody died in the vicinity of Elara?"
+   },
+   {
+    "w": "",
+    "x": "One of the trolls did."
+   },
+   {
+    "w": "",
+    "x": "Can I use speak with the dead on one of the dead trolls?"
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "Elara, you're fucking useless. Jesus Christ. What can you even do?"
+  }
+ },
+ {
+  "s": 16,
+  "t": 12226,
+  "d": 55,
+  "title": "Nate's five-mile boat trip",
+  "id": "S16-12226",
+  "score": 0.47,
+  "audio": "media/audio/S16-12226.m4a",
+  "cut": "12226+55",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Nate's plan needs the ship at the waterfall, three turns at full sail. The waterfall is five miles away, and it has been on the Muttonham map the whole time.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "So let's say three turns, you'll be at the waterfall."
+   },
+   {
+    "w": "",
+    "x": "Oh my fucking god."
+   },
+   {
+    "w": "DM",
+    "x": "But it's five miles away."
+   },
+   {
+    "w": "Nate",
+    "x": "Did you tell me that when I was fighting?"
+   },
+   {
+    "w": "DM",
+    "x": "You all knew it. It's been on the Muttonham map forever."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "It's been on the Muttonham map forever."
+  }
+ },
+ {
+  "s": 16,
+  "t": 12924,
+  "d": 52,
+  "title": "What have the gods ever done for us?",
+  "id": "S16-12924",
+  "score": 0.58,
+  "audio": "media/audio/S16-12924.m4a",
+  "cut": "12924+52",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Mid-siege theology: what have the gods ever done for us? The DM reminds them, starting with a god who heals for free and a clock that stopped time. So where is the clock, Nate?",
+  "lines": [
+   {
+    "w": "",
+    "x": "Oh my god, such OP fucking characters, Fabian."
+   },
+   {
+    "w": "DM",
+    "x": "Well, maybe you shouldn't piss off the god that rules the realm, huh?"
+   },
+   {
+    "w": "",
+    "x": "What do our gods do for us? They tell us to go do this shit. Where the fuck are they?"
+   },
+   {
+    "w": "",
+    "x": "They tried to give you a clock which stopped time! And where's that, huh?"
+   },
+   {
+    "w": "Nate",
+    "x": "Well, my god told me to blow it up."
+   },
+   {
+    "w": "DM",
+    "x": "I gave you a god that heals you! It's a bonus action to heal people for free!"
+   }
+  ],
+  "quote": {
+   "w": "Nate",
+   "x": "Well, my god told me to blow it up."
+  }
+ },
+ {
+  "s": 17,
+  "t": 6639,
+  "d": 46,
+  "title": "We should just play League",
+  "id": "S17-6650",
+  "score": 0.18,
+  "audio": "media/audio/S17-6650.m4a",
+  "cut": "6639+46",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 1,
+  "blurb": "Somewhere in the final battle the table slides into League of Legends trash talk. \"Where's our jungler?\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Why are you no gank?"
+   },
+   {
+    "w": "",
+    "x": "I'm fighting under tower by myself."
+   },
+   {
+    "w": "",
+    "x": "Where's our jungler?"
+   },
+   {
+    "w": "",
+    "x": "Jungle diff."
+   },
+   {
+    "w": "",
+    "x": "We should just play League."
+   },
+   {
+    "w": "",
+    "x": "New champ and everything."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "We should just play League."
+  },
+  "art_idea": "The Muttonham siege drawn as a MOBA minimap, with barricades as towers, Frost Wardens marching down three lanes and an empty 'JUNGLER' slot where Durzo should be."
+ },
+ {
+  "s": 17,
+  "t": 10349,
+  "d": 70,
+  "title": "Math metagaming",
+  "id": "S17-10362",
+  "score": 0.29,
+  "audio": "media/audio/S17-10362.m4a",
+  "cut": "10349+70",
+  "pcs": [
+   "durzo",
+   "lyrial",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "It turns out Durzo's knife has been in the oil barrel all along, Lyrial's alchemist fire is the spark, and it was all Nate's plan. Is maths metagaming? The DM threatens to restart the siege.",
+  "lines": [
+   {
+    "w": "",
+    "x": "What you didn't know is that when Durzo was picked up by John, he flung his secondary knife into the barrel and it's been leaking ever since. That entire area is now covered in oil."
+   },
+   {
+    "w": "",
+    "x": "We don't know, we're all following Nate's plan."
+   },
+   {
+    "w": "",
+    "x": "How much meta-gaming is too much meta-gaming?"
+   },
+   {
+    "w": "",
+    "x": "You'll notice we're not meta-gaming because we haven't done any math."
+   },
+   {
+    "w": "",
+    "x": "Is math meta-gaming?"
+   },
+   {
+    "w": "DM",
+    "x": "You know what? I'm starting the campaign again."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "You'll notice we're not meta-gaming because we haven't done any math."
+  },
+  "art_idea": "Durzo, dangling from a giant's fist, flicks a knife into an oil barrel, and the oil spreads across the snowy street to a cannon while the party proudly points at a scribbled chalkboard labelled 'NATE'S PLAN'."
+ },
+ {
+  "s": 17,
+  "t": 14053,
+  "d": 215,
+  "title": "Over the waterfall",
+  "id": "S17-14053",
+  "score": 0,
+  "pcs": [
+   "nate"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Nate steers a ship full of Frost Wardens, giants and trolls towards the Muttonham waterfall. It do go down.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "You're basically 100 metres from it."
+   },
+   {
+    "w": "Nate",
+    "x": "I want to look them both directly in the eyes and say: peace out, bitches."
+   },
+   {
+    "w": "Nate",
+    "x": "I'm not even gonna fly away. I'm just gonna fly up, so the boat drifts out from under me."
+   },
+   {
+    "w": "DM",
+    "x": "They rolled 28, and they've done 30 damage to you."
+   },
+   {
+    "w": "Nate",
+    "x": "So I just take a cannonball to the back."
+   },
+   {
+    "w": "DM",
+    "x": "The first couple are gonna start having a seizure, and the rest are gonna be like: oh fuck, we fucked up, boys."
+   },
+   {
+    "w": "DM",
+    "x": "It do go down."
+   }
+  ],
+  "audio": "media/audio/S17-14053.m4a",
+  "cut": "14053+215",
+  "quote": {
+   "w": "Nate",
+   "x": "Peace out, bitches."
+  }
+ },
+ {
+  "s": 17,
+  "t": 15012,
+  "d": 180,
+  "title": "Wavecrest! Wavecrest!",
+  "id": "S17-15012",
+  "score": 0,
+  "pcs": [
+   "nate"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Muttonham stands. The town chants his name, and Sir Jared calls Nate the architect of the victory.",
+  "lines": [
+   {
+    "w": "Sir Jared",
+    "x": "People of Muttonham, look around you. Look at your homes, your families, your town."
+   },
+   {
+    "w": "Sir Jared",
+    "x": "Perhaps ruined, perhaps broken, yet still standing, still living, and still thriving."
+   },
+   {
+    "w": "Sir Jared",
+    "x": "Among them, one name rises above the rest. Wavecrest."
+   },
+   {
+    "w": "DM",
+    "x": "And the crowd continues to chant: Wavecrest! Wavecrest!"
+   },
+   {
+    "w": "Sir Jared",
+    "x": "You are the architect of our victory, and we owe you a debt we can never repay."
+   },
+   {
+    "w": "DM",
+    "x": "Not even with a ship, he whispers under his breath."
+   },
+   {
+    "w": "Sir Jared",
+    "x": "Lyrial, Durzo, Ulrick: you held the line when it mattered most."
+   },
+   {
+    "w": "Sir Jared",
+    "x": "Muttonham stands because of you. All of you. Thank you."
+   }
+  ],
+  "audio": "media/audio/S17-15012.m4a",
+  "cut": "15012+180",
+  "quote": {
+   "w": "Sir Jared",
+   "x": "You are the architect of our victory."
+  }
+ },
+ {
+  "s": 17,
+  "t": 16070,
+  "d": 67,
+  "title": "Kneel, Nate",
+  "id": "S17-16085",
+  "score": 0.17,
+  "audio": "media/audio/S17-16085.m4a",
+  "cut": "16070+67",
+  "pcs": [
+   "ulrick",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ulrick orders Nate, Auril's mark spreading up his body, to kneel. He walks round behind him with his glaive… and then just leaves him kneeling there.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "I'm gonna go round behind Nate. If you just kneel here."
+   },
+   {
+    "w": "DM",
+    "x": "You're just gonna chop him up for fun?"
+   },
+   {
+    "w": "Ulrick",
+    "x": "I'm making him, I told him to kneel and I'm going behind him with my glaive. I'm not actually gonna do anything. I'm gonna walk off while he's knelt down on the floor."
+   },
+   {
+    "w": "Nate",
+    "x": "I'm ready now. Do your thing Ulrick."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Ulrick's gone. I mean you'll hear him leave. I'm not stealthy."
+   },
+   {
+    "w": "Durzo",
+    "x": "I actually wouldn't mind killing you."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "I'm not actually gonna do anything. I'm gonna walk off while he's knelt down on the floor."
+  },
+  "art_idea": "Nate kneels solemnly on a stone floor with his eyes shut, bracing for the killing blow, while Ulrick strolls off in the background with his glaive over his shoulder and Durzo creeps up from the shadows with a dagger."
+ },
+ {
+  "s": 18,
+  "t": 1398,
+  "d": 32,
+  "title": "Arm Strike",
+  "id": "S18-1398",
+  "score": 0.15,
+  "audio": "media/audio/S18-1398.m4a",
+  "cut": "1398+32",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Someone's character sheet has had Unarmed Strike renamed to \"Arm Strike\" for who knows how long. It's being changed back. Probably.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Did you rename Arm Strike from Unarmed Strike?"
+   },
+   {
+    "w": "",
+    "x": "I don't think so."
+   },
+   {
+    "w": "",
+    "x": "If I did, then it's fucking hilarious."
+   },
+   {
+    "w": "",
+    "x": "Every time I was reading it I was like, why is it Arm Strike? It's supposed to be non-lethal."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Why is it Arm Strike? It's supposed to be non-lethal."
+  }
+ },
+ {
+  "s": 18,
+  "t": 2071,
+  "d": 46,
+  "title": "An average-sized ship in a bottle",
+  "id": "S18-2071",
+  "score": 0.15,
+  "audio": "media/audio/S18-2071.m4a",
+  "cut": "2071+46",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Nate's ship in a bottle is a tiny home that fits in a pocket, and he would like everyone to know that four inches is an average-sized ship in a bottle.",
+  "lines": [
+   {
+    "w": "",
+    "x": "It's literally a ship in a bottle. You can put it in your pocket."
+   },
+   {
+    "w": "",
+    "x": "Oh, is it that small?"
+   },
+   {
+    "w": "Nate",
+    "x": "Well, it's not tiny. It's of a normal size."
+   },
+   {
+    "w": "",
+    "x": "And then you can jump into your tiny home."
+   },
+   {
+    "w": "Nate",
+    "x": "I'll have you know that four inches for a ship in a bottle is an average-sized ship in a bottle."
+   },
+   {
+    "w": "",
+    "x": "Touché."
+   }
+  ],
+  "quote": {
+   "w": "Nate",
+   "x": "I'll have you know that four inches for a ship in a bottle is an average-sized ship in a bottle."
+  }
+ },
+ {
+  "s": 18,
+  "t": 5577,
+  "d": 56,
+  "title": "My name is Stefan",
+  "id": "S18-5577",
+  "score": 0.78,
+  "audio": "media/audio/S18-5577.m4a",
+  "cut": "5577+56",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Proof of identity at the Nogratis Pass station: \"My name is Stefan.\" Does he have anything to prove it? He has a birth certificate. Would you like a birth certificate?",
+  "lines": [
+   {
+    "w": "Nate",
+    "x": "My name is Stefan."
+   },
+   {
+    "w": "DM",
+    "x": "Do you have anything to prove that your name is Stefan?"
+   },
+   {
+    "w": "Nate",
+    "x": "Oh, I've got a birth certificate. Would you like a birth certificate?"
+   },
+   {
+    "w": "DM",
+    "x": "Yeah. That'd be great. Thank you."
+   },
+   {
+    "w": "Nate",
+    "x": "But no, I kind of needed to get back."
+   },
+   {
+    "w": "DM",
+    "x": "You shouldn't have offered it then, should you really?"
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "You shouldn't have offered it then, should you really?"
+  }
+ },
+ {
+  "s": 18,
+  "t": 7765,
+  "d": 50,
+  "title": "Proof of identity: one iguana",
+  "id": "S18-7765",
+  "score": 0.15,
+  "audio": "media/audio/S18-7765.m4a",
+  "cut": "7765+50",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Asked for documents proving he is Nathaniel Wavecrest, Nate presents an iguana with his initials on it, then a jar of tadpoles with his initials on the lid.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "What is your name?"
+   },
+   {
+    "w": "Nate",
+    "x": "Nathaniel Wavecrest."
+   },
+   {
+    "w": "DM",
+    "x": "May I see documentation that proves this is your name?"
+   },
+   {
+    "w": "Nate",
+    "x": "Look. I'm going to point to my iguana with my initials on it."
+   },
+   {
+    "w": "Nate",
+    "x": "And I'm going to show my jar of tadpoles with my initials on top of the lid as well."
+   }
+  ],
+  "quote": {
+   "w": "Nate",
+   "x": "Look. I'm going to point to my iguana with my initials on it."
+  }
+ },
+ {
+  "s": 18,
+  "t": 9853,
+  "d": 30,
+  "title": "We all enjoy complying",
+  "id": "S18-9853",
+  "score": 0.4,
+  "audio": "media/audio/S18-9853.m4a",
+  "cut": "9853+30",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The modrons cheer for compliance (\"we all enjoy complying!\"), and the team leave them a helpful parting suggestion: more chains of command.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Complying is the best. We all enjoy complying, don't we?"
+   },
+   {
+    "w": "DM",
+    "x": "They all cheer."
+   },
+   {
+    "w": "",
+    "x": "I think you could probably do with more chains of command, to be honest."
+   },
+   {
+    "w": "DM",
+    "x": "Good thinking. I'll pass that on."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Complying is the best. We all enjoy complying, don't we?"
+  }
+ },
+ {
+  "s": 19,
+  "t": 1625,
+  "d": 67,
+  "title": "Ulrick menaces the children",
+  "id": "S19-1625",
+  "score": 0.51,
+  "audio": "media/audio/S19-1625.m4a",
+  "cut": "1625+67",
+  "pcs": [
+   "ulrick",
+   "lyrial"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Ulrick's aura of conquest menaces everything within ten feet, including the circus children, who recoil as he walks past. Meanwhile Lyrial is quietly collecting special cogs.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Ulrick has a permanent aura of conquest around him."
+   },
+   {
+    "w": "DM",
+    "x": "Are you going to conquer the children, are you? What is that?"
+   },
+   {
+    "w": "Ulrick",
+    "x": "I constantly emanate a menacing aura. For ten feet around me and everything."
+   },
+   {
+    "w": "DM",
+    "x": "Okay, well the children are all menaced then, they're all..."
+   },
+   {
+    "w": "Ulrick",
+    "x": "The children are recoiling in fear around when I walk past."
+   },
+   {
+    "w": "DM",
+    "x": "Yeah, I mean they're usually they're happy and playing and then you just..."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "I constantly emanate a menacing aura. For ten feet around me and everything."
+  },
+  "art_idea": "Ulrick in full plate looms down a cosy circus train carriage while crayon-drawing children scatter and hide behind the curtains in terror."
+ },
+ {
+  "s": 19,
+  "t": 2365,
+  "d": 61,
+  "title": "Lyrial's smuggler song (cut short)",
+  "id": "S19-2372",
+  "score": 0.3,
+  "audio": "media/audio/S19-2372.m4a",
+  "cut": "2365+61",
+  "pcs": [
+   "lyrial"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Lyrial treats the circus dinner to a smuggler's ballad while Ulrick is too busy eating, until his audio cuts out mid-verse.",
+  "quote": {
+   "w": "Lyrial",
+   "x": "I sell what's forbidden, I carry what is cursed. In the trade of the hidden, I'm always immersed."
+  },
+  "lines": [
+   {
+    "w": "",
+    "x": "Over to Ulrick!"
+   },
+   {
+    "w": "Ulrick",
+    "x": "I'm too focused, I'm too focused on eating."
+   },
+   {
+    "w": "",
+    "x": "I sell what's forbidden, I carry what is cursed, in the trade of the hidden I'm always immersed."
+   },
+   {
+    "w": "",
+    "x": "Oh, the life of a smuggler, swift as the breeze, silent as shadows among the trees from the mountains."
+   },
+   {
+    "w": "",
+    "x": "He just died"
+   },
+   {
+    "w": "",
+    "x": "I bet he's singing"
+   }
+  ],
+  "art_idea": "A bard standing on the dining-car table belting a smuggler shanty to a cheering circus crowd while Ulrick keeps shovelling food into his mouth, ignoring it all."
+ },
+ {
+  "s": 19,
+  "t": 2622,
+  "d": 62,
+  "title": "The fish was one of our performers",
+  "id": "S19-2624",
+  "score": 0.23,
+  "audio": "media/audio/S19-2624.m4a",
+  "cut": "2622+62",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Lucy (hyphen Circus Lady) mentions that the fish everyone is eating was actually one of the circus performers. A werefish.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "My name is Lucy, not Circus Lady. Lucy hyphen Circus Lady."
+   },
+   {
+    "w": "DM",
+    "x": "Exactly. You know, this fi- she takes a bite of the fish."
+   },
+   {
+    "w": "DM",
+    "x": "This fish that we're eating, that was actually one of our performers."
+   },
+   {
+    "w": "",
+    "x": "Delicious."
+   },
+   {
+    "w": "",
+    "x": "Were they a were fish?"
+   },
+   {
+    "w": "DM",
+    "x": "They were a were fish."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "This fish that we're eating, that was actually one of our performers."
+  },
+  "art_idea": "A sequined circus lady happily bites into a fish on the dining car while a tiny spotlight and a ringmaster's hat sit on the plate beside it, and Ulrick spits his mouthful back out in horror."
+ },
+ {
+  "s": 19,
+  "t": 5908,
+  "d": 50,
+  "title": "The L volume of Britannica",
+  "id": "S19-5905",
+  "score": 0.51,
+  "audio": "media/audio/S19-5905.m4a",
+  "cut": "5908+50",
+  "pcs": [
+   "lyrial",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Is Ulrick fine after that bite? Lyrial consults the only reference he has: an encyclopedia 500 years out of date, and only the L volume.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Lyrial, do a Google check."
+   },
+   {
+    "w": "",
+    "x": "Oh my god!"
+   },
+   {
+    "w": "Ulrick",
+    "x": "Guys, I'm fine!"
+   },
+   {
+    "w": "DM",
+    "x": "Well, maybe he is fine, actually. I'll have to work out how to fucking do this now, Jesus."
+   },
+   {
+    "w": "DM",
+    "x": "Lyrial's pulled out the Encyclopedia Britannica out of his bag, and he's just reading an old score on the encyclopedia. It's like 500 years out of date"
+   },
+   {
+    "w": "",
+    "x": "He's only bought the L version of..."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Lyrial's pulled out the Encyclopedia Britannica out of his bag... It's like 500 years out of date."
+  },
+  "art_idea": "Lyrial flips through a huge dusty encyclopedia volume with a big 'L' on the spine, reading aloud next to a worried Ulrick who has a fresh bite on his arm."
+ },
+ {
+  "s": 19,
+  "t": 11580,
+  "d": 74,
+  "title": "Were-pigs",
+  "id": "S19-11591",
+  "score": 0.26,
+  "audio": "media/audio/S19-11591.m4a",
+  "cut": "11580+74",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "A deep dive into lycanthropy: pigs bitten by a were-human become were-humans, which is like werewolves in reverse. Is Ulrick definitely not a werewolf now? Pending DM confirmation.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "They just, they happened to be pigs, they were pigs normally and they got bitten by a human, a were-human, so they were were-humans, but..."
+   },
+   {
+    "w": "DM",
+    "x": "It's like, you know, how, it's like how were-wolves work, but in reverse."
+   },
+   {
+    "w": "",
+    "x": "Do they only turn on nights that aren't a full moon?"
+   },
+   {
+    "w": "",
+    "x": "Even worse! 29 times worse!"
+   },
+   {
+    "w": "DM",
+    "x": "I don't make the rules, man, I'm just..."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Am I definitely not a were-wolf now? Is that what you've established?"
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "They were pigs normally and they got bitten by a human, a were-human, so they were were-humans."
+  },
+  "art_idea": "Under a full moon, a pig in a farmyard painfully turns into a confused, portly man in overalls while the other pigs stare in horror."
+ },
+ {
+  "s": 20,
+  "t": 2413,
+  "d": 68,
+  "title": "Reading the mind of a man commanded to open a door",
+  "id": "S20-2413",
+  "score": 0.96,
+  "audio": "media/audio/S20-2413.m4a",
+  "cut": "2413+68",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "One hero Commands a man to open the door while another reads his mind at the same moment. His innermost thoughts, in full: \"I must open the door.\"",
+  "lines": [
+   {
+    "w": "Nate",
+    "x": "I'm gonna say open."
+   },
+   {
+    "w": "",
+    "x": "At the same time, can I use Medallion of Thoughts to try and detect his thoughts?"
+   },
+   {
+    "w": "DM",
+    "x": "I must open, I must, that's all he's thinking now, I must open the door."
+   },
+   {
+    "w": "DM",
+    "x": "Yeah, Command basically does turn him into a robot and you've decided to read his mind while he's a robot."
+   },
+   {
+    "w": "",
+    "x": "No, I didn't like the answer, I'm not gonna do that."
+   },
+   {
+    "w": "",
+    "x": "Metagaming!"
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Command basically does turn him into a robot and you've decided to read his mind while he's a robot."
+  },
+  "art_idea": "A stiff gnome with spiral eyes stands in front of a barricaded train door, and his thought bubble reads only 'OPEN. DOOR. OPEN. DOOR.' while an adventurer presses a glowing medallion to his head, looking let down."
+ },
+ {
+  "s": 20,
+  "t": 2685,
+  "d": 48,
+  "title": "Realising my mistake, I turn invisible",
+  "id": "S20-2697",
+  "score": 0.16,
+  "audio": "media/audio/S20-2697.m4a",
+  "cut": "2685+48",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "\"DM, are we able to kill this in one turn?\" \"That's not a question you should be asking now.\" Realising the mistake, the culprit turns invisible and slips away.",
+  "lines": [
+   {
+    "w": "",
+    "x": "DM, are we able to kill this in one turn?"
+   },
+   {
+    "w": "DM",
+    "x": "That's not a question you should be asking now."
+   },
+   {
+    "w": "Nate",
+    "x": "Realising my fuck up, I'm going to turn invisible. I'm going to step away."
+   },
+   {
+    "w": "",
+    "x": "Have you just unleashed a fucking..."
+   },
+   {
+    "w": "",
+    "x": "I'm dying and I'm going to push past these gnomes."
+   },
+   {
+    "w": "",
+    "x": "Oh, for fuck's sake."
+   }
+  ],
+  "quote": {
+   "w": "Nate",
+   "x": "Realising my fuck up, I'm going to turn invisible. I'm going to step away."
+  },
+  "art_idea": "A huge monster bursts out of a shattered orb inside a cramped train carriage while the horrified party looks on, and a see-through Nate tiptoes out of frame with a guilty grin."
+ },
+ {
+  "s": 20,
+  "t": 8403,
+  "d": 44,
+  "title": "The old Durzo manoeuvre",
+  "id": "S20-8412",
+  "score": 0.67,
+  "audio": "media/audio/S20-8412.m4a",
+  "cut": "8403+44",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Durzo misses everything and doesn't bother summoning Elara with his bonus action. The table has a name for it: the old Durzo manoeuvre. Miss everything, then complain.",
+  "lines": [
+   {
+    "w": "",
+    "x": "What about your bonus action?"
+   },
+   {
+    "w": "Durzo",
+    "x": "I don't have anything of use for a bonus action."
+   },
+   {
+    "w": "Durzo",
+    "x": "I just didn't bother, there's no point."
+   },
+   {
+    "w": "",
+    "x": "He's done the old Durzo manoeuvre, miss everything bitch."
+   },
+   {
+    "w": "",
+    "x": "Oh Durzo! Savage."
+   },
+   {
+    "w": "",
+    "x": "Fucking leader, right?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "He's done the old Durzo manoeuvre, miss everything bitch."
+  },
+  "art_idea": "Durzo the half-elf rogue strikes a heroic pose while his arrows fly off in every direction except at the enemy, and his sister Elara's ghostly face peeks out of a locket at his hip and facepalms."
+ },
+ {
+  "s": 20,
+  "t": 11661,
+  "d": 51,
+  "title": "Everyone wants the Frostbrand",
+  "id": "S20-11666",
+  "score": 0.58,
+  "audio": "media/audio/S20-11666.m4a",
+  "cut": "11661+51",
+  "pcs": [
+   "durzo",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "A Frostbrand drops, and Durzo and Nate request it about a hundred times each until the DM's chat is nothing but Frostbrands.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Let me end combat, um, end combat, here we go, uh, auto assign, create new loot table, bosh."
+   },
+   {
+    "w": "DM",
+    "x": "So Durzo and Nate are like requesting it, like a hundred times each."
+   },
+   {
+    "w": "DM",
+    "x": "I feel like I should give it to Ulrick or Lyrial."
+   },
+   {
+    "w": "DM",
+    "x": "My whole chat is filled with fucking Frostbrand sword."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Durzo and Nate are like requesting it, like a hundred times each. My whole chat is filled with fucking Frostbrand sword."
+  },
+  "art_idea": "A worn-out DM behind his screen, buried under a heap of chat bubbles that all say 'FROSTBRAND SWORD', while an icy blade glitters untouched on top of the loot pile."
+ },
+ {
+  "s": 22,
+  "t": 6615,
+  "d": 40,
+  "title": "Why won't anyone die?",
+  "id": "S22-6615",
+  "score": 0.47,
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "Why won't anyone die?"
+   },
+   {
+    "w": "",
+    "x": "Because we're all level 8."
+   },
+   {
+    "w": "DM",
+    "x": "This guy over here is gonna be like: ha! My turn! And he's gonna do a triple backflip over all of you and one-shot Nate."
+   },
+   {
+    "w": "",
+    "x": "I will hold my attack of opportunity."
+   },
+   {
+    "w": "DM",
+    "x": "For his first attack he rolls a 1, so he misses."
+   }
+  ],
+  "audio": "media/audio/S22-6615.m4a",
+  "cut": "6615+40",
+  "blurb": "Mid-fight, someone asks why nobody is dying. Everyone is level 8. The DM's answer is an enemy who triple-backflips over the whole party to one-shot Nate, and then rolls a 1.",
+  "quote": {
+   "w": "",
+   "x": "Because we're all level 8."
+  }
+ },
+ {
+  "s": 22,
+  "t": 7911,
+  "d": 42,
+  "title": "This way is totally safe",
+  "id": "S22-7911",
+  "score": 0.41,
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Ulrick, as you walk past this little indentation in the floor, can you do a perception check for me, please?"
+   },
+   {
+    "w": "",
+    "x": "Minus one, baby."
+   },
+   {
+    "w": "DM",
+    "x": "You don't notice anything as you walk past that little indentation."
+   },
+   {
+    "w": "",
+    "x": "Guys, this way is totally safe."
+   }
+  ],
+  "audio": "media/audio/S22-7911.m4a",
+  "cut": "7911+42",
+  "blurb": "Ulrick walks past a suspicious dip in the floor and rolls a minus one to notice anything. He notices nothing. Verdict: this way is totally safe.",
+  "quote": {
+   "w": "",
+   "x": "Guys, this way is totally safe."
+  }
+ },
+ {
+  "s": 23,
+  "t": 1245,
+  "d": 50,
+  "title": "Three Nates, all invisible",
+  "id": "S23-1245",
+  "score": 0.25,
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "Is this three illusory duplicates of yourself?"
+   },
+   {
+    "w": "",
+    "x": "Yeah, but it's part of a feat."
+   },
+   {
+    "w": "",
+    "x": "The feat modifies the spell."
+   },
+   {
+    "w": "",
+    "x": "Equal to your proficiency bonus. I cast three."
+   },
+   {
+    "w": "",
+    "x": "So I have three Nates."
+   },
+   {
+    "w": "",
+    "x": "But they're all invisible."
+   },
+   {
+    "w": "",
+    "x": "They're all invisible to me. I can't see them."
+   }
+  ],
+  "audio": "media/audio/S23-1245.m4a",
+  "cut": "1245+50",
+  "blurb": "A rules argument over how many illusory duplicates Nate's feat gives him settles on three Nates. The catch: they're all invisible, even to his friends.",
+  "quote": {
+   "w": "",
+   "x": "So I have three Nates. But they're all invisible."
+  }
+ },
+ {
+  "s": 23,
+  "t": 3887,
+  "d": 36,
+  "title": "Grub doesn't like Nate",
+  "id": "S23-3887",
+  "score": 0.25,
+  "pcs": [
+   "lyrial",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "Grub, I want you to go to Nogratis and find the Ashen Brotherhood. When we arrive I will summon you back."
+   },
+   {
+    "w": "",
+    "x": "We need to do this quickly to save Nate."
+   },
+   {
+    "w": "",
+    "x": "Thanks, Grub."
+   },
+   {
+    "w": "Grub",
+    "x": "I don't like Nate. He's a moron."
+   },
+   {
+    "w": "",
+    "x": "Wait, did Lyrial say that, or did Grub say it?"
+   },
+   {
+    "w": "Grub",
+    "x": "I don't like Nate. He's a moron."
+   },
+   {
+    "w": "",
+    "x": "That's the Grub we know and love."
+   },
+   {
+    "w": "",
+    "x": "I don't like you either, Grub."
+   }
+  ],
+  "audio": "media/audio/S23-3887.m4a",
+  "cut": "3887+36",
+  "blurb": "Lyrial sends Grub ahead to Nogratis to find the Ashen Brotherhood and help save Nate. Grub has an opinion about Nate.",
+  "quote": {
+   "w": "Grub",
+   "x": "I don't like Nate. He's a moron."
+  }
+ },
+ {
+  "s": 23,
+  "t": 4264,
+  "d": 45,
+  "title": "Divine sense: tingling",
+  "id": "S23-4264",
+  "score": 0.68,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "You sense evil!"
+   },
+   {
+    "w": "",
+    "x": "Guys, there's some baddies in there. That's what I've been telling you, man!"
+   },
+   {
+    "w": "",
+    "x": "Baddies like Elara, or baddies like we should kill them?"
+   },
+   {
+    "w": "",
+    "x": "My divine senses are telling me that there's something that is evil. My spidey senses are tingling."
+   },
+   {
+    "w": "",
+    "x": "Do I have divine senses?"
+   }
+  ],
+  "audio": "media/audio/S23-4264.m4a",
+  "cut": "4264+45",
+  "blurb": "Divine Sense finally pings: there are baddies in there. The follow-up question: baddies like Elara, or baddies we should kill?",
+  "quote": {
+   "w": "",
+   "x": "My spidey senses are tingling."
+  }
+ },
+ {
+  "s": 23,
+  "t": 6008,
+  "d": 22,
+  "title": "At least some of my players appreciate me",
+  "id": "S23-6008",
+  "score": 0.16,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "Best DM. Best DM."
+   },
+   {
+    "w": "DM",
+    "x": "Thank you. At least some of my players appreciate me."
+   },
+   {
+    "w": "",
+    "x": "That's the key word, isn't it? Player."
+   }
+  ],
+  "audio": "media/audio/S23-6008.m4a",
+  "cut": "6008+22",
+  "blurb": "One player calls him the best DM. The DM takes it: at least some of his players appreciate him. Someone points out the key word: player. Singular.",
+  "quote": {
+   "w": "",
+   "x": "That's the key word, isn't it? Player."
+  }
+ },
+ {
+  "s": 24,
+  "t": 11708,
+  "d": 45,
+  "title": "I've seen better rolls in the toilet",
+  "id": "S24-11708",
+  "score": 0.39,
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Nate, can you do a wisdom saving throw this time?"
+   },
+   {
+    "w": "",
+    "x": "You garbage."
+   },
+   {
+    "w": "",
+    "x": "Shit, mate, I've seen better rolls in the toilet."
+   },
+   {
+    "w": "",
+    "x": "I've seen your nan."
+   },
+   {
+    "w": "",
+    "x": "I went there. You forced my hand."
+   },
+   {
+    "w": "",
+    "x": "You didn't even mean to go there."
+   },
+   {
+    "w": "",
+    "x": "That was a clutch. Even you didn't know where you were going."
+   }
+  ],
+  "audio": "media/audio/S24-11708.m4a",
+  "cut": "11708+45",
+  "blurb": "Nate flubs a wisdom save, the trash talk starts, and one comeback goes somewhere nobody expected, including the person who said it.",
+  "quote": {
+   "w": "",
+   "x": "I've seen better rolls in the toilet."
+  }
+ },
+ {
+  "s": 25,
+  "t": 2254,
+  "d": 38,
+  "title": "Nate summons a sperm whale. On dry land.",
+  "lines": [
+   {
+    "w": "",
+    "x": "You summoned an aquatic animal outside of the water."
+   },
+   {
+    "w": "",
+    "x": "Sperm whales typically die because they can't support their own weight out of water. And you just slopped it there like that."
+   },
+   {
+    "w": "",
+    "x": "I'm looking at this sperm whale, finally realising that could have been me."
+   }
+  ],
+  "id": "S25-2254",
+  "score": 0.38,
+  "audio": "media/audio/S25-2254.m4a",
+  "cut": "2254+38",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Nate summons a sperm whale onto the floor of a church to face an ice devil and sits back with his arms crossed. Sperm whales can't support their own weight out of water.",
+  "quote": {
+   "w": "",
+   "x": "I'm looking at this sperm whale, finally realising that could have been me."
+  }
+ },
+ {
+  "s": 25,
+  "t": 4199,
+  "d": 40,
+  "title": "The whale explodes into a wave of rats",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "I guess you can describe what happens, Nate, because he dies."
+   },
+   {
+    "w": "Nate",
+    "x": "In sickening fashion, the whale is going to just explode into a wave of rats."
+   },
+   {
+    "w": "Nate",
+    "x": "The ice devil gets hit by the explosive force of the rats."
+   }
+  ],
+  "quote": {
+   "w": "Nate",
+   "x": "In sickening fashion, the whale is going to just explode into a wave of rats."
+  },
+  "id": "S25-4199",
+  "score": 0.31,
+  "audio": "media/audio/S25-4199.m4a",
+  "cut": "4199+40",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "The beached whale dies, Nate loses concentration, and in sickening fashion it explodes into a wave of rats that blasts the ice devil."
+ },
+ {
+  "s": 25,
+  "t": 6958,
+  "d": 40,
+  "title": "Mouth-to-mouth, with a healing potion",
+  "lines": [
+   {
+    "w": "",
+    "x": "Even though I want you to die, I feel like that's what he would do."
+   },
+   {
+    "w": "Nate",
+    "x": "Can you give me a little kiss, too, as he does it?"
+   },
+   {
+    "w": "",
+    "x": "He pours it into his mouth and gives you mouth to mouth."
+   },
+   {
+    "w": "",
+    "x": "Mama bird."
+   },
+   {
+    "w": "",
+    "x": "I've got you, Nate. Don't you worry."
+   }
+  ],
+  "id": "S25-6958",
+  "score": 0.35,
+  "audio": "media/audio/S25-6958.m4a",
+  "cut": "6958+40",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Nate is down, so a teammate who openly wants him dead feeds him a greater healing potion anyway: mouth to mouth, mama-bird style.",
+  "quote": {
+   "w": "",
+   "x": "Even though I want you to die, I feel like that's what he would do."
+  }
+ },
+ {
+  "s": 25,
+  "t": 8684,
+  "d": 52,
+  "title": "A backhand for the backseat driver",
+  "lines": [
+   {
+    "w": "Durzo",
+    "x": "I slap Nate round the face while he's on the floor. Just a backhand."
+   },
+   {
+    "w": "Durzo",
+    "x": "Sick and tired of your backseat driving, Nate."
+   },
+   {
+    "w": "Durzo",
+    "x": "I would get a sneak attack, wouldn't I?"
+   },
+   {
+    "w": "",
+    "x": "You've been stabbed to death like three times in this fight, and you're still egging Durzo on."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "Sick and tired of your backseat driving, Nate."
+  },
+  "id": "S25-8684",
+  "score": 0.65,
+  "audio": "media/audio/S25-8684.m4a",
+  "cut": "8684+52",
+  "pcs": [
+   "durzo",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Sick of Nate's backseat driving, Durzo backhands him while he's lying on the floor. Two damage. Nate, stabbed three times already this fight, keeps egging him on."
+ },
+ {
+  "s": 25,
+  "t": 10316,
+  "d": 72,
+  "title": "Scatter, boys",
+  "lines": [
+   {
+    "w": "",
+    "x": "It's under the church!"
+   },
+   {
+    "w": "",
+    "x": "Which one? There's no fire church in Nogratis. We were just in a fire one!"
+   },
+   {
+    "w": "",
+    "x": "Scatter, boys! Scatter!"
+   },
+   {
+    "w": "",
+    "x": "He just broke into someone else's house."
+   },
+   {
+    "w": "",
+    "x": "No, it was unlocked."
+   },
+   {
+    "w": "DM",
+    "x": "You just go around checking them, do you?"
+   }
+  ],
+  "id": "S25-10316",
+  "score": 0.95,
+  "audio": "media/audio/S25-10316.m4a",
+  "cut": "10316+72",
+  "pcs": [
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Asked where the prison is, nobody can agree which church they just came from, the guards arrive, and the cry goes up: \"Scatter, boys!\" Someone hides in a stranger's house. It was unlocked.",
+  "quote": {
+   "w": "",
+   "x": "Scatter, boys! Scatter!"
+  }
+ },
+ {
+  "s": 25,
+  "t": 10972,
+  "d": 46,
+  "title": "Señor Anorak",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Ulrick, you get Yellow Waterproof Coat."
+   },
+   {
+    "w": "",
+    "x": "Very useful. An anorak."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Does it fit over his plate? And my werewolf claws?"
+   },
+   {
+    "w": "DM",
+    "x": "It would be like a poncho, you know."
+   },
+   {
+    "w": "",
+    "x": "I expect an AI-generated image of Ulrick."
+   },
+   {
+    "w": "DM",
+    "x": "I've run out of images, man."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "I've run out of images, man."
+  },
+  "id": "S25-10972",
+  "score": 0.53,
+  "audio": "media/audio/S25-10972.m4a",
+  "cut": "10972+46",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ulrick's new loot is a yellow waterproof anorak, big enough to go over his plate like a poncho. Señor Ulrick is instantly canon."
+ },
+ {
+  "s": 26,
+  "t": 2184,
+  "d": 48,
+  "title": "Selectively understanding Borak",
+  "id": "S26-2184",
+  "score": 0.79,
+  "pcs": [
+   "ulrick",
+   "borak"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "I'm pretty sure Ulrick literally carried you at some point."
+   },
+   {
+    "w": "",
+    "x": "He did. That was very nice. And if I could carry him out of prison, I would do so."
+   },
+   {
+    "w": "",
+    "x": "You just abandon your friends like that?"
+   },
+   {
+    "w": "",
+    "x": "I can hold his hand as we leave the prison."
+   },
+   {
+    "w": "",
+    "x": "Do you just actively decide when to understand Borak?"
+   },
+   {
+    "w": "",
+    "x": "I know he can understand me. He's just a dick."
+   },
+   {
+    "w": "",
+    "x": "Oh, Borak, I like you."
+   }
+  ],
+  "audio": "media/audio/S26-2184.m4a",
+  "cut": "2184+48",
+  "blurb": "Ulrick, who once carried a party member to safety, is now the one in prison. The offer to return the favour gets as far as holding his hand on the way out.",
+  "quote": {
+   "w": "",
+   "x": "Do you just actively decide when to understand Borak?"
+  }
+ },
+ {
+  "s": 26,
+  "t": 3575,
+  "d": 58,
+  "title": "Come back, Auril, I miss you",
+  "id": "S26-3575",
+  "score": 0.28,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S26-3575.m4a",
+  "cut": "3575+58"
+ },
+ {
+  "s": 26,
+  "t": 11677,
+  "d": 58,
+  "title": "Did a witness just object?",
+  "id": "S26-11677",
+  "score": 0.66,
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "Objection! It's very possible, your honour."
+   },
+   {
+    "w": "",
+    "x": "Sorry, did a witness just object?"
+   },
+   {
+    "w": "",
+    "x": "Yeah, I'm objecting."
+   },
+   {
+    "w": "",
+    "x": "You can't object. And also, don't make things up."
+   },
+   {
+    "w": "",
+    "x": "And Ashley, are you familiar with Ulrick?"
+   },
+   {
+    "w": "",
+    "x": "Not at all."
+   },
+   {
+    "w": "",
+    "x": "Sorry, just to clarify for you, Ashley: Ulrick is the man in chains down there."
+   },
+   {
+    "w": "",
+    "x": "Oh, yeah. Sorry."
+   }
+  ],
+  "audio": "media/audio/S26-11677.m4a",
+  "cut": "11677+58",
+  "blurb": "Ulrick's trial. A witness objects mid-testimony, which is not how objections work. Then Ashley, asked about Ulrick, has to be told which one he is: the man in chains.",
+  "quote": {
+   "w": "",
+   "x": "Sorry, did a witness just object?"
+  }
+ },
+ {
+  "s": 26,
+  "t": 12699,
+  "d": 40,
+  "title": "Mind-probed",
+  "id": "S26-12699",
+  "score": 0.35,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [
+   {
+    "w": "",
+    "x": "What was his name? Anshli? Anshlo?"
+   },
+   {
+    "w": "",
+    "x": "Ashley."
+   },
+   {
+    "w": "DM",
+    "x": "And as you're saying that, she's going to try and detect thoughts again."
+   },
+   {
+    "w": "",
+    "x": "Okay, bring it on, bitch!"
+   },
+   {
+    "w": "DM",
+    "x": "Wisdom saving throw."
+   },
+   {
+    "w": "",
+    "x": "Let's go! Yeah, boy!"
+   },
+   {
+    "w": "",
+    "x": "Now she sees smut with me and Borak."
+   },
+   {
+    "w": "",
+    "x": "That's awful."
+   }
+  ],
+  "audio": "media/audio/S26-12699.m4a",
+  "cut": "12699+40",
+  "blurb": "Mid-trial, she tries Detect Thoughts again. The target dares her to, passes the save, and has ideas about what she'll see instead.",
+  "quote": {
+   "w": "",
+   "x": "Okay, bring it on!"
+  }
+ },
+ {
+  "s": 27,
+  "t": 1728,
+  "d": 55,
+  "title": "Did you kill a child yesterday? Allegedly.",
+  "id": "S27-1728",
+  "score": 0.71,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S27-1728.m4a",
+  "cut": "1728+55"
+ },
+ {
+  "s": 27,
+  "t": 2343,
+  "d": 52,
+  "title": "The smuggest possible face",
+  "id": "S27-2343",
+  "score": 0.51,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S27-2343.m4a",
+  "cut": "2343+52"
+ },
+ {
+  "s": 27,
+  "t": 9345,
+  "d": 35,
+  "title": "You know what you did",
+  "id": "S27-9345",
+  "score": 1.0,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S27-9345.m4a",
+  "cut": "9345+35"
+ },
+ {
+  "s": 28,
+  "t": 270,
+  "d": 45,
+  "title": "Gold for showing up",
+  "id": "S28-270",
+  "score": 0.61,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S28-270.m4a",
+  "cut": "270+45"
+ },
+ {
+  "s": 28,
+  "t": 803,
+  "d": 55,
+  "title": "Restrained, frightened, exhausted, and shot",
+  "id": "S28-803",
+  "score": 0.6,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S28-803.m4a",
+  "cut": "803+55"
+ },
+ {
+  "s": 28,
+  "t": 8348,
+  "d": 50,
+  "title": "That's my final judgement",
+  "id": "S28-8348",
+  "score": 0.76,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S28-8348.m4a",
+  "cut": "8348+50"
+ },
+ {
+  "s": 28,
+  "t": 11517,
+  "d": 40,
+  "title": "Five pets (Nate counts as one)",
+  "id": "S28-11517",
+  "score": 0.66,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S28-11517.m4a",
+  "cut": "11517+40"
+ },
+ {
+  "s": 29,
+  "t": 8527,
+  "d": 58,
+  "title": "Going once, to the head fella",
+  "id": "S29-8527",
+  "score": 0.62,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S29-8527.m4a",
+  "cut": "8527+58"
+ },
+ {
+  "s": 29,
+  "t": 11084,
+  "d": 40,
+  "title": "It's not legal to go to school",
+  "id": "S29-11084",
+  "score": 0.71,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S29-11084.m4a",
+  "cut": "11084+40"
+ },
+ {
+  "s": 30,
+  "t": 3397,
+  "d": 30,
+  "title": "My name is… Richard",
+  "id": "S30-3397",
+  "score": 0.21,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S30-3397.m4a",
+  "cut": "3397+30"
+ },
+ {
+  "s": 30,
+  "t": 6292,
+  "d": 31,
+  "title": "Hannah Bloom was never a person",
+  "id": "S30-6292",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S30-6292.m4a",
+  "cut": "6292+31"
+ },
+ {
+  "s": 30,
+  "t": 6595,
+  "d": 48,
+  "title": "Technically, I didn't leave",
+  "id": "S30-6595",
+  "score": 0.29,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S30-6595.m4a",
+  "cut": "6595+48"
+ },
+ {
+  "s": 30,
+  "t": 12149,
+  "d": 40,
+  "title": "Oh, not this woman again",
+  "id": "S30-12149",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S30-12149.m4a",
+  "cut": "12149+40"
+ },
+ {
+  "s": 31,
+  "t": 10812,
+  "d": 42,
+  "title": "That was your last question",
+  "id": "S31-10812",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S31-10812.m4a",
+  "cut": "10812+42"
+ },
+ {
+  "s": 31,
+  "t": 12249,
+  "d": 52,
+  "title": "The most boring person here",
+  "id": "S31-12249",
+  "score": 0.65,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S31-12249.m4a",
+  "cut": "12249+52"
+ },
+ {
+  "s": 32,
+  "t": 3812,
+  "d": 35,
+  "title": "Two more syllables before I use the contract",
+  "id": "S32-3812",
+  "score": 0.71,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S32-3812.m4a",
+  "cut": "3812+35"
+ },
+ {
+  "s": 32,
+  "t": 4076,
+  "d": 25,
+  "title": "Hey, big boy",
+  "id": "S32-4076",
+  "score": 0.41,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S32-4076.m4a",
+  "cut": "4076+25"
+ },
+ {
+  "s": 32,
+  "t": 8923,
+  "d": 56,
+  "title": "No one told me it was a bad idea",
+  "id": "S32-8923",
+  "score": 0.51,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S32-8923.m4a",
+  "cut": "8923+56"
+ },
+ {
+  "s": 32,
+  "t": 11995,
+  "d": 33,
+  "title": "Like a treasure goblin",
+  "id": "S32-11995",
+  "score": 0.92,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S32-11995.m4a",
+  "cut": "11995+33"
+ },
+ {
+  "s": 33,
+  "t": 8040,
+  "d": 140,
+  "title": "The haunted house",
+  "id": "S33-8040",
+  "score": 0,
+  "pcs": [
+   "nate",
+   "lyrial"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Death saves in the haunted house on Mt Mistmourne. Nate and Lyrial never come out, and the DM mourns all the backstory scenes he had prepared for them.",
+  "lines": [],
+  "audio": "media/audio/S33-8040.m4a",
+  "cut": "8040+140"
+ },
+ {
+  "s": 33,
+  "t": 12099,
+  "d": 45,
+  "title": "Too busy arguing with the dead",
+  "id": "S33-12099",
+  "score": 0.69,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S33-12099.m4a",
+  "cut": "12099+45"
+ },
+ {
+  "s": 34,
+  "t": 211,
+  "d": 55,
+  "title": "Why is Nate a massive fat pirate?",
+  "id": "S34-211",
+  "score": 0.25,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S34-211.m4a",
+  "cut": "211+55"
+ },
+ {
+  "s": 34,
+  "t": 3598,
+  "d": 212,
+  "title": "\"It's okay, son. I love you\"",
+  "id": "S34-3598",
+  "score": 0,
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Through the mirror on Mt Mistmourne, Durzo is seven years old again, home with his mother Silver and father Gren on the day the orcs came. He knows how it ends, and he tries to change it anyway.",
+  "lines": [],
+  "audio": "media/audio/S34-3598.m4a",
+  "cut": "3598+212"
+ },
+ {
+  "s": 34,
+  "t": 4496,
+  "d": 216,
+  "title": "\"I told you I'd be there\"",
+  "id": "S34-4496",
+  "score": 0,
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "The mirror takes Ulrick back to the battlefield where he found his brother Edderick dead, and then Roland, who called for help and was not answered.",
+  "lines": [],
+  "audio": "media/audio/S34-4496.m4a",
+  "cut": "4496+216"
+ },
+ {
+  "s": 34,
+  "t": 7678,
+  "d": 125,
+  "title": "A bound servant of Nyxara",
+  "id": "S34-7678",
+  "score": 0,
+  "pcs": [
+   "gideon",
+   "durzo"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "In the Realm of Death and Shadow, a dark fairy appears to guide Durzo: Gideon, sent by Nyxara herself. Chris's new hero makes his entrance.",
+  "lines": [],
+  "audio": "media/audio/S34-7678.m4a",
+  "cut": "7678+125"
+ },
+ {
+  "s": 34,
+  "t": 10056,
+  "d": 32,
+  "title": "Two negatives make a positive",
+  "id": "S34-10056",
+  "score": 0.35,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S34-10056.m4a",
+  "cut": "10056+32"
+ },
+ {
+  "s": 34,
+  "t": 10955,
+  "d": 45,
+  "title": "Factually, not jokingly",
+  "id": "S34-10955",
+  "score": 0.17,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S34-10955.m4a",
+  "cut": "10955+45"
+ },
+ {
+  "s": 35,
+  "t": 243,
+  "d": 48,
+  "title": "Who called it on the house?",
+  "id": "S35-243",
+  "score": 0.66,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S35-243.m4a",
+  "cut": "243+48"
+ },
+ {
+  "s": 35,
+  "t": 1061,
+  "d": 40,
+  "title": "That's a Chadron",
+  "id": "S35-1061",
+  "score": 0.74,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S35-1061.m4a",
+  "cut": "1061+40"
+ },
+ {
+  "s": 35,
+  "t": 2792,
+  "d": 42,
+  "title": "Robot Man's voice changer",
+  "id": "S35-2792",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S35-2792.m4a",
+  "cut": "2792+42"
+ },
+ {
+  "s": 35,
+  "t": 9600,
+  "d": 140,
+  "title": "The Mark of the Emissary",
+  "id": "S35-9600",
+  "score": 0,
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Leaving the Realm of Death, Durzo's mark of Nyxara burns into something greater: the Mark of the Emissary. The Grim Reaper form makes its debut.",
+  "lines": [],
+  "audio": "media/audio/S35-9600.m4a",
+  "cut": "9600+140"
+ },
+ {
+  "s": 35,
+  "t": 11546,
+  "d": 120,
+  "title": "\"I projected myself through time\"",
+  "id": "S35-11546",
+  "score": 0,
+  "pcs": [
+   "derek"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "In the swamp below Mt Mistmourne the team finally meet the construct whose astral projection has been helping them: Chadron, D.E.R.E.K.",
+  "lines": [],
+  "audio": "media/audio/S35-11546.m4a",
+  "cut": "11546+120"
+ },
+ {
+  "s": 36,
+  "t": 6034,
+  "d": 24,
+  "title": "Mega-Jon, crux of the battle",
+  "id": "S36-6034",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S36-6034.m4a",
+  "cut": "6034+24"
+ },
+ {
+  "s": 36,
+  "t": 8024,
+  "d": 40,
+  "title": "Fast-forward this speech",
+  "id": "S36-8024",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S36-8024.m4a",
+  "cut": "8024+40"
+ },
+ {
+  "s": 36,
+  "t": 10000,
+  "d": 24,
+  "title": "Derectron",
+  "id": "S36-10000",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S36-10000.m4a",
+  "cut": "10000+24"
+ },
+ {
+  "s": 36,
+  "t": 11533,
+  "d": 25,
+  "title": "Searching all possible timelines",
+  "id": "S36-11533",
+  "score": 0.37,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S36-11533.m4a",
+  "cut": "11533+25"
+ },
+ {
+  "s": 37,
+  "t": 1807,
+  "d": 50,
+  "title": "The skeleton that went through first",
+  "id": "S37-1818",
+  "score": 0.15,
+  "audio": "media/audio/S37-1818.m4a",
+  "cut": "1807+50",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Nobody wants to touch the teleporter, so Gideon sends one of his skeletons through first. It vanishes, says bye, and never comes back.",
+  "lines": [
+   {
+    "w": "Gideon",
+    "x": "I sent one of my skeletons through."
+   },
+   {
+    "w": "",
+    "x": "He's vanished. Bye."
+   },
+   {
+    "w": "",
+    "x": "He hasn't come back."
+   },
+   {
+    "w": "",
+    "x": "Yeah, I feel like it says bye on it."
+   },
+   {
+    "w": "",
+    "x": "If only there was a way to communicate with each other."
+   },
+   {
+    "w": "",
+    "x": "Oh shit, guys, do you want a stone of communication? I have three."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Oh shit, guys, do you want a stone of communication? I have three."
+  },
+  "art_idea": "A skeleton cheerfully waves goodbye as it steps into a shimmering teleporter, while the party huddles behind it, only now noticing the communication stones in their hands."
+ },
+ {
+  "s": 37,
+  "t": 3932,
+  "d": 40,
+  "title": "\"I control all tins\"",
+  "id": "S37-3943",
+  "score": 0.15,
+  "audio": "media/audio/S37-3943.m4a",
+  "cut": "3932+40",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The DM rules that nobody else controls Gideon's skeleton. The table disagrees: \"Canon. I control all tins.\"",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "As an FYI, that doesn't happen."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Yeah, no, that happens. Canon."
+   },
+   {
+    "w": "DM",
+    "x": "It doesn't. You don't control the skeleton."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Canon."
+   },
+   {
+    "w": "DM",
+    "x": "Why do you control the skeleton?"
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I control all tins."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "Yeah, no, that happens. Canon."
+  },
+  "art_idea": "D.E.R.E.K. points grandly at a skeleton and declares himself its master, while the skeleton ignores him completely and keeps hacking at something else."
+ },
+ {
+  "s": 37,
+  "t": 4680,
+  "d": 51,
+  "title": "Receipts must be provided",
+  "id": "S37-4680",
+  "score": 0.15,
+  "audio": "media/audio/S37-4680.m4a",
+  "cut": "4680+51",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "To use the next set of teleporters a modron needs 17 copper each, plus receipts proving the source of the funds.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Oh, customers! Hello! Well, welcome! To proceed to the next step of teleporters, you must pay 17 copper each."
+   },
+   {
+    "w": "DM",
+    "x": "Receipts must be provided to prove the source of funds."
+   },
+   {
+    "w": "",
+    "x": "Like, what?"
+   },
+   {
+    "w": "DM",
+    "x": "Receipts need to be provided to prove source of funds."
+   },
+   {
+    "w": "",
+    "x": "What?"
+   },
+   {
+    "w": "DM",
+    "x": "I'm sorry, I'm just watching you guys going around that corner. Is this not the best design ever?"
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Receipts must be provided to prove the source of funds."
+  },
+  "art_idea": "A deadpan modron clerk behind a sand-covered desk holds out a tiny hand for receipts, while the party walks around a corner straight into a teleporter."
+ },
+ {
+  "s": 37,
+  "t": 9767,
+  "d": 68,
+  "title": "B.0.B.'s little stabby stick",
+  "id": "S37-9785",
+  "score": 0.15,
+  "audio": "media/audio/S37-9785.m4a",
+  "cut": "9767+68",
+  "pcs": [
+   "bob"
+  ],
+  "kind": "epic",
+  "stars": 3,
+  "blurb": "B.0.B. pulls his little stabby stick from his sleeve, rolls a 19 to hit and finishes his target in a blood frenzy nobody has seen before. Excellent job, B.0.B.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He's like yessssss and he gets out his little knife from his sleeve."
+   },
+   {
+    "w": "",
+    "x": "His little stabby stick."
+   },
+   {
+    "w": "",
+    "x": "Oh my god he rolled a 19 to hit."
+   },
+   {
+    "w": "DM",
+    "x": "He does two damage and he's only got one life left anyway so he kills him."
+   },
+   {
+    "w": "",
+    "x": "Excellent job B.0.B."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He literally jumps on top of him and stabs the shit out of him. You've never seen so much blood, bloodthirsty."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "He literally jumps on top of him and stabs the shit out of him. You've never seen so much blood, bloodthirsty."
+  },
+  "art_idea": "Tiny construct B.0.B. leaps onto a foe with a comically small knife and blazing eyes, while D.E.R.E.K. hovers behind him, beaming like a proud father."
+ },
+ {
+  "s": 37,
+  "t": 11282,
+  "d": 70,
+  "title": "The first grape",
+  "id": "S37-11300",
+  "score": 0.15,
+  "audio": "media/audio/S37-11300.m4a",
+  "cut": "11282+70",
+  "pcs": [
+   "bob",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "B.0.B.'s very first grape: pushed into his lips, one large gulp, and a happy wobble in his hovering. \"Was it tasty, Master?\" An addiction is born.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He doesn't open his mouth to eat it, he sort of pushes the grape into his lips and it disappears and there's just a large gulp."
+   },
+   {
+    "w": "B.0.B.",
+    "x": "Was it good? Master? Was it tasty?"
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He sort of looks down and you can see his hovering now is like tilting back and forth a little bit."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He looks at him and he's like, your eye."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "His big eye. His glorious eye. He's got a big eye, why doesn't he have two eyes?"
+   },
+   {
+    "w": "",
+    "x": "I hope this continues all through the next session."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "His glorious eye. He's got a big eye, why doesn't he have two eyes?"
+  },
+  "art_idea": "D.E.R.E.K. wobbles in mid-air after swallowing a single glowing grape, with spiral eyes, gazing starstruck at little B.0.B., who tugs at him asking whether it was tasty."
+ },
+ {
+  "s": 37,
+  "t": 11914,
+  "d": 46,
+  "title": "Snake wine",
+  "id": "S37-11915",
+  "score": 0.15,
+  "audio": "media/audio/S37-11915.m4a",
+  "cut": "11914+46",
+  "pcs": [
+   "bob",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "The loot includes snake wine with a cobra suspended inside. How do you drink it properly? Leave it to B.0.B. and Chadron: smash the bottle and eat the snake.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "A cobra sits suspended in the alcohol."
+   },
+   {
+    "w": "",
+    "x": "What the fuck? Suspended as in alive? Have we just got a pet?"
+   },
+   {
+    "w": "DM",
+    "x": "Suspended as in it could be alive."
+   },
+   {
+    "w": "",
+    "x": "But I guess if you want to drink it properly you need to drink the snake, right?"
+   },
+   {
+    "w": "",
+    "x": "Well, leave it up to B.0.B. and Chadron. They'd smash the bottle and eat the snake."
+   },
+   {
+    "w": "",
+    "x": "That's fucking disgusting."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Well, leave it up to B.0.B. and Chadron. They'd smash the bottle and eat the snake."
+  },
+  "art_idea": "A cobra coiled inside a wine bottle glares out as D.E.R.E.K. and little B.0.B. lean in hungrily, one of them already raising the bottle to smash it."
+ },
+ {
+  "s": 38,
+  "t": 22,
+  "d": 61,
+  "title": "The AI art gave everyone two sets of lips",
+  "id": "S38-22",
+  "score": 0.15,
+  "audio": "media/audio/S38-22.m4a",
+  "cut": "22+61",
+  "pcs": [
+   "derek",
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Show and tell: the AI art of B.0.B. and Chadron, after the generator kept giving everyone two sets of lips, or eyes on random body parts.",
+  "lines": [
+   {
+    "w": "",
+    "x": "This is a horror. What the fuck is this?"
+   },
+   {
+    "w": "",
+    "x": "He's got two sets of lips."
+   },
+   {
+    "w": "DM",
+    "x": "I couldn't make him have one set of lips. Either everyone had two eyes or there was like lips placed on random body parts."
+   },
+   {
+    "w": "",
+    "x": "B.0.B. is staring longingly into Chadron's eye."
+   },
+   {
+    "w": "",
+    "x": "Fucking Chadron's got a thong on."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Either everyone had two eyes or there was like lips placed on random body parts."
+  },
+  "art_idea": "A botched AI portrait of D.E.R.E.K. with two sets of lips, while little B.0.B. gazes up adoringly into his single eye."
+ },
+ {
+  "s": 38,
+  "t": 843,
+  "d": 69,
+  "title": "What sort of stuff did I say, Chadron?",
+  "id": "S38-844",
+  "score": 0.15,
+  "audio": "media/audio/S38-844.m4a",
+  "cut": "843+69",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Chadron is asked, in front of everyone, what was said last night about the little one: he's small, he drives a hard bargain, and most damning of all, he likes disgusting numbers. Like one?",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He spent much time last night talking about all of your flaws, child."
+   },
+   {
+    "w": "",
+    "x": "Why would you bring that up as well in front of me?"
+   },
+   {
+    "w": "",
+    "x": "What sort of stuff did I say, Chadron?"
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "He said you were small and drive a hard bargain. Damning of all, you like disgusting numbers."
+   },
+   {
+    "w": "",
+    "x": "Put my hand up for a high five from Grub knowing that there's a 50-50 chance he will not return it."
+   },
+   {
+    "w": "DM",
+    "x": "He looks like he's about to return it and then he reaches up and scratches his head."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "He said you were small and drive a hard bargain. Damning of all, you like disgusting numbers."
+  },
+  "art_idea": "An adventurer holds a hand up for a high five, and tiny Grub reaches right past it to scratch his own head."
+ },
+ {
+  "s": 38,
+  "t": 1999,
+  "d": 73,
+  "title": "Gamblok's oily tear (and Ulrick's glaive)",
+  "id": "S38-2013",
+  "score": 0.15,
+  "audio": "media/audio/S38-2013.m4a",
+  "cut": "1999+73",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Gamblok sheds an oily tear and begs them not to hurt his children. Everything is de-escalated, except for Ulrick, who has been waiting for exactly this moment.",
+  "lines": [
+   {
+    "w": "Gideon",
+    "x": "So, Gideon kind of just like kneels down and just spits blood out of his mouth and just apologizes to the modron and said, \"I thought you zapped me, hence why I shot you.\""
+   },
+   {
+    "w": "DM",
+    "x": "Gamblok is overcome by paternal instincts that were imposed upon him as he was created and built in his factory of origin. And he sheds an oily tear."
+   },
+   {
+    "w": "DM",
+    "x": "I am Gamblok and I will not fight anymore. Please, please do not hurt my children."
+   },
+   {
+    "w": "",
+    "x": "It would be so funny, you just see a glaive come out of fucking nowhere."
+   },
+   {
+    "w": "",
+    "x": "It's all de-escalated, but Ulrick, being low intelligence, he's like, \"Now's my chance! I've been waiting for this moment.\""
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "It's all de-escalated, but Ulrick, being low intelligence, he's like, \"Now's my chance! I've been waiting for this moment.\""
+  },
+  "art_idea": "A towering modron boss sheds a single oily tear as he shields his tiny modron children, while a glaive pokes into the frame from nowhere."
+ },
+ {
+  "s": 38,
+  "t": 3196,
+  "d": 46,
+  "title": "B.0.B. takes notes",
+  "id": "S38-3196",
+  "score": 0.15,
+  "audio": "media/audio/S38-3196.m4a",
+  "cut": "3196+46",
+  "pcs": [
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Told it's better to just shank them, B.0.B. dutifully takes notes on a scrap of parchment from his back compartment. He can't write, so he draws a stick figure with a knife.",
+  "lines": [
+   {
+    "w": "",
+    "x": "B.0.B., you're alive!"
+   },
+   {
+    "w": "B.0.B.",
+    "x": "Oh, I was walking over to do the thing that you had told me to do, but I got teleported to this place."
+   },
+   {
+    "w": "",
+    "x": "Next time I suppose it's better if you just shank them."
+   },
+   {
+    "w": "B.0.B.",
+    "x": "I will. Let me write that down."
+   },
+   {
+    "w": "",
+    "x": "He draws a little stick figure with a knife."
+   },
+   {
+    "w": "",
+    "x": "Now GPT won't draw that picture for you."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Next time I suppose it's better if you just shank them."
+  },
+  "art_idea": "Tiny construct B.0.B. earnestly scribbles a stick figure holding a knife on parchment pulled from his back compartment, while D.E.R.E.K. looks on proudly."
+ },
+ {
+  "s": 38,
+  "t": 8446,
+  "d": 47,
+  "title": "I summon the cart",
+  "id": "S38-8446",
+  "score": 0.15,
+  "audio": "media/audio/S38-8446.m4a",
+  "cut": "8446+47",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "\"I summon the cart.\" The one with no clock in it? That's illegal. \"I summon a different cart.\" Ulrick's cart collection strikes again.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "I summon the cart."
+   },
+   {
+    "w": "",
+    "x": "Wait, I don't see it."
+   },
+   {
+    "w": "DM",
+    "x": "It's not invisible. It's just here."
+   },
+   {
+    "w": "DM",
+    "x": "I think that might be a you problem. Not a me problem."
+   },
+   {
+    "w": "",
+    "x": "There's two of us."
+   },
+   {
+    "w": "DM",
+    "x": "Yeah, but I think you're wrong."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "I think that might be a you problem. Not a me problem."
+  },
+  "art_idea": "The DM proudly gestures at an empty road where his 'cart' supposedly stands, while the party squints at a few leaves on the ground."
+ },
+ {
+  "s": 39,
+  "t": 5755,
+  "d": 160,
+  "title": "The prisoner is Fiddle Blackthorne",
+  "id": "S39-5755",
+  "score": 0,
+  "pcs": [
+   "fiddle",
+   "gavin"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "The prisoner Gavin came to free is a goblin, who says he won Gavin's surname in a game of 21s, and that Gavin left him behind.",
+  "lines": [],
+  "audio": "media/audio/S39-5755.m4a",
+  "cut": "5755+160"
+ },
+ {
+  "s": 39,
+  "t": 6483,
+  "d": 48,
+  "title": "How big is the bag of holding? Big enough.",
+  "id": "S39-6483",
+  "score": 0.15,
+  "audio": "media/audio/S39-6483.m4a",
+  "cut": "6483+48",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Mid prison break, the plan is to vault over and stuff a man into the bag of holding. How big is the entrance? Big enough. Fold him up.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "Okay, I'm going to jump over, and I'm going to put him in the bag of holding."
+   },
+   {
+    "w": "",
+    "x": "How big is the entrance to the bag of holding?"
+   },
+   {
+    "w": "",
+    "x": "Big enough."
+   },
+   {
+    "w": "",
+    "x": "Fold him up."
+   },
+   {
+    "w": "Ulrick",
+    "x": "So I just shove him in the bag of holding, close it, and then he's just going to slowly suffocate over the next 10 minutes, basically."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "He's just going to slowly suffocate over the next 10 minutes, basically."
+  },
+  "art_idea": "Ulrick the paladin stuffing an unconscious prison guard head-first into a small bag of holding, the guard's boots kicking out of the top while the party looks on."
+ },
+ {
+  "s": 39,
+  "t": 6777,
+  "d": 59,
+  "title": "Gavin, kindly step into the cage",
+  "id": "S39-6778",
+  "score": 0.15,
+  "audio": "media/audio/S39-6778.m4a",
+  "cut": "6777+59",
+  "pcs": [
+   "gavin",
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Gavin is politely asked to step into the cage for the pit fight with Fiddle, no intimidation check needed, and all his gear moves straight into someone else's inventory. Gavin had so much stuff.",
+  "lines": [
+   {
+    "w": "",
+    "x": "So Gavin, if you could kindly just step into the cage."
+   },
+   {
+    "w": "",
+    "x": "I didn't even need to intimidate. I was so ready to do an intimidation check."
+   },
+   {
+    "w": "",
+    "x": "He just walked in straight in."
+   },
+   {
+    "w": "DM",
+    "x": "Well, you've just taken all of Gavin's stuff, so I'm just deleting it out of his inventory and putting it in your inventory."
+   },
+   {
+    "w": "",
+    "x": "That makes sense. Holy shit, Gavin had so much stuff."
+   },
+   {
+    "w": "",
+    "x": "I would like to haste Gavin."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I didn't even need to intimidate. I was so ready to do an intimidation check."
+  },
+  "art_idea": "Gavin, stripped of all his gear and holding just a twig, politely walks into an iron pit-fight cage while Durzo stands behind him with an armful of Gavin's weapons and loot."
+ },
+ {
+  "s": 39,
+  "t": 8300,
+  "d": 190,
+  "title": "Killed, revived, killed again",
+  "id": "S39-8300",
+  "score": 0,
+  "pcs": [
+   "gavin",
+   "fiddle"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "The cage fight decides who Graham plays from now on. Fiddle wins, revives Gavin, and wins again.",
+  "lines": [],
+  "audio": "media/audio/S39-8300.m4a",
+  "cut": "8300+190"
+ },
+ {
+  "s": 39,
+  "t": 11035,
+  "d": 58,
+  "title": "It was the B.0.B. voice",
+  "id": "S39-11040",
+  "score": 0.15,
+  "audio": "media/audio/S39-11040.m4a",
+  "cut": "11035+58",
+  "pcs": [
+   "derek",
+   "bob",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Who told the team to fight instead of leaving? Durzo took the order from Chadron. Chadron insists he said it in his B.0.B. voice, which apparently makes it B.0.B.'s fault. Poor Durzo.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I don't listen to him. I think he's fucking useless. He's my little pet. I don't take instructions from him."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I didn't know it was B.0.B. saying it. You said something. I took it as Chadron."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I said it in my B.0.B. voice."
+   },
+   {
+    "w": "",
+    "x": "That's just your voice."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Chadron would be going fight, fight, fight, fight."
+   },
+   {
+    "w": "",
+    "x": "It was the same thing."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "I think he's fucking useless. He's my little pet. I don't take instructions from him."
+  },
+  "art_idea": "D.E.R.E.K. and his tiny construct son B.0.B. shouting 'Fight! Fight! Fight!' in two identical speech bubbles while the party squints, unable to tell who said it."
+ },
+ {
+  "s": 39,
+  "t": 12196,
+  "d": 54,
+  "title": "Middle is just first back",
+  "id": "S39-12180",
+  "score": 0.15,
+  "audio": "media/audio/S39-12180.m4a",
+  "cut": "12196+54",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Time to run. Durzo summons Elara to tank the Frost Wardens while everyone argues about who is at the back. \"I'm in the middle.\" \"Middle is just first back.\"",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "This team is a bunch of pussies."
+   },
+   {
+    "w": "",
+    "x": "You're at the back. You're at the fucking back of this."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I'm in the middle."
+   },
+   {
+    "w": "",
+    "x": "Middle is just first back."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Then B.0.B. would be first back."
+   },
+   {
+    "w": "",
+    "x": "Yeah, okay, B.0.B. is first back. You're second back."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Middle is just first back."
+  },
+  "art_idea": "The party running from Frost Wardens in single file, with D.E.R.E.K. and little B.0.B. at the very rear under hand-painted signs reading 'SECOND BACK' and 'FIRST BACK'."
+ },
+ {
+  "s": 40,
+  "t": 2553,
+  "d": 46,
+  "title": "Murder fairy, aged two months",
+  "id": "S40-2553",
+  "score": 0.15,
+  "audio": "media/audio/S40-2553.m4a",
+  "cut": "2553+46",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Gideon offers to kill the man standing behind them. The team object, and the question comes up: isn't the murder fairy only about two months old?",
+  "lines": [
+   {
+    "w": "Gideon",
+    "x": "Shall I kill him?"
+   },
+   {
+    "w": "",
+    "x": "No, what the fuck's wrong with you?"
+   },
+   {
+    "w": "",
+    "x": "Coming from a murder fairy, I don't think that would matter."
+   },
+   {
+    "w": "Gideon",
+    "x": "Well, there's a reason I've lived this long."
+   },
+   {
+    "w": "",
+    "x": "You've been in the realm of death and aren't you, like, two months old?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Aren't you, like, two months old?"
+  }
+ },
+ {
+  "s": 40,
+  "t": 3145,
+  "d": 56,
+  "title": "Saved by a tentacle",
+  "id": "S40-3145",
+  "score": 0.15,
+  "audio": "media/audio/S40-3145.m4a",
+  "cut": "3145+56",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Asked about his gods, Fiddle admits one of them once saved his life. With a tentacle in the bum? That does sound like Blibdoolpoolp. Nobody will ever get over the enema arc.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Do you like certain gods?"
+   },
+   {
+    "w": "Fiddle",
+    "x": "Certain gods have shown me a favour in the past, and one was fortunate enough to save my life..."
+   },
+   {
+    "w": "",
+    "x": "With a tentacle in the bum? Because that sounds like Blibdoolpoolp."
+   },
+   {
+    "w": "",
+    "x": "I will never get over the enema arc."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "With a tentacle in the bum? Because that sounds like Blibdoolpoolp."
+  }
+ },
+ {
+  "s": 40,
+  "t": 3598,
+  "d": 48,
+  "title": "62 maggots",
+  "id": "S40-3598",
+  "score": 0.15,
+  "audio": "media/audio/S40-3598.m4a",
+  "cut": "3598+48",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Feeding time: the first maggot hits the creature in the eye and gets licked off with a surprisingly long tongue. Good thing there are 62 more maggots.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "The maggot hits him in the eye."
+   },
+   {
+    "w": "DM",
+    "x": "He uses a surprisingly long tongue to lick his eye and get the maggot."
+   },
+   {
+    "w": "",
+    "x": "We'll just try that a few more times. I've got 62 maggots."
+   },
+   {
+    "w": "",
+    "x": "Fucking hell, that's a lot of maggots."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I've got 62 maggots."
+  }
+ },
+ {
+  "s": 40,
+  "t": 9374,
+  "d": 52,
+  "title": "Infinitely more than zero",
+  "id": "S40-9374",
+  "score": 0.15,
+  "audio": "media/audio/S40-9374.m4a",
+  "cut": "9374+52",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Shopping in Fireholm: a great axe listed at zero gold gets bought for ten, which is technically infinitely more than zero. Selling it back for negative a hundred? The shop has thought of that.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I saw that there was a Great Axe being sold for zero gold, and I gave you ten gold for that."
+   },
+   {
+    "w": "",
+    "x": "I mean, that's infinitely more than zero."
+   },
+   {
+    "w": "DM",
+    "x": "That is technically true, I guess."
+   },
+   {
+    "w": "DM",
+    "x": "I'm going to give it to you for negative a hundred to punish you."
+   },
+   {
+    "w": "",
+    "x": "The devs thought about it. They knew some bozo would do this."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I mean, that's infinitely more than zero."
+  }
+ },
+ {
+  "s": 40,
+  "t": 9950,
+  "d": 46,
+  "title": "Deception mode: activated",
+  "id": "S40-9950",
+  "score": 0.15,
+  "audio": "media/audio/S40-9950.m4a",
+  "cut": "9950+46",
+  "pcs": [
+   "derek",
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "D.E.R.E.K. assures everyone that he does not know of any Agni, B.0.B. The insight rolls are terrible, but it doesn't matter: his Deception Mode announces itself. \"Deception mode activated. Beginning deception.\"",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I do not know of any Agni, B.0.B."
+   },
+   {
+    "w": "",
+    "x": "Don't listen to him. He's malfunctioning. He needs a service."
+   },
+   {
+    "w": "DM",
+    "x": "Twelve, not good. Seven, not good."
+   },
+   {
+    "w": "",
+    "x": "Derek is deceiving as he says this."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Deception mode activated."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Beginning deception."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "Deception mode activated."
+  }
+ },
+ {
+  "s": 41,
+  "t": 2123,
+  "d": 75,
+  "title": "Poor Ricky",
+  "id": "S41-2150",
+  "score": 0.15,
+  "audio": "media/audio/S41-2150.m4a",
+  "cut": "2123+75",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ricky the arena official keeps reminding the team their five minutes of strategy are nearly up, while they work out how much an enlarged horse weighs dropped from sub-orbit. Fiddle draws the plan in the sand. Poor Ricky.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Every footstep is a tectonic event."
+   },
+   {
+    "w": "",
+    "x": "I don't think a 32 ton horse would even be able to support itself."
+   },
+   {
+    "w": "DM",
+    "x": "Ricky is saying that your five minutes are coming close to an end."
+   },
+   {
+    "w": "",
+    "x": "I kind of feel sorry for Ricky, having to sit here and listen to this bullshit."
+   },
+   {
+    "w": "",
+    "x": "I mean, how much does a horse weigh at 64, Ricky?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I kind of feel sorry for Ricky, having to sit here and listen to this bullshit."
+  },
+  "art_idea": "A deadpan arena clerk named Ricky taps his pocket watch while the party argues over a 32-ton horse whose every hoofstep cracks the arena floor like an earthquake."
+ },
+ {
+  "s": 41,
+  "t": 2643,
+  "d": 69,
+  "title": "Standing in Ulrick's shin",
+  "id": "S41-2650",
+  "score": 0.15,
+  "audio": "media/audio/S41-2650.m4a",
+  "cut": "2643+69",
+  "pcs": [
+   "ulrick",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Enlarged, then enlarged again, Ulrick is now about half the size of the arena. Durzo's sneak attack plan: wherever he stands, Ulrick's thigh or shin will be right next to him.",
+  "lines": [
+   {
+    "w": "",
+    "x": "So 20 feet, and then quadrupled."
+   },
+   {
+    "w": "",
+    "x": "That's half the size of the arena!"
+   },
+   {
+    "w": "",
+    "x": "I think we've found our ticket to 48k, boys!"
+   },
+   {
+    "w": "Ulrick",
+    "x": "I could hide behind one of the rocks. No, I say hide, stand behind one of the rocks."
+   },
+   {
+    "w": "",
+    "x": "Where does Ulrick have to stand to perpetually grant advantage to Tom for sneak attack?"
+   },
+   {
+    "w": "Durzo",
+    "x": "Wherever I stand, Ulrick's thigh or shin is just next to me."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "Wherever I stand, Ulrick's thigh or shin is just next to me."
+  },
+  "art_idea": "A tiny Durzo leans casually against the colossal armoured shin of a skyscraper-sized Ulrick, who swings an 80-foot glaive over a boulder across half the arena."
+ },
+ {
+  "s": 41,
+  "t": 7760,
+  "d": 70,
+  "title": "Thanks for the DMing help, Eugenio",
+  "id": "S41-7768",
+  "score": 0.15,
+  "audio": "media/audio/S41-7768.m4a",
+  "cut": "7760+70",
+  "pcs": [
+   "derek",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "D.E.R.E.K.'s player helpfully points out that enemies should get advantage against a hundred-foot Ulrick. Two hits of 28 later, the DM thanks Eugenio for the DMing help, 41 sessions in, and awards 100 XP for turning on the team.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "He rolled another nat 20, thanks D.E.R.E.K."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Whose team is D.E.R.E.K. on? For fuck's sake."
+   },
+   {
+    "w": "DM",
+    "x": "I really appreciate the DMing help, Eugenio. I'm not a very experienced DM, so I really appreciate your input."
+   },
+   {
+    "w": "",
+    "x": "We're 41 sessions in, DM."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I'm just trying to help, you know."
+   },
+   {
+    "w": "DM",
+    "x": "You turn against the team, you get XP. That's the kind of DM I am."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "You turn against the team, you get XP. That's the kind of DM I am."
+  },
+  "art_idea": "D.E.R.E.K. helpfully holds up a 'RULING: ADVANTAGE' sign for a grinning enemy spearman who lands a crit on a furious hundred-foot-tall Ulrick."
+ },
+ {
+  "s": 41,
+  "t": 8146,
+  "d": 41,
+  "title": "Derek is a stickler for the rules",
+  "id": "S41-8150",
+  "score": 0.15,
+  "audio": "media/audio/S41-8150.m4a",
+  "cut": "8146+41",
+  "pcs": [
+   "derek",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Thanks to D.E.R.E.K.'s ruling, the attack on the giant Ulrick comes with big-boy advantage, straight for his eyeball. It bounces off the armour, and Ulrick turns round to deal with Derek, stickler for the rules.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Yeah, okay. So he rolls a 14, which I think misses."
+   },
+   {
+    "w": "",
+    "x": "Yeah, but he has the big boy advantage for it."
+   },
+   {
+    "w": "DM",
+    "x": "He goes right for your eyeball, but it's too heavily armoured."
+   },
+   {
+    "w": "",
+    "x": "I'm going to turn around and I'm going to kill D.E.R.E.K."
+   },
+   {
+    "w": "",
+    "x": "D.E.R.E.K. is just a stickler for the rules, man."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I'm going to turn around and I'm going to kill D.E.R.E.K."
+  },
+  "art_idea": "A tiny glowing spectral weapon jabs uselessly at the armoured visor of a towering giant, while D.E.R.E.K. points smugly to an open rulebook."
+ },
+ {
+  "s": 42,
+  "t": 2588,
+  "d": 46,
+  "title": "Spread the word",
+  "id": "S42-2588",
+  "score": 0.15,
+  "audio": "media/audio/S42-2588.m4a",
+  "cut": "2588+46",
+  "pcs": [
+   "derek",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "A journalist interviews the team (D.E.R.E.K. recommends the bone worms). Asked if there's a word they'd like spread, the team have one ready: \"Extra, extra! Fuck Durzo!\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Anything else, journo?"
+   },
+   {
+    "w": "",
+    "x": "Thanks for the interview. We'll probably have your article published tomorrow."
+   },
+   {
+    "w": "",
+    "x": "Can you spread the word?"
+   },
+   {
+    "w": "",
+    "x": "What word in particular?"
+   },
+   {
+    "w": "",
+    "x": "Fuck Durzo."
+   },
+   {
+    "w": "",
+    "x": "Extra, extra: fuck Durzo."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Extra, extra: fuck Durzo."
+  }
+ },
+ {
+  "s": 42,
+  "t": 3379,
+  "d": 30,
+  "title": "B.0.B. eyes up the gnomes",
+  "id": "S42-3379",
+  "score": 0.15,
+  "audio": "media/audio/S42-3379.m4a",
+  "cut": "3379+30",
+  "pcs": [
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "B.0.B. is eyeing up the gnomes as if they're food and gets a firm head-shake. The drawing of him is spot on, though: round, with a face.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "B.0.B. is eyeing up these gnomes as if they're food."
+   },
+   {
+    "w": "",
+    "x": "Perfect representation of B.0.B. as well. Just round with a face."
+   },
+   {
+    "w": "DM",
+    "x": "This is the map he's drawn."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Just round with a face."
+  }
+ },
+ {
+  "s": 42,
+  "t": 4805,
+  "d": 64,
+  "title": "\"Do you trust me?\" (No.)",
+  "id": "S42-4805",
+  "score": 0.15,
+  "audio": "media/audio/S42-4805.m4a",
+  "cut": "4805+64",
+  "pcs": [
+   "derek",
+   "nate"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Lips pursed, slightly moist, eye looking sensual, D.E.R.E.K. asks: \"Do you trust me?\" The last time Eugenio's character said that, Nate blew somebody up. Instant no. Deception mode activated.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "His lips pursed. Slightly moist. His eye looking sensual. As he just says: do you trust me?"
+   },
+   {
+    "w": "",
+    "x": "I have a flashback of hearing Nate say that before he blows me up. And I just get a cold shiver. No."
+   },
+   {
+    "w": "",
+    "x": "Fuck you, Nate. Fuck you, Chadron."
+   },
+   {
+    "w": "",
+    "x": "Do you trust me, Chadron?"
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Assessing. Deception mode activated."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I have a flashback of hearing Nate say that before he blows me up."
+  }
+ },
+ {
+  "s": 42,
+  "t": 5462,
+  "d": 32,
+  "title": "The joke landed just as well the second time",
+  "id": "S42-5462",
+  "score": 0.15,
+  "audio": "media/audio/S42-5462.m4a",
+  "cut": "5462+32",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Faced with a basalt door with no handles, someone offers the fire words \"Agni… excrement\". Nothing happens. Someone else says it again. The joke landed just as well the second time.",
+  "lines": [
+   {
+    "w": "",
+    "x": "That joke landed just as well as it did when I said it first."
+   },
+   {
+    "w": "",
+    "x": "Did you say it first?"
+   },
+   {
+    "w": "",
+    "x": "Yeah, nothing happened. And then you said it and nothing also happened."
+   },
+   {
+    "w": "",
+    "x": "I said it and everyone continued. And then you said it and it also still continued."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "That joke landed just as well as it did when I said it first."
+  }
+ },
+ {
+  "s": 42,
+  "t": 7370,
+  "d": 38,
+  "title": "Gideon's mom",
+  "id": "S42-7370",
+  "score": 0.15,
+  "audio": "media/audio/S42-7370.m4a",
+  "cut": "7370+38",
+  "pcs": [
+   "gideon",
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Fiddle slides straight under the one-way glass, a blob-man appears out of nowhere, and the table instantly decides who it is: Gideon's mum.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Excuse me, good sir. In Agni's name."
+   },
+   {
+    "w": "",
+    "x": "Excuse me, Blobman."
+   },
+   {
+    "w": "DM",
+    "x": "This is... Gideon's mum."
+   },
+   {
+    "w": "",
+    "x": "Fucking brutal! Out of nowhere!"
+   },
+   {
+    "w": "",
+    "x": "That was instantaneous."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Excuse me, Blobman."
+  }
+ },
+ {
+  "s": 42,
+  "t": 8625,
+  "d": 56,
+  "title": "Get out of my room, B.0.B.",
+  "id": "S42-8625",
+  "score": 0.15,
+  "audio": "media/audio/S42-8625.m4a",
+  "cut": "8625+56",
+  "pcs": [
+   "durzo",
+   "bob",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "While Ulrick tries to explain what just happened, Durzo and B.0.B. are playing tag through the inn. B.0.B. ends up in the wrong room and gets carried out upside down by one leg.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Ulrick, you're trying to explain what's happened, and Durzo and B.0.B. are just playing tag, running around."
+   },
+   {
+    "w": "Durzo",
+    "x": "Can't hide from me, B.0.B.!"
+   },
+   {
+    "w": "DM",
+    "x": "B.0.B. thinks this is really fun."
+   },
+   {
+    "w": "Durzo",
+    "x": "Get out of my room!"
+   },
+   {
+    "w": "Durzo",
+    "x": "I'm holding him upside down by one leg. You're coming with me."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Durzo and B.0.B. are just playing tag, running around."
+  }
+ },
+ {
+  "s": 43,
+  "t": 73,
+  "d": 44,
+  "title": "Nate, subcontracted from beyond the grave",
+  "id": "S43-74",
+  "score": 0.15,
+  "audio": "media/audio/S43-74.m4a",
+  "cut": "73+44",
+  "pcs": [
+   "nate",
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Fiddle's conch starts ringing. It's Nate, whispering from beyond the grave. The table decides Nate is now Fiddle's warlock patron, subcontracted from the Nine Hells.",
+  "lines": [
+   {
+    "w": "Nate",
+    "x": "Errr, as Nate. I'm whispering that from beyond the grave."
+   },
+   {
+    "w": "Fiddle",
+    "x": "My conch is ringing."
+   },
+   {
+    "w": "",
+    "x": "That would be so funny if you had a direct line to Nate through the conch."
+   },
+   {
+    "w": "",
+    "x": "Nate is actually Fiddle's warlock patron now."
+   },
+   {
+    "w": "",
+    "x": "Blipdoolpoolp is like subcontracted to Nate."
+   },
+   {
+    "w": "",
+    "x": "Yeah, you know what? He can do a better job than I can."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Nate is actually Fiddle's warlock patron now."
+  },
+  "art_idea": "Fiddle holds a spiral conch shell to his ear like a phone while a ghostly Nate whispers out of it, with a faded patron deity sulking in the background."
+ },
+ {
+  "s": 43,
+  "t": 432,
+  "d": 40,
+  "title": "I would like it acknowledged",
+  "id": "S43-425",
+  "score": 0.15,
+  "audio": "media/audio/S43-425.m4a",
+  "cut": "432+40",
+  "pcs": [
+   "durzo",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Most of his area attacks would catch Durzo, so one hero would like it formally acknowledged that he has chosen not to hit Durzo. Every single time. Soon everyone wants it acknowledged who they haven't attacked.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I mean, most things I do AOE and probably going to hit Durzo, so I would like it registered that I'm not going to hit Durzo."
+   },
+   {
+    "w": "",
+    "x": "If it's an AOE, your AOE just stems to one block north of the guy you're attacking, because otherwise you're going to hit everyone."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "No, I control who it hits."
+   },
+   {
+    "w": "",
+    "x": "That doesn't sound like an AOE, that sounds like you choose who's going to get hit."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I would like it acknowledged that I've chosen not to do that."
+   },
+   {
+    "w": "",
+    "x": "Okay, every single time I do an attack, I would like it acknowledged that I haven't chosen to attack D.E.R.E.K."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Okay, every single time I do an attack, I would like it acknowledged that I haven't chosen to attack D.E.R.E.K."
+  },
+  "art_idea": "D.E.R.E.K. casts a huge magical blast that visibly bends around Durzo, while a wide-eyed Durzo holds up a sign reading 'ACKNOWLEDGED'."
+ },
+ {
+  "s": 43,
+  "t": 1160,
+  "d": 59,
+  "title": "Did you just Google that?",
+  "id": "S43-1165",
+  "score": 0.15,
+  "audio": "media/audio/S43-1165.m4a",
+  "cut": "1160+59",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Fiddle's player produces the Sharpshooter feat like a trump card he'd been saving, and the rules debate ends with an honest confession: \"Did you just Google that?\" \"I did.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Whilst you're factually correct, you're not specifically correct."
+   },
+   {
+    "w": "",
+    "x": "You're slightly incorrect."
+   },
+   {
+    "w": "Fiddle",
+    "x": "I was just holding on to that little nugget till the end, I was like, oh, I'm ready for this."
+   },
+   {
+    "w": "",
+    "x": "Invisibility gives you advantage, doesn't it?"
+   },
+   {
+    "w": "",
+    "x": "Actually, sharpshooter only affects long range and not short range."
+   },
+   {
+    "w": "",
+    "x": "Did you just Google that?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Whilst you're factually correct, you're not specifically correct."
+  }
+ },
+ {
+  "s": 43,
+  "t": 2634,
+  "d": 53,
+  "title": "Our glorious leader would never",
+  "id": "S43-2638",
+  "score": 0.15,
+  "audio": "media/audio/S43-2638.m4a",
+  "cut": "2634+53",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "\"Our glorious leader would never. He loves all of us.\" Durzo fails the DC 12 Wisdom save and has to attack his nearest ally. He would like everyone to know that this isn't him.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Durzo, our glorious leader would never do that. He loves all of us."
+   },
+   {
+    "w": "Durzo",
+    "x": "I failed."
+   },
+   {
+    "w": "",
+    "x": "You fucking idiot!"
+   },
+   {
+    "w": "DM",
+    "x": "So on your next turn, you need to attack, uh, the closest ally to you."
+   },
+   {
+    "w": "",
+    "x": "You choose either Gideon or Gideon."
+   },
+   {
+    "w": "Durzo",
+    "x": "You heard it though, team. I don't have control over this, right? This isn't me."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "You heard it though, team. I don't have control over this, right? This isn't me."
+  },
+  "art_idea": "Durzo, glassy-eyed with charm magic, points his dagger at his own party and shrugs innocently while his teammates glare at their 'glorious leader'."
+ },
+ {
+  "s": 43,
+  "t": 5150,
+  "d": 165,
+  "title": "Fiddle's whale saves the day",
+  "id": "S43-5150",
+  "score": 0,
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "The sewer's tyrant has the upper hand, until Fiddle calls on the sea. A whale. In a sewer.",
+  "lines": [],
+  "audio": "media/audio/S43-5150.m4a",
+  "cut": "5150+165"
+ },
+ {
+  "s": 43,
+  "t": 11703,
+  "d": 64,
+  "title": "Naming the combo spell",
+  "id": "S43-11686",
+  "score": 0.15,
+  "audio": "media/audio/S43-11686.m4a",
+  "cut": "11703+64",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Gideon theorises stacking two reverse gravities in opposite directions into a singularity that would pull down meteors and, presumably, Agni's arse. The combo spell is named on the spot: Agni's Prolapse.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "No, I was saying I could take one reverse gravity and stack another one on top, but point it in the opposite direction."
+   },
+   {
+    "w": "",
+    "x": "Because then it would pull everything down from above, which presumably would include some meteors and Agni's arse, and then it would go streaming down into the ground."
+   },
+   {
+    "w": "",
+    "x": "Fucking Agni's prolapse."
+   },
+   {
+    "w": "",
+    "x": "That has to be the name of the spell now."
+   },
+   {
+    "w": "",
+    "x": "Alright, let me make a note of that."
+   },
+   {
+    "w": "",
+    "x": "No please, no."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Fucking Agni's prolapse."
+  },
+  "art_idea": "Two opposing columns of reverse gravity crash into a swirling fiery singularity that sucks in meteors and the fire god Agni's flailing behind, while D.E.R.E.K. proudly writes the new spell name in a notebook."
+ },
+ {
+  "s": 44,
+  "t": 2447,
+  "d": 40,
+  "title": "An incredibly accurate recap",
+  "id": "S44-2447",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S44-2447.m4a",
+  "cut": "2447+40"
+ },
+ {
+  "s": 45,
+  "t": 545,
+  "d": 56,
+  "title": "Who goes there? George.",
+  "id": "S45-545",
+  "score": 0.15,
+  "audio": "media/audio/S45-545.m4a",
+  "cut": "545+56",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Sentries shout \"Stop! Who goes there? Identify yourself!\" and get the only sensible answer: \"George.\" Who is George? Nobody knows.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "I respond with: who goes there?"
+   },
+   {
+    "w": "DM",
+    "x": "They continue shouting: STOP! Stop there!"
+   },
+   {
+    "w": "",
+    "x": "Who goes there? Identify yourself."
+   },
+   {
+    "w": "Durzo",
+    "x": "George."
+   },
+   {
+    "w": "",
+    "x": "Who are you talking to?"
+   },
+   {
+    "w": "Durzo",
+    "x": "I said my name and a different name."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "George."
+  }
+ },
+ {
+  "s": 45,
+  "t": 1590,
+  "d": 50,
+  "title": "A wink for Astrarius",
+  "id": "S45-1590",
+  "score": 0.15,
+  "audio": "media/audio/S45-1590.m4a",
+  "cut": "1590+50",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "One hero gives Astrarius a lingering wink on the way out of the tent. \"Alright, bye!\" she says. He's then too flustered to click on his own token.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Out of the way, B.0.B. This is my bed."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I will stare at Astrarius and I will wink. What's the reaction?"
+   },
+   {
+    "w": "DM",
+    "x": "I guess as you're leaving you could get her attention by saying bye or something."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Bye. And then wink."
+   },
+   {
+    "w": "",
+    "x": "Flustered."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "I will stare at Astrarius and I will wink."
+  }
+ },
+ {
+  "s": 45,
+  "t": 2890,
+  "d": 30,
+  "title": "Did you dream about me?",
+  "id": "S45-2890",
+  "score": 0.15,
+  "audio": "media/audio/S45-2890.m4a",
+  "cut": "2890+30",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The same hero has spent all morning trying to ask Astrarius how she slept. Did she sleep well? Did she dream about him? The DM offers a Performance check to see how suave it comes off.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "This entire time I've been trying to ask Astrarius how she slept and she's just leaving me."
+   },
+   {
+    "w": "DM",
+    "x": "You guys can have a nice conversation about how she slept."
+   },
+   {
+    "w": "Ulrick",
+    "x": "Did you think about me? Did you dream about me?"
+   },
+   {
+    "w": "DM",
+    "x": "I'll let you do a performance check to see how cool or suave you come off."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "Did you think about me? Did you dream about me?"
+  }
+ },
+ {
+  "s": 45,
+  "t": 3340,
+  "d": 62,
+  "title": "The front door isn't locked",
+  "id": "S45-3340",
+  "score": 0.15,
+  "audio": "media/audio/S45-3340.m4a",
+  "cut": "3340+62",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Portable rams, barrels of oil and tar borrowed from the camp, and a debate about blowing up the front or the back of Frostfall Fortress. Then someone checks: the front door isn't locked. They can still blow something up, though, right?",
+  "lines": [
+   {
+    "w": "",
+    "x": "Now's the time to actually use the ram, rather than on just a random wall."
+   },
+   {
+    "w": "Ulrick",
+    "x": "But I have many rams. Well, I have one left, but I had three."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I kind of borrowed some barrels of oil and tar from the camp, so we could just blow our way in."
+   },
+   {
+    "w": "DM",
+    "x": "The front door isn't locked."
+   },
+   {
+    "w": "Ulrick",
+    "x": "But we can blow up something, right?"
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "But we can blow up something, right?"
+  }
+ },
+ {
+  "s": 45,
+  "t": 8193,
+  "d": 19,
+  "title": "I don't have a heart",
+  "id": "S45-8193",
+  "score": 0.15,
+  "audio": "media/audio/S45-8193.m4a",
+  "cut": "8193+19",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Asked whether the magic is coming from his heart, Durzo flicks his fringe and delivers the most Durzo line Durzo has ever said.",
+  "quote": {
+   "w": "Durzo",
+   "x": "I don't have a heart."
+  },
+  "lines": [
+   {
+    "w": "",
+    "x": "It's originating from your heart, is it not?"
+   },
+   {
+    "w": "Durzo",
+    "x": "I don't have a heart."
+   },
+   {
+    "w": "",
+    "x": "That is the most Durzo thing I've ever heard Durzo say."
+   },
+   {
+    "w": "DM",
+    "x": "He flicks his fringe as he says it."
+   }
+  ]
+ },
+ {
+  "s": 46,
+  "t": 1045,
+  "d": 19,
+  "title": "Detect undead, like a knee before rain",
+  "id": "S46-1045",
+  "score": 0.15,
+  "audio": "media/audio/S46-1045.m4a",
+  "cut": "1045+19",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Surely someone this close to death just passively detects undead, like a knee that aches before the rain? When you get that ability, you'll get that ability.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Me and Fiddle aren't part of this fight anyway."
+   },
+   {
+    "w": "",
+    "x": "Surely at some point I just passively detect undead."
+   },
+   {
+    "w": "",
+    "x": "Is it like when your knee starts aching and it's about to rain?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Is it like when your knee starts aching and it's about to rain?"
+  }
+ },
+ {
+  "s": 46,
+  "t": 1735,
+  "d": 30,
+  "title": "Worst case, I'll just stop time",
+  "id": "S46-1735",
+  "score": 0.15,
+  "audio": "media/audio/S46-1735.m4a",
+  "cut": "1735+30",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K. offers to heal. Nobody trusts it (\"you're just going to steal my health from later\"), so he offers the backup plan: worst case, he'll just stop time.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I can heal."
+   },
+   {
+    "w": "",
+    "x": "You can't heal for shit. You're just gonna steal my health from later."
+   },
+   {
+    "w": "",
+    "x": "I still wouldn't trust him."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Worst case scenario, I'll just stop time."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "Worst case scenario, I'll just stop time."
+  }
+ },
+ {
+  "s": 46,
+  "t": 2596,
+  "d": 38,
+  "title": "The point of light",
+  "id": "S46-2596",
+  "score": 0.15,
+  "audio": "media/audio/S46-2596.m4a",
+  "cut": "2596+38",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Ulrick casts the spell on his glaive so its tip becomes the point of light. What happens if he ends his turn with the glaive inside someone? Too late, he's already said it.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "I'll cast it on my glaive, so the end of the glaive is the point of light."
+   },
+   {
+    "w": "",
+    "x": "But what if you finish your turn with your glaive inside someone?"
+   },
+   {
+    "w": "Ulrick",
+    "x": "Well, I've already said it now."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "But what if you finish your turn with your glaive inside someone?"
+  }
+ },
+ {
+  "s": 46,
+  "t": 3264,
+  "d": 45,
+  "title": "Derek would never",
+  "id": "S46-3264",
+  "score": 0.15,
+  "audio": "media/audio/S46-3264.m4a",
+  "cut": "3264+45",
+  "pcs": [
+   "derek",
+   "ulrick",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K. boosts Ulrick's hit by 5d6, and Durzo sees exactly what's going on: it's so Durzo doesn't get a chance to hit anything. D.E.R.E.K., as a character, would never. Eugenio, on the other hand…",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I want to increase the damage Ulrick has done by 5d6."
+   },
+   {
+    "w": "",
+    "x": "Let's just note that Derek is supporting the team just so Durzo doesn't get a chance to hit something."
+   },
+   {
+    "w": "Durzo",
+    "x": "Through the blinding light I can see exactly what Derek is trying to do here."
+   },
+   {
+    "w": "",
+    "x": "Derek, as a character, would never do that, Eugenio."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Derek, as a character, would never do that, Eugenio."
+  }
+ },
+ {
+  "s": 46,
+  "t": 5717,
+  "d": 40,
+  "title": "I told you guys",
+  "id": "S46-5717",
+  "score": 0.15,
+  "audio": "media/audio/S46-5717.m4a",
+  "cut": "5717+40",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "epic",
+  "stars": 4,
+  "blurb": "It all comes down to one last attack in the dark of Frostfall Fortress: 28 to hit, and the master vampire only Durzo could see is finally dead. \"I fucking told you guys.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "He might be dead on this turn."
+   },
+   {
+    "w": "Durzo",
+    "x": "And my last attack."
+   },
+   {
+    "w": "",
+    "x": "Okay, it all comes down to this one attack."
+   },
+   {
+    "w": "Durzo",
+    "x": "28 to hit."
+   },
+   {
+    "w": "DM",
+    "x": "Oh, you've killed it."
+   },
+   {
+    "w": "",
+    "x": "What? Does it appear now?"
+   },
+   {
+    "w": "Durzo",
+    "x": "I fucking told you guys."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "I fucking told you guys."
+  }
+ },
+ {
+  "s": 46,
+  "t": 6415,
+  "d": 60,
+  "title": "Some kind of evil (it's Ulrick)",
+  "id": "S46-6415",
+  "score": 0.15,
+  "audio": "media/audio/S46-6415.m4a",
+  "cut": "6415+60",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "A mysterious stone that orbits your head when you toss it in the air. What does it do? Nobody knows. Then a winged token turns up on the map, and it's… an Ulrick.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Toss one of these stones in the air and it orbits your head."
+   },
+   {
+    "w": "",
+    "x": "Did you just see a wing?"
+   },
+   {
+    "w": "",
+    "x": "Some kind of evil."
+   },
+   {
+    "w": "",
+    "x": "Should we hug the wall?"
+   },
+   {
+    "w": "",
+    "x": "Oh, I know what it is. It's a fucking Ulrick."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Oh, I know what it is. It's a fucking Ulrick."
+  }
+ },
+ {
+  "s": 46,
+  "t": 8560,
+  "d": 110,
+  "title": "A bargain with the Sea Mother",
+  "id": "S46-8560",
+  "score": 0,
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Fiddle turns to Blibdoolpoolp for a way through, and the Mad Sea Mother answers.",
+  "lines": [],
+  "audio": "media/audio/S46-8560.m4a",
+  "cut": "8560+110"
+ },
+ {
+  "s": 47,
+  "t": 175,
+  "d": 58,
+  "title": "Derek is his own god",
+  "id": "S47-175",
+  "score": 0.15,
+  "audio": "media/audio/S47-175.m4a",
+  "cut": "175+58",
+  "pcs": [
+   "derek",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Durzo only asked what they were trying to do. D.E.R.E.K. heard \"open the door\", said \"I got this\" and went all out, praying to his god for help. Which is odd, because D.E.R.E.K. is his own god.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I said, trying to open the door, and you were like, I got this."
+   },
+   {
+    "w": "",
+    "x": "He went: let me just speak to my god to achieve this for you, Durzo."
+   },
+   {
+    "w": "",
+    "x": "Something that Derek apparently can't do."
+   },
+   {
+    "w": "",
+    "x": "Derek is his god. He doesn't need to speak to him."
+   },
+   {
+    "w": "",
+    "x": "I mean, Derek is his own god."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Derek is his own god."
+  }
+ },
+ {
+  "s": 47,
+  "t": 3715,
+  "d": 58,
+  "title": "Derek, stop trying to stir",
+  "id": "S47-3715",
+  "score": 0.15,
+  "audio": "media/audio/S47-3715.m4a",
+  "cut": "3715+58",
+  "pcs": [
+   "derek",
+   "durzo",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K. hands Ulrick the \"useless\" ring Durzo gave him, loudly identifying it as a Ring of Ember in front of everyone. There's no pot here, Derek. Stop trying to stir.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Durzo gave me this useless ring, and I have identified it as the Ring of Ember."
+   },
+   {
+    "w": "",
+    "x": "What does it do?"
+   },
+   {
+    "w": "",
+    "x": "That wasn't the ring that was worth 10k."
+   },
+   {
+    "w": "",
+    "x": "And also, there's no pot here, Derek. Stop trying to stir."
+   },
+   {
+    "w": "DM",
+    "x": "I'm a DM, that's what I do."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "There's no pot here, Derek. Stop trying to stir."
+  }
+ },
+ {
+  "s": 47,
+  "t": 4945,
+  "d": 40,
+  "title": "Not the word I was going for",
+  "id": "S47-4945",
+  "score": 0.15,
+  "audio": "media/audio/S47-4945.m4a",
+  "cut": "4945+40",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The strangers turn out to be orcs, and a certain hero is instantly filled with \"incestuous rage\". Not the word he was going for, but the table agrees it fits.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "What are you? they say."
+   },
+   {
+    "w": "Durzo",
+    "x": "I'm a half-elf, what are you?"
+   },
+   {
+    "w": "DM",
+    "x": "Orcs."
+   },
+   {
+    "w": "Durzo",
+    "x": "Durzo is instantly filled with incestuous rage and wants to kill every single one of them."
+   },
+   {
+    "w": "",
+    "x": "Did you just say incestuous rage?"
+   },
+   {
+    "w": "Durzo",
+    "x": "That wasn't the word I was going for. Not the word I wanted, but the word that fits."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "Not the word I wanted, but the word that fits."
+  }
+ },
+ {
+  "s": 47,
+  "t": 10074,
+  "d": 34,
+  "title": "Setting fire to a spider's home",
+  "id": "S47-10074",
+  "score": 0.15,
+  "audio": "media/audio/S47-10074.m4a",
+  "cut": "10074+34",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K.'s speech finally catches up with the rest of time, and by then the team have already started setting fire to the spider's home. Maybe the one in the middle was the real invader.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "You'd hear Derek's speech catch up as he finishes the sentence."
+   },
+   {
+    "w": "",
+    "x": "So I think what we've started doing is setting fire to the spider's home."
+   },
+   {
+    "w": "",
+    "x": "Maybe the guy in the middle was actually invading."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I think what we've started doing is setting fire to the spider's home."
+  }
+ },
+ {
+  "s": 47,
+  "t": 10660,
+  "d": 40,
+  "title": "Slow-motion fireball",
+  "id": "S47-10660",
+  "score": 0.15,
+  "audio": "media/audio/S47-10660.m4a",
+  "cut": "10660+40",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "\"Kill everything.\" A fireball goes off inside D.E.R.E.K.'s slowed field: a slow-motion explosion, with D.E.R.E.K. about six feet from the epicentre.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Kill everything. I feel like we've committed."
+   },
+   {
+    "w": "",
+    "x": "I'm sorry, Derek."
+   },
+   {
+    "w": "",
+    "x": "Is the fireball going to move slowly?"
+   },
+   {
+    "w": "",
+    "x": "Slow motion explosion."
+   },
+   {
+    "w": "DM",
+    "x": "Derek's also slowed."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Slow motion explosion."
+  }
+ },
+ {
+  "s": 48,
+  "t": 2467,
+  "d": 45,
+  "title": "Where's the sound, Derek?",
+  "id": "S48-2467",
+  "score": 0.15,
+  "audio": "media/audio/S48-2467.m4a",
+  "cut": "2467+45",
+  "pcs": [
+   "durzo",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Durzo clicks his new feature and turns into the Grim Reaper. So cool, team. But where's the sound? D.E.R.E.K.'s player wasn't ready with the sound effect, and the moment is ruined.",
+  "lines": [
+   {
+    "w": "",
+    "x": "You click that, you turn into a Grim Reaper. You just win."
+   },
+   {
+    "w": "",
+    "x": "So cool. Where's the sound?"
+   },
+   {
+    "w": "",
+    "x": "Where's the sound, Derek?"
+   },
+   {
+    "w": "",
+    "x": "That's not the sound!"
+   },
+   {
+    "w": "Durzo",
+    "x": "It's fucking ruined."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Where's the sound, Derek?"
+  }
+ },
+ {
+  "s": 48,
+  "t": 6498,
+  "d": 26,
+  "title": "Pull the lever",
+  "id": "S48-6498",
+  "score": 0.15,
+  "audio": "media/audio/S48-6498.m4a",
+  "cut": "6498+26",
+  "pcs": [
+   "derek",
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Beside the Forbidden Machine, D.E.R.E.K. finds a lever, and pulls it. \"Bob! Bob, no!\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Fiddle, come and have a look at this circle."
+   },
+   {
+    "w": "",
+    "x": "And I'm going to pull the lever."
+   },
+   {
+    "w": "DM",
+    "x": "Okay, you pull the lever and..."
+   },
+   {
+    "w": "",
+    "x": "B.0.B.! B.0.B., no!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "B.0.B., no!"
+  }
+ },
+ {
+  "s": 48,
+  "t": 8425,
+  "d": 50,
+  "title": "A really leader thing to do",
+  "id": "S48-8425",
+  "score": 0.15,
+  "audio": "media/audio/S48-8425.m4a",
+  "cut": "8425+50",
+  "pcs": [
+   "durzo",
+   "ulrick",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Facing the River King, team leader Durzo helpfully points out that one of the party is gigantic. A really leader thing to do. Meanwhile the one who actually woke it has turned himself to stone in a corner.",
+  "lines": [
+   {
+    "w": "Durzo",
+    "x": "I'd like to remind the River King that there is a member of our party who is gigantic."
+   },
+   {
+    "w": "",
+    "x": "Thanks, leader. That's a really leader thing to do."
+   },
+   {
+    "w": "",
+    "x": "So courageous of you."
+   },
+   {
+    "w": "Durzo",
+    "x": "I'm a rogue, man."
+   },
+   {
+    "w": "DM",
+    "x": "I will stomp you, puny human."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Thanks, leader. That's a really leader thing to do."
+  }
+ },
+ {
+  "s": 48,
+  "t": 9774,
+  "d": 32,
+  "title": "Three whales on the board",
+  "id": "S48-9774",
+  "score": 0.15,
+  "audio": "media/audio/S48-9774.m4a",
+  "cut": "9774+32",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "D.E.R.E.K. quickens Split Timeline onto a whale so it splits into two whales. The combat that was supposed to take ages now has three whales on the board.",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "And then I will cast, with my Quicken spell, Split Timeline on the whale. So on his turn, he can split into two whales."
+   },
+   {
+    "w": "",
+    "x": "You said this combat was going to take ages."
+   },
+   {
+    "w": "",
+    "x": "We have three whales on the board."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "We have three whales on the board."
+  }
+ },
+ {
+  "s": 48,
+  "t": 10826,
+  "d": 52,
+  "title": "The whale bomb",
+  "id": "S48-10826",
+  "score": 0.15,
+  "audio": "media/audio/S48-10826.m4a",
+  "cut": "10826+52",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Ulrick has one barrel of tar left. The whale is commanded to open wide (it loves it), the barrel goes in, everyone has rope for a fuse, and the whale gets enlarged. The adventuring whale bomb is born.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Have we got any barrels left, Ulrick? If we put a barrel inside the whale, does it go with the whale?"
+   },
+   {
+    "w": "Ulrick",
+    "x": "I do have one barrel."
+   },
+   {
+    "w": "",
+    "x": "I feel a bit bad about shoving a barrel of tar inside of a live whale."
+   },
+   {
+    "w": "",
+    "x": "It loves it. It's delicious."
+   },
+   {
+    "w": "",
+    "x": "I shove the barrel of tar into the whale's mouth."
+   },
+   {
+    "w": "",
+    "x": "Has anyone got any rope? Because we could light the end of it."
+   },
+   {
+    "w": "",
+    "x": "Are we enlarging it?"
+   },
+   {
+    "w": "",
+    "x": "The plan is finally coming to fruition, while we're not even in it."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I feel a bit bad about shoving a barrel of tar inside of a live whale."
+  }
+ },
+ {
+  "s": 49,
+  "t": 293,
+  "d": 45,
+  "title": "We don't need a run-by-run of your pot-stirring",
+  "id": "S49-293",
+  "score": 0.15,
+  "audio": "media/audio/S49-293.m4a",
+  "cut": "293+45",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K. insists on a blow-by-blow recap of last session's closet conversation and group-chat drama. The table would rather he didn't, and suggests he go and watch the recording.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I don't need a run-by-run of your fucking pot-stirring, Derek."
+   },
+   {
+    "w": "",
+    "x": "He was like, I'm going to tell you, and then we went into random channels."
+   },
+   {
+    "w": "",
+    "x": "And when we came back he was like, well, I'm not going to tell you now."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I would direct you all to watch the recording."
+   },
+   {
+    "w": "",
+    "x": "I haven't even watched the recording, and I can tell you."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I don't need a run-by-run of your pot-stirring, Derek."
+  }
+ },
+ {
+  "s": 49,
+  "t": 1740,
+  "d": 145,
+  "title": "\"My son, I am sorry\"",
+  "id": "S49-1740",
+  "score": 0,
+  "pcs": [
+   "derek"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "In a sealed laboratory D.E.R.E.K. meets Vallos, the inventor who built him and his brother R.E.D. \"Derek, my biggest failure. I released you into the world too early.\"",
+  "lines": [],
+  "audio": "media/audio/S49-1740.m4a",
+  "cut": "1740+145"
+ },
+ {
+  "s": 49,
+  "t": 4624,
+  "d": 30,
+  "title": "The DM knows my character",
+  "id": "S49-4624",
+  "score": 0.15,
+  "audio": "media/audio/S49-4624.m4a",
+  "cut": "4624+30",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Would D.E.R.E.K. know what the magical water energy does? The DM rules that he would, but would choose not to share it with the team. \"I like it when the DM knows my character.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "What would you know? It seems like it would be quite useful to know what you know."
+   },
+   {
+    "w": "",
+    "x": "Do I know?"
+   },
+   {
+    "w": "DM",
+    "x": "Derek, you would know, but you would choose not to share it with the team."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Nice. I like it when the DM knows my character."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "I like it when the DM knows my character."
+  }
+ },
+ {
+  "s": 49,
+  "t": 7486,
+  "d": 36,
+  "title": "Ulrick answered for you",
+  "id": "S49-7486",
+  "score": 0.15,
+  "audio": "media/audio/S49-7486.m4a",
+  "cut": "7486+36",
+  "pcs": [
+   "ulrick",
+   "durzo",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "Durzo asks Chadron, the tankiest of them, to charge the river god with him. Before Chadron can say a word, Ulrick has answered for him.",
+  "lines": [
+   {
+    "w": "Ulrick",
+    "x": "Chadron, are you going to run up to the god because you're the tankiest? Are you going to come with me?"
+   },
+   {
+    "w": "",
+    "x": "Just do a ranged attack and I'll run towards it."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Can I answer him?"
+   },
+   {
+    "w": "",
+    "x": "No, Ulrick's answered for you."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I don't mind if you answer him."
+   },
+   {
+    "w": "",
+    "x": "No."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "No, Ulrick's answered for you."
+  }
+ },
+ {
+  "s": 49,
+  "t": 8215,
+  "d": 80,
+  "title": "Speak a mortal's name",
+  "id": "S49-8215",
+  "score": 0,
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "The Scales of Judgement, lost to Agni for an age, are finally found. The runes around their base light up: speak a mortal's name, and Agni's judgement will be rendered.",
+  "lines": [],
+  "audio": "media/audio/S49-8215.m4a",
+  "cut": "8215+80"
+ },
+ {
+  "s": 49,
+  "t": 9326,
+  "d": 32,
+  "title": "Nyxara doesn't care about me",
+  "id": "S49-9326",
+  "score": 0.15,
+  "audio": "media/audio/S49-9326.m4a",
+  "cut": "9326+32",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Told to ask Nyxara for help, Durzo is blunt about his patron. He tries to switch to his Grim Weeper form anyway, but he hasn't rested. \"Nyxara, please…\"",
+  "quote": {
+   "w": "Durzo",
+   "x": "Nyxara doesn't care about me."
+  },
+  "lines": [
+   {
+    "w": "",
+    "x": "Durzo, you should touch the scale."
+   },
+   {
+    "w": "Durzo",
+    "x": "I don't know their names, Derek."
+   },
+   {
+    "w": "",
+    "x": "You can ask Nyxara first. She knows names."
+   },
+   {
+    "w": "Durzo",
+    "x": "Nyxara doesn't care about me."
+   },
+   {
+    "w": "Durzo",
+    "x": "I can't turn Grim Weeper. I haven't fucking rested."
+   }
+  ]
+ },
+ {
+  "s": 49,
+  "t": 9874,
+  "d": 50,
+  "title": "Leave the scale alone, Chad",
+  "id": "S49-9874",
+  "score": 0.15,
+  "audio": "media/audio/S49-9874.m4a",
+  "cut": "9874+50",
+  "pcs": [
+   "derek",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K. has two choices: keep doing top damage to the God-Emperor of the River, or touch the Scales. What would Derek do? Durzo sees him drifting towards them.",
+  "quote": {
+   "w": "Durzo",
+   "x": "Leave the scale alone, Chadron. Just finish the fight."
+  },
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Derek has two choices. He continues to do top DPS to the God-Emperor River, or he touches the scale."
+   },
+   {
+    "w": "",
+    "x": "What would Derek do?"
+   },
+   {
+    "w": "Durzo",
+    "x": "Leave the scale alone, Chadron. Just finish the fight."
+   },
+   {
+    "w": "DM",
+    "x": "The whirlpool's still there, by the way."
+   }
+  ]
+ },
+ {
+  "s": 50,
+  "t": 95,
+  "d": 195,
+  "title": "The night of the Scales",
+  "id": "S50-95",
+  "score": 0,
+  "pcs": [
+   "derek",
+   "ulrick",
+   "bob"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Night on the airship. D.E.R.E.K. creeps to the Scales to pass judgement on his brother R.E.D. Ulrick wakes, talks him down, and hands him B.0.B. to look after instead.",
+  "lines": [],
+  "audio": "media/audio/S50-95.m4a",
+  "cut": "95+195"
+ },
+ {
+  "s": 50,
+  "t": 4736,
+  "d": 45,
+  "title": "The skeleton is steering",
+  "id": "S50-4736",
+  "score": 1.0,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S50-4736.m4a",
+  "cut": "4736+45"
+ },
+ {
+  "s": 50,
+  "t": 7663,
+  "d": 45,
+  "title": "1,500 gold more than you should have",
+  "id": "S50-7663",
+  "score": 1.0,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S50-7663.m4a",
+  "cut": "7663+45"
+ },
+ {
+  "s": 50,
+  "t": 9432,
+  "d": 38,
+  "title": "Something in the corner of my room",
+  "id": "S50-9432",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S50-9432.m4a",
+  "cut": "9432+38"
+ },
+ {
+  "s": 51,
+  "t": 1505,
+  "d": 40,
+  "title": "He's our leader. He never lies.",
+  "id": "S51-1505",
+  "score": 0.15,
+  "audio": "media/audio/S51-1505.m4a",
+  "cut": "1505+40",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "An 18 on the roll, and the emo guy standing behind is nodding along, so it must be true: \"He's our leader. He never lies.\" The ogre has doubts. Durzo never lying is now canon.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "That emo guy behind you is nodding, so I presume you're telling the truth."
+   },
+   {
+    "w": "",
+    "x": "Yeah, he's our leader. He never lies."
+   },
+   {
+    "w": "DM",
+    "x": "He never lies?"
+   },
+   {
+    "w": "",
+    "x": "He never lies, no."
+   },
+   {
+    "w": "",
+    "x": "I don't think that's true."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "He's our leader. He never lies."
+  }
+ },
+ {
+  "s": 51,
+  "t": 3957,
+  "d": 48,
+  "title": "I have people for that",
+  "id": "S51-3957",
+  "score": 0.15,
+  "audio": "media/audio/S51-3957.m4a",
+  "cut": "3957+48",
+  "pcs": [
+   "ulrick",
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Someone mistook it for a water fountain, and it turns out full plate makes washing your hands after the toilet complicated. The paladin has people for that: \"Fiddle, come wipe me.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "I thought that was a water fountain."
+   },
+   {
+    "w": "",
+    "x": "B.0.B. is Kirby now."
+   },
+   {
+    "w": "",
+    "x": "You can't wash your hands if you shit in full plate."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I have people for that. Fiddle, come wipe me."
+   },
+   {
+    "w": "",
+    "x": "Fiddle just tears off some of his shirt: coming!"
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "I have people for that. Fiddle, come wipe me."
+  }
+ },
+ {
+  "s": 51,
+  "t": 6107,
+  "d": 50,
+  "title": "What Fiddle actually sounds like",
+  "id": "S51-6107",
+  "score": 0.15,
+  "audio": "media/audio/S51-6107.m4a",
+  "cut": "6107+50",
+  "pcs": [
+   "fiddle",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Mid arena bout, Ulrick gets teleported (mount and all) and shrunk: \"Bloody goblins, making me do things I don't want.\" Then the revelation that nobody has actually understood Fiddle this whole time, and this is what he sounds like.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I can teleport Ulrick to there."
+   },
+   {
+    "w": "",
+    "x": "Teleport just him, or his mount?"
+   },
+   {
+    "w": "",
+    "x": "He counts as one token."
+   },
+   {
+    "w": "",
+    "x": "Bloody goblins, making me do things I don't want."
+   },
+   {
+    "w": "",
+    "x": "None of us have actually been understanding Fiddle the whole time, and he just sounds like this to us."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "None of us have actually been understanding Fiddle the whole time."
+  }
+ },
+ {
+  "s": 51,
+  "t": 6505,
+  "d": 36,
+  "title": "You walk into an orange",
+  "id": "S51-6505",
+  "score": 0.15,
+  "audio": "media/audio/S51-6505.m4a",
+  "cut": "6505+36",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Durzo sneaks ahead and the DM sets the scene in loving detail: there's an orange thing right below you. You walk into an orange. \"Oh, I'm so immersed now.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Are you gonna sneak, Durzo?"
+   },
+   {
+    "w": "DM",
+    "x": "There's an orange thing right below you."
+   },
+   {
+    "w": "DM",
+    "x": "Yeah, you walk into an orange."
+   },
+   {
+    "w": "",
+    "x": "Oh, I'm so immersed now."
+   },
+   {
+    "w": "",
+    "x": "It's so good. I feel like I'm playing."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "You walk into an orange."
+  }
+ },
+ {
+  "s": 51,
+  "t": 8016,
+  "d": 50,
+  "title": "I'm a bird",
+  "id": "S51-8016",
+  "score": 0.15,
+  "audio": "media/audio/S51-8016.m4a",
+  "cut": "8016+50",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "A Staggering Smite, a flood of soundboard effects and one over-stimulated table. \"I'm a bird.\" Have you got one for a robot?",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Can I read it, please?"
+   },
+   {
+    "w": "",
+    "x": "It's in the chat. It's literally already there."
+   },
+   {
+    "w": "",
+    "x": "Staggering Smite."
+   },
+   {
+    "w": "",
+    "x": "That was a lot of sound."
+   },
+   {
+    "w": "",
+    "x": "I'm a bird."
+   },
+   {
+    "w": "",
+    "x": "Have you got one for a robot?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I'm a bird."
+  }
+ },
+ {
+  "s": 51,
+  "t": 10058,
+  "d": 46,
+  "title": "See you in two turns, baby",
+  "id": "S51-10058",
+  "score": 0.15,
+  "audio": "media/audio/S51-10058.m4a",
+  "cut": "10058+46",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "D.E.R.E.K. is paused somewhere in time and space mid-fight while the team shout at him to hit something. His reply drifts back like a muffled tune from somewhere in space.",
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "I'll see you in two turns, baby."
+  },
+  "lines": [
+   {
+    "w": "",
+    "x": "That's the rules of the game."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Screw the rules."
+   },
+   {
+    "w": "",
+    "x": "Derek's paused in time and space."
+   },
+   {
+    "w": "",
+    "x": "If you can hear us, hit him."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I'll see you in two turns, baby."
+   },
+   {
+    "w": "",
+    "x": "You're gonna hear that muffled tune from somewhere in space."
+   }
+  ]
+ },
+ {
+  "s": 51,
+  "t": 12814,
+  "d": 62,
+  "title": "Derek attacks the tree (the tree is Gideon)",
+  "id": "S51-12814",
+  "score": 0.15,
+  "audio": "media/audio/S51-12814.m4a",
+  "cut": "12814+62",
+  "pcs": [
+   "derek",
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "D.E.R.E.K. glides through the arena teleporter into a room filled mostly with tree. With no context, all he sees is the Grim Weeper and a big tree, so he panics and attacks the tree. The tree is Gideon.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Fiddle just shakes his head and points at the teleporter."
+   },
+   {
+    "w": "DM",
+    "x": "You enter a room filled mostly with tree."
+   },
+   {
+    "w": "",
+    "x": "Derek would have no context for this. He would just see the Grim Weeper and a big tree."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "I think he's just going to attack the tree in a bit of a panic."
+   },
+   {
+    "w": "",
+    "x": "Why is Thomas the Tank Engine on my screen?"
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "You enter a room filled mostly with tree."
+  }
+ },
+ {
+  "s": 52,
+  "t": 274,
+  "d": 52,
+  "title": "Derek will power through (while Derek's away)",
+  "id": "S52-274",
+  "score": 0.15,
+  "audio": "media/audio/S52-274.m4a",
+  "cut": "274+52",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "D.E.R.E.K.'s player has stepped away and Chadron is on 20 health, so the table decides for him: Derek will power through and skip the long rest. If he comes back dead, there's only one person to blame. The DM.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Kill it with fire. Rewind it to its seed form."
+   },
+   {
+    "w": "",
+    "x": "It's rewind time."
+   },
+   {
+    "w": "",
+    "x": "Chadron is very low. He'd probably want to long rest."
+   },
+   {
+    "w": "",
+    "x": "While Derek's not here, I think Derek will power through and not long rest."
+   },
+   {
+    "w": "",
+    "x": "If he comes back and he's dead in the 30 minutes he's not here, there's only one person to blame. The DM."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "While Derek's not here, I think Derek will power through."
+  }
+ },
+ {
+  "s": 52,
+  "t": 1163,
+  "d": 40,
+  "title": "Quick, rewind time, Derek!",
+  "id": "S52-1163",
+  "score": 0.15,
+  "audio": "media/audio/S52-1163.m4a",
+  "cut": "1163+40",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Both of the team's frontline fighters are grappled at once, and there's only one plan left: \"Quick! Rewind time, Derek! Rewind!\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Guys!"
+   },
+   {
+    "w": "DM",
+    "x": "Oh my god, you guys are terrible. So you're both grappled."
+   },
+   {
+    "w": "DM",
+    "x": "Your front-line fighting support have been grappled, guys."
+   },
+   {
+    "w": "",
+    "x": "Quick, rewind. Rewind time, Derek."
+   },
+   {
+    "w": "",
+    "x": "Just shaking Derek like: rewind! Rewind!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Quick, rewind. Rewind time, Derek."
+  }
+ },
+ {
+  "s": 52,
+  "t": 2366,
+  "d": 32,
+  "title": "Do I save B.0.B.? (No.)",
+  "id": "S52-2366",
+  "score": 0.15,
+  "audio": "media/audio/S52-2366.m4a",
+  "cut": "2366+32",
+  "pcs": [
+   "fiddle",
+   "ulrick",
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "B.0.B. is in trouble and it's Fiddle's turn: \"Ulrick, do I save your child? Do I save Bob?\" The quickest decision ever made at this table.",
+  "quote": {
+   "w": "Fiddle",
+   "x": "Ulrick, do I save your child?"
+  },
+  "lines": [
+   {
+    "w": "DM",
+    "x": "RIP B.0.B. But Derek is safely on the roofs of the houses, so that's good."
+   },
+   {
+    "w": "Fiddle",
+    "x": "Ulrick, do I save your child? Do I save B.0.B.?"
+   },
+   {
+    "w": "Ulrick",
+    "x": "Oh, fuck him."
+   },
+   {
+    "w": "Ulrick",
+    "x": "No."
+   },
+   {
+    "w": "",
+    "x": "The quickest resolution ever."
+   }
+  ]
+ },
+ {
+  "s": 52,
+  "t": 3182,
+  "d": 40,
+  "title": "We're going to shoot Derek",
+  "id": "S52-3182",
+  "score": 0.15,
+  "audio": "media/audio/S52-3182.m4a",
+  "cut": "3182+40",
+  "pcs": [
+   "fiddle",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Fiddle's song comes on and he has a plan: shoot D.E.R.E.K. with a teleporting arrow to move him across the rooftops. First of two shots, straight at Derek.",
+  "lines": [
+   {
+    "w": "Fiddle",
+    "x": "Oh yeah, my song's on."
+   },
+   {
+    "w": "Fiddle",
+    "x": "Alright, we're going to shoot Derek."
+   },
+   {
+    "w": "Fiddle",
+    "x": "We're going to teleport him just over here with my teleporting arrow."
+   },
+   {
+    "w": "DM",
+    "x": "I mean, Derek has a reaction."
+   }
+  ],
+  "quote": {
+   "w": "Fiddle",
+   "x": "Alright, we're going to shoot Derek."
+  }
+ },
+ {
+  "s": 52,
+  "t": 4780,
+  "d": 55,
+  "title": "Derek has never touched the floor",
+  "id": "S52-4780",
+  "score": 0.15,
+  "audio": "media/audio/S52-4780.m4a",
+  "cut": "4780+55",
+  "pcs": [
+   "derek",
+   "gideon",
+   "fiddle",
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Down the sewer hatch: D.E.R.E.K. hovers down gracefully (he has never touched a floor in his life), Gideon dives in on top of Fiddle, and then Ulrick follows: \"Geronimo! Cannonball!\" Fiddle's going to die down there.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "He hovers down gracefully."
+   },
+   {
+    "w": "",
+    "x": "Derek has never touched the floor in his life."
+   },
+   {
+    "w": "",
+    "x": "Especially the sewer."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "That's for normal time-obeying mortals. Like you."
+   },
+   {
+    "w": "",
+    "x": "Geronimo! Cannonball!"
+   },
+   {
+    "w": "",
+    "x": "Fiddle's going to die down there."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "That's for normal time-obeying mortals. Like you."
+  }
+ },
+ {
+  "s": 52,
+  "t": 7866,
+  "d": 50,
+  "title": "Please don't spawn a whale in here",
+  "id": "S52-7866",
+  "score": 0.15,
+  "audio": "media/audio/S52-7866.m4a",
+  "cut": "7866+50",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "epic",
+  "stars": 4,
+  "blurb": "\"Please don't spawn a whale in here.\" It's not a whale, it's a guy. Then Fiddle's summons brings in the Lethargic Leviathan, and it is massive. \"Fiddle, stop spawning shit.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Please don't spawn a whale in here."
+   },
+   {
+    "w": "",
+    "x": "It's not a 20, it's not a whale, it's a 9."
+   },
+   {
+    "w": "",
+    "x": "Oh, it's that dude!"
+   },
+   {
+    "w": "",
+    "x": "The Lethargic Leviathan."
+   },
+   {
+    "w": "",
+    "x": "What the fuck is that? Oh my god, it's massive!"
+   },
+   {
+    "w": "",
+    "x": "Guys, who do I attack? I'm so confused."
+   },
+   {
+    "w": "",
+    "x": "Fiddle, stop spawning shit!"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Fiddle, stop spawning shit!"
+  }
+ },
+ {
+  "s": 53,
+  "t": 4643,
+  "d": 45,
+  "title": "Locate Plant",
+  "id": "S53-4643",
+  "score": 0.66,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S53-4643.m4a",
+  "cut": "4643+45"
+ },
+ {
+  "s": 53,
+  "t": 7183,
+  "d": 40,
+  "title": "The answer to everything is 42 damage",
+  "id": "S53-7183",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S53-7183.m4a",
+  "cut": "7183+40"
+ },
+ {
+  "s": 54,
+  "t": 941,
+  "d": 34,
+  "title": "How central is central?",
+  "id": "S54-941",
+  "score": 0.15,
+  "audio": "media/audio/S54-941.m4a",
+  "cut": "941+34",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Durzo asks how central the place is. About 234 feet from the centre, at 197 degrees. For the perfect roleplay moment, he repeats his question: \"How central is central?\"",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "It's going to be about 234 feet from the centre and 197 degrees."
+   },
+   {
+    "w": "DM",
+    "x": "So for the perfect roleplay moment, Durzo, if you could repeat your question."
+   },
+   {
+    "w": "Durzo",
+    "x": "How central is central?"
+   },
+   {
+    "w": "",
+    "x": "It's about 234 feet from the centre. I forgot what he said, but it's really central."
+   }
+  ],
+  "quote": {
+   "w": "Durzo",
+   "x": "How central is central?"
+  }
+ },
+ {
+  "s": 54,
+  "t": 2966,
+  "d": 50,
+  "title": "Our lawful good paladin punches a corpse",
+  "id": "S54-2966",
+  "score": 0.15,
+  "audio": "media/audio/S54-2966.m4a",
+  "cut": "2966+50",
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Ulrick, lawful good paladin, punches a corpse in the face with his gauntlets of ogre power. It was already dead! He was told it was dead! Perhaps Nyxara will see it as ferrying the body to the afterlife.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I'm really glad that our lawful good paladin punched the shit out of that innocent."
+   },
+   {
+    "w": "Ulrick",
+    "x": "It was dead! I was told it was dead!"
+   },
+   {
+    "w": "DM",
+    "x": "It was already dead. It's mostly bone and maybe a bit of skin and ligament."
+   },
+   {
+    "w": "",
+    "x": "How does Nyxara rate the respect for the dead where you just punched them in the face?"
+   },
+   {
+    "w": "",
+    "x": "We're gonna hear sighs of acceptance from Mori on the wind."
+   }
+  ],
+  "quote": {
+   "w": "Ulrick",
+   "x": "It was dead! I was told it was dead!"
+  }
+ },
+ {
+  "s": 54,
+  "t": 4372,
+  "d": 18,
+  "title": "Let's test the process",
+  "id": "S54-4372",
+  "score": 0.15,
+  "audio": "media/audio/S54-4372.m4a",
+  "cut": "4372+18",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "The Skycrest crew interviews begin, four at a time. Can we do one first, just to test the process? Let's start with the 200-year-old goblin.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Four at a time."
+   },
+   {
+    "w": "",
+    "x": "Can we get one in just to test the process?"
+   },
+   {
+    "w": "",
+    "x": "Let's go for the 200-year-old goblin first."
+   },
+   {
+    "w": "",
+    "x": "Yeah, let's test it."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Can we get one in just to test the process?"
+  }
+ },
+ {
+  "s": 54,
+  "t": 4810,
+  "d": 40,
+  "title": "The ghost is unionised",
+  "id": "S54-4810",
+  "score": 0.15,
+  "audio": "media/audio/S54-4810.m4a",
+  "cut": "4810+40",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Interview question for a would-be crew member: if the ship is haunted, but the ghost is unionised, what do you do? \"Call a rep and complain?\" Acceptable.",
+  "lines": [
+   {
+    "w": "",
+    "x": "If the ship is haunted, but the ghost is unionised, what do you do?"
+   },
+   {
+    "w": "",
+    "x": "If the ship is haunted, and who is unionised?"
+   },
+   {
+    "w": "",
+    "x": "The ghost."
+   },
+   {
+    "w": "",
+    "x": "You would call its rep and complain?"
+   },
+   {
+    "w": "",
+    "x": "Acceptable."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "If the ship is haunted, but the ghost is unionised, what do you do?"
+  }
+ },
+ {
+  "s": 54,
+  "t": 6957,
+  "d": 22,
+  "title": "Kev Larson",
+  "id": "S54-6957",
+  "score": 0.15,
+  "audio": "media/audio/S54-6957.m4a",
+  "cut": "6957+22",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Any more questions for Kev? Where does the name Kev Larson come from? His friends used to call him Kevlar, so his parents named him after it. Exactly.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Where did your name come from, Kev Larson?"
+   },
+   {
+    "w": "DM",
+    "x": "Well, my friends used to call me Kevlar."
+   },
+   {
+    "w": "",
+    "x": "And so your parents decided to take that and call you Kev Larson?"
+   },
+   {
+    "w": "DM",
+    "x": "Exactly, yeah."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "My friends used to call me Kevlar."
+  }
+ },
+ {
+  "s": 54,
+  "t": 7815,
+  "d": 45,
+  "title": "Dear diary",
+  "id": "S54-7815",
+  "score": 0.15,
+  "audio": "media/audio/S54-7815.m4a",
+  "cut": "7815+45",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The interview panel fires questions (if anyone gets one wrong, D.E.R.E.K. will simply rewind time, with a creepy wink that's basically a blink). One candidate pulls out a little notebook: \"Dear Diary…\"",
+  "lines": [
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Don't worry if you get any of them wrong, I'll simply rewind time."
+   },
+   {
+    "w": "DM",
+    "x": "He does the creepiest wink that is basically just a blink."
+   },
+   {
+    "w": "",
+    "x": "Your mother is a muscular tiefling who's a leader of a small band of Agni worshippers, right?"
+   },
+   {
+    "w": "DM",
+    "x": "He pulls out a little notebook."
+   },
+   {
+    "w": "",
+    "x": "Dear diary."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "Don't worry if you get any of them wrong, I'll simply rewind time."
+  }
+ },
+ {
+  "s": 55,
+  "t": 351,
+  "d": 45,
+  "title": "Reading the spell together, one word each",
+  "id": "S55-351",
+  "score": 0.15,
+  "audio": "media/audio/S55-351.m4a",
+  "cut": "351+45",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "A new spell to learn, so the team read its description together, one word each: \"Spell. Changes. A. Single. Single. Event. In.\" They don't make it past the first sentence.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "I haven't read it yet. I wanted us all to do it together."
+   },
+   {
+    "w": "",
+    "x": "We all read fragmented parts of it."
+   },
+   {
+    "w": "",
+    "x": "Spell."
+   },
+   {
+    "w": "",
+    "x": "Changes."
+   },
+   {
+    "w": "",
+    "x": "A."
+   },
+   {
+    "w": "",
+    "x": "Single."
+   },
+   {
+    "w": "",
+    "x": "Event."
+   },
+   {
+    "w": "",
+    "x": "In."
+   },
+   {
+    "w": "",
+    "x": "Alright, fuck this."
+   },
+   {
+    "w": "",
+    "x": "I thought we'd get past the first sentence and we didn't."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I thought we'd get past the first sentence and we didn't."
+  }
+ },
+ {
+  "s": 55,
+  "t": 4183,
+  "d": 40,
+  "title": "\"I'm god of time, Derek\"",
+  "id": "S55-4183",
+  "score": 0.15,
+  "audio": "media/audio/S55-4183.m4a",
+  "cut": "4183+40",
+  "pcs": [
+   "derek",
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "The interview becomes a sparring match (to the death? No, it's an interview). Nobody is sure who is Fiddle any more, but one thing is certain: \"I am God of Time, Derek.\" Then the candidate punches someone in the face.",
+  "lines": [
+   {
+    "w": "",
+    "x": "It's to the death, right?"
+   },
+   {
+    "w": "",
+    "x": "I'm not doing a to-the-death fight during an interview process. That's fucking crazy."
+   },
+   {
+    "w": "",
+    "x": "Wait, you're Fiddle?"
+   },
+   {
+    "w": "",
+    "x": "No, you're Fiddle."
+   },
+   {
+    "w": "",
+    "x": "Who am I?"
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Well, I am God of Time, Derek."
+   }
+  ],
+  "quote": {
+   "w": "D.E.R.E.K.",
+   "x": "Well, I am God of Time, Derek."
+  }
+ },
+ {
+  "s": 55,
+  "t": 6150,
+  "d": 30,
+  "title": "Not now, B.0.B.",
+  "id": "S55-6150",
+  "score": 0.15,
+  "audio": "media/audio/S55-6150.m4a",
+  "cut": "6150+30",
+  "pcs": [
+   "bob",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "\"Father? Mother? Father, why?\" B.0.B. wants attention. \"Not now, B.0.B. The grown-ups are doing things. Go and practise your stabbing over there. Just stab the lamp.\"",
+  "lines": [
+   {
+    "w": "B.0.B.",
+    "x": "Father."
+   },
+   {
+    "w": "",
+    "x": "I thought he was mother."
+   },
+   {
+    "w": "B.0.B.",
+    "x": "Father, why? Mother, why?"
+   },
+   {
+    "w": "",
+    "x": "Not now, B.0.B. The grown-ups are doing things."
+   },
+   {
+    "w": "",
+    "x": "Go practise your stabbing over there, okay?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Not now, B.0.B. The grown-ups are doing things."
+  }
+ },
+ {
+  "s": 55,
+  "t": 7341,
+  "d": 45,
+  "title": "I think he heard you",
+  "id": "S55-7341",
+  "score": 0.15,
+  "audio": "media/audio/S55-7341.m4a",
+  "cut": "7341+45",
+  "pcs": [
+   "derek",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 2,
+  "blurb": "D.E.R.E.K. whispers to Durzo out loud, even though he could just speak telepathically. The candidate hears every word. Telepathically, at last: \"I think he heard me.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "Which one are you?"
+   },
+   {
+    "w": "",
+    "x": "Over here. This one."
+   },
+   {
+    "w": "",
+    "x": "I'm going to whisper to Durzo, even though I could talk to him telepathically. I don't like that one."
+   },
+   {
+    "w": "DM",
+    "x": "He hears you."
+   },
+   {
+    "w": "",
+    "x": "I telepathically say: I think he heard me."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "I telepathically say: I think he heard me."
+  }
+ },
+ {
+  "s": 56,
+  "t": 1884,
+  "d": 30,
+  "title": "Who is Michael Flameaxes again?",
+  "id": "S56-1884",
+  "score": 0.15,
+  "audio": "media/audio/S56-1884.m4a",
+  "cut": "1884+30",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "A tortured Michael Flameaxes lands on the deck, and the table tries to remember who he is: the sewer Ashen Brotherhood leader, the one who told them to leave because he could handle it. Also, possibly, the enema guy.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Who the fuck is Michael Flameaxes?"
+   },
+   {
+    "w": "",
+    "x": "The Ashen Brotherhood leader. The sewer guy."
+   },
+   {
+    "w": "",
+    "x": "The guy that told us to leave and he could handle it."
+   },
+   {
+    "w": "",
+    "x": "And the guy that also de-cursed Nate at one point."
+   },
+   {
+    "w": "",
+    "x": "Oh, is this the enema guy?"
+   },
+   {
+    "w": "",
+    "x": "That's the same guy, yeah."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Oh, is this the enema guy?"
+  }
+ },
+ {
+  "s": 56,
+  "t": 3721,
+  "d": 42,
+  "title": "That was an artery",
+  "id": "S56-3721",
+  "score": 0.15,
+  "audio": "media/audio/S56-3721.m4a",
+  "cut": "3721+42",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Fiddle, ship's surgeon, reopens the patient's cut to have a look. The patient loses 57 hit points before surgery has technically started. \"Ooh, that was an artery.\"",
+  "lines": [
+   {
+    "w": "",
+    "x": "So the plan is to reopen the cut he has."
+   },
+   {
+    "w": "",
+    "x": "Why did he actually lose 57 hit points?"
+   },
+   {
+    "w": "DM",
+    "x": "We haven't even started yet, guys."
+   },
+   {
+    "w": "",
+    "x": "What did Fiddle do?"
+   },
+   {
+    "w": "DM",
+    "x": "Ooh, that was an artery."
+   },
+   {
+    "w": "",
+    "x": "I need someone to generate an AI image of this happening."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "Ooh, that was an artery."
+  }
+ },
+ {
+  "s": 56,
+  "t": 4818,
+  "d": 62,
+  "title": "Seen it done at least five times",
+  "id": "S56-4818",
+  "score": 0.15,
+  "audio": "media/audio/S56-4818.m4a",
+  "cut": "4818+62",
+  "pcs": [
+   "fiddle",
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 5,
+  "blurb": "Every organ starts on the left when it should be on the right. Fiddle comes clean about his qualifications, and Gideon, who usually just plays with bones, asks if he can take one.",
+  "quote": {
+   "w": "Fiddle",
+   "x": "I've never actually done this before, but I've seen it at least five times."
+  },
+  "lines": [
+   {
+    "w": "Fiddle",
+    "x": "It starts from the left, whereas it should start on the right."
+   },
+   {
+    "w": "Fiddle",
+    "x": "Sorry, I did lie. I've never actually done this before, but I've seen it at least five times."
+   },
+   {
+    "w": "Fiddle",
+    "x": "I've seen elves, humans and dwarves as well. And the occasional gnome."
+   },
+   {
+    "w": "Gideon",
+    "x": "I usually just play with bones."
+   },
+   {
+    "w": "Gideon",
+    "x": "Can I take one?"
+   }
+  ]
+ },
+ {
+  "s": 56,
+  "t": 6785,
+  "d": 50,
+  "title": "The pilot light is out. Over.",
+  "id": "S56-6785",
+  "score": 0.15,
+  "audio": "media/audio/S56-6785.m4a",
+  "cut": "6785+50",
+  "pcs": [
+   "bob"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Over the intercom from the engine room, the three modrons In Accordance report: \"We've lost engine control. The pilot light is out. Over.\" The fix: send B.0.B. down with his knife.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Well, it was nice to have an airship while we did."
+   },
+   {
+    "w": "DM",
+    "x": "Over the intercom from the lower deck engines, Three in Accordance. You probably don't know which one because you don't care to learn."
+   },
+   {
+    "w": "DM",
+    "x": "We've lost engine control. The pilot light is out. Over."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "B.0.B., could you handle this?"
+   },
+   {
+    "w": "DM",
+    "x": "He gets his knife out."
+   },
+   {
+    "w": "D.E.R.E.K.",
+    "x": "Yes, I'm sending down my assistant to fix things."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "The pilot light is out. Over."
+  }
+ },
+ {
+  "s": 56,
+  "t": 8562,
+  "d": 45,
+  "title": "Add it to the notes you won't read",
+  "id": "S56-8562",
+  "score": 0.15,
+  "audio": "media/audio/S56-8562.m4a",
+  "cut": "8562+45",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Gideon's skeletons have been buffed, nerfed and buffed again, once mid-session. Does he want them buffed now? The negotiation ends with \"add it to the notes you won't read\". No buff, then.",
+  "lines": [
+   {
+    "w": "",
+    "x": "You buff them, and then you nerf them, and then you buff them."
+   },
+   {
+    "w": "DM",
+    "x": "I gave them an OP weapon once by accident."
+   },
+   {
+    "w": "",
+    "x": "And you nerfed them mid-session. I remember that one."
+   },
+   {
+    "w": "DM",
+    "x": "Do you want me to buff them? Just say it, man."
+   },
+   {
+    "w": "",
+    "x": "Add it to your notes that you won't read."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Add it to your notes that you won't read."
+  }
+ },
+ {
+  "s": 57,
+  "t": 790,
+  "d": 32,
+  "title": "Flashback: every time Mori has helped",
+  "id": "S57-790",
+  "score": 0.15,
+  "audio": "media/audio/S57-790.m4a",
+  "cut": "790+32",
+  "pcs": [
+   "ulrick",
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "\"Ulrick, Durzo, so you have risen again. In olden days I would have rewarded your insolence with death a thousandfold.\" It's Mori, and the table demands an emotional flashback to every time he has helped the party.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Ulrick, Durzo, so you have risen again. In olden days, I would have rewarded your insolence with death a thousandfold."
+   },
+   {
+    "w": "DM",
+    "x": "It reminds you of that time he tried to help you cross that river."
+   },
+   {
+    "w": "",
+    "x": "Do we have a really emotional flashback to all the times that Mori has helped the party?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "Do we have a really emotional flashback to all the times that Mori has helped the party?"
+  }
+ },
+ {
+  "s": 57,
+  "t": 1147,
+  "d": 64,
+  "title": "The 275,000th millennium",
+  "id": "S57-1147",
+  "score": 0.15,
+  "audio": "media/audio/S57-1147.m4a",
+  "cut": "1147+64",
+  "pcs": [
+   "durzo"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "How long has passed? He lost count at about the 275,000th millennium. Then his eyes roll back into his head, perception checks all round, and Durzo rolls a 2 and still gets 20.",
+  "lines": [
+   {
+    "w": "",
+    "x": "How long has passed, exactly?"
+   },
+   {
+    "w": "DM",
+    "x": "Oh, a very long time. I lost count at about the 275,000th millennium."
+   },
+   {
+    "w": "",
+    "x": "And what exactly happened?"
+   },
+   {
+    "w": "DM",
+    "x": "His eyes seem to glaze over and roll into the back of his head. Can you all do a perception check, please?"
+   },
+   {
+    "w": "",
+    "x": "That immersion was just broken."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "I lost count at about the 275,000th millennium."
+  }
+ },
+ {
+  "s": 57,
+  "t": 1444,
+  "d": 56,
+  "title": "A reasonable break, for someone who has sat through millennia",
+  "id": "S57-1444",
+  "score": 0.15,
+  "audio": "media/audio/S57-1444.m4a",
+  "cut": "1444+56",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "Should they discuss what Mori wants before discussing what to do about it? Can they take five? And what's a reasonable break to someone who has sat through millennia? Ten minutes? A year? Okay.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Should we see what he needs us to do before we discuss what we're going to do with what he wants us to do?"
+   },
+   {
+    "w": "",
+    "x": "Do you want to discuss talking about discussing what to do when he asked us?"
+   },
+   {
+    "w": "",
+    "x": "Is that okay, Mori? Can we take five?"
+   },
+   {
+    "w": "DM",
+    "x": "What if I say no? I do have millennia."
+   },
+   {
+    "w": "",
+    "x": "What is a reasonable time span to you, who has sat through millennia?"
+   },
+   {
+    "w": "DM",
+    "x": "Ten minutes?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "What is a reasonable time span to you, who has sat through millennia?"
+  }
+ },
+ {
+  "s": 57,
+  "t": 2100,
+  "d": 60,
+  "title": "Gidlion the Colossal has returned",
+  "id": "S57-2100",
+  "score": 0,
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "At the end of time, a cult of skeletons decides that Gideon is their long-lost titan, Gidlion the Colossal. Nobody corrects them.",
+  "lines": [],
+  "audio": "media/audio/S57-2100.m4a",
+  "cut": "2100+60"
+ },
+ {
+  "s": 57,
+  "t": 2958,
+  "d": 50,
+  "title": "A story with a beginning, a middle and a cage",
+  "id": "S57-2958",
+  "score": 0.15,
+  "audio": "media/audio/S57-2958.m4a",
+  "cut": "2958+50",
+  "pcs": [
+   "fiddle"
+  ],
+  "kind": "funny",
+  "stars": 4,
+  "blurb": "The Librarian of Dust demands an original story. The team's best offer: the time Fiddle fought to the death in a cage. It has a beginning (we found a cage), a middle (it was in the middle of the cage) and an end (he got out of the cage).",
+  "lines": [
+   {
+    "w": "",
+    "x": "We did get Fiddle to fight to the death in a cage. That was a pretty good story."
+   },
+   {
+    "w": "",
+    "x": "Just killing someone in a cage is not a story."
+   },
+   {
+    "w": "",
+    "x": "It'll have a beginning, middle, and end."
+   },
+   {
+    "w": "",
+    "x": "What's the beginning?"
+   },
+   {
+    "w": "",
+    "x": "We found a cage."
+   },
+   {
+    "w": "",
+    "x": "What's the middle?"
+   },
+   {
+    "w": "",
+    "x": "It was in the middle of the cage."
+   },
+   {
+    "w": "",
+    "x": "And the end?"
+   },
+   {
+    "w": "",
+    "x": "I ended up getting out of the cage."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "The middle? It was in the middle of the cage."
+  }
+ },
+ {
+  "s": 57,
+  "t": 4553,
+  "d": 34,
+  "title": "A Rube Goldberg machine for Ulrick",
+  "id": "S57-4553",
+  "score": 0.15,
+  "audio": "media/audio/S57-4553.m4a",
+  "cut": "4553+34",
+  "pcs": [
+   "ulrick",
+   "derek"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Ulrick keeps being teleported mid-charge, panics, and runs back the wrong way straight into D.E.R.E.K.'s line of sight. Between them they've built a Rube Goldberg machine for Ulrick to charge through.",
+  "lines": [
+   {
+    "w": "DM",
+    "x": "Ulrick panics because he's just disappeared and appeared somewhere else."
+   },
+   {
+    "w": "DM",
+    "x": "And now he's running back in the wrong direction."
+   },
+   {
+    "w": "",
+    "x": "We've made like a Rube Goldberg machine for Ulrick to charge."
+   },
+   {
+    "w": "Ulrick",
+    "x": "I'm just getting faster and faster as I keep running and teleporting around."
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "We've made a Rube Goldberg machine for Ulrick to charge."
+  }
+ },
+ {
+  "s": 57,
+  "t": 5346,
+  "d": 28,
+  "title": "It's just a floating head",
+  "id": "S57-5346",
+  "score": 0.15,
+  "audio": "media/audio/S57-5346.m4a",
+  "cut": "5346+28",
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "One hero readies his reaction: as the creature fires, he'll stick a finger up its bum. It's just a floating head. It doesn't have a bum. He's going to try anyway.",
+  "lines": [
+   {
+    "w": "",
+    "x": "I'm going to stick my finger up its bum as a reaction, just as it fires."
+   },
+   {
+    "w": "DM",
+    "x": "It's just a floating head. It doesn't have a bum."
+   },
+   {
+    "w": "",
+    "x": "I'm going to try anyway."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "It's just a floating head. It doesn't have a bum."
+  }
+ },
+ {
+  "s": 57,
+  "t": 5842,
+  "d": 44,
+  "title": "Cyclopean Cog",
+  "id": "S57-5842",
+  "score": 0.15,
+  "audio": "media/audio/S57-5842.m4a",
+  "cut": "5842+44",
+  "pcs": [
+   "derek"
+  ],
+  "kind": "epic",
+  "stars": 4,
+  "blurb": "D.E.R.E.K. clumps into position and casts his new spell, Cyclopean Cog: a colossal cog from another world rifts into being in front of him, ten feet wide, and launches at the enemy. Much better than Fireball.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Derek's just gonna move here. Clunk."
+   },
+   {
+    "w": "",
+    "x": "And then he's going to cast Cyclopean Cog."
+   },
+   {
+    "w": "",
+    "x": "That doesn't sound like Fireball."
+   },
+   {
+    "w": "",
+    "x": "Ah, it's much better."
+   },
+   {
+    "w": "",
+    "x": "Just launches the giant cog."
+   },
+   {
+    "w": "",
+    "x": "What the fuck?"
+   }
+  ],
+  "quote": {
+   "w": "",
+   "x": "That doesn't sound like Fireball."
+  }
+ },
+ {
+  "s": 57,
+  "t": 9394,
+  "d": 36,
+  "title": "Hummingbird physics",
+  "id": "S57-9394",
+  "score": 0.15,
+  "audio": "media/audio/S57-9394.m4a",
+  "cut": "9394+36",
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "funny",
+  "stars": 3,
+  "blurb": "Out of curiosity, someone asked ChatGPT how much wind a pair of hummingbird wings would make scaled up twenty times. About 40 to 60 km/h as you fly away. Pretty windy round here.",
+  "lines": [
+   {
+    "w": "",
+    "x": "Out of curiosity, I asked ChatGPT how much force a hummingbird's wings would generate if you scaled it up to 20 times its size."
+   },
+   {
+    "w": "",
+    "x": "Your wings would generate about 40 to 60 kilometre-per-hour winds around you as you fly away."
+   },
+   {
+    "w": "DM",
+    "x": "So it's pretty windy around here."
+   }
+  ],
+  "quote": {
+   "w": "DM",
+   "x": "So it's pretty windy around here."
+  }
+ },
+ {
+  "s": 57,
+  "t": 9626,
+  "d": 40,
+  "title": "The Necrolith and the World Tree",
+  "id": "S57-9626",
+  "score": 0,
+  "pcs": [
+   "gideon"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Gideon presses his Necrolith ring against the cracked bark of the dead World Tree and begins to hum. A sickly green glow spreads through the wood like veins.",
+  "lines": [],
+  "audio": "media/audio/S57-9626.m4a",
+  "cut": "9626+40"
+ },
+ {
+  "s": 58,
+  "t": 2982,
+  "d": 28,
+  "title": "I just don't want an epic",
+  "id": "S58-2982",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S58-2982.m4a",
+  "cut": "2982+28"
+ },
+ {
+  "s": 58,
+  "t": 5703,
+  "d": 42,
+  "title": "I've been deaf for an hour",
+  "id": "S58-5703",
+  "score": 0.92,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S58-5703.m4a",
+  "cut": "5703+42"
+ },
+ {
+  "s": 59,
+  "t": 2185,
+  "d": 30,
+  "title": "Cooler not to look",
+  "id": "S59-2185",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S59-2185.m4a",
+  "cut": "2185+30"
+ },
+ {
+  "s": 59,
+  "t": 5054,
+  "d": 24,
+  "title": "The knee-high wall",
+  "id": "S59-5054",
+  "score": 0.95,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S59-5054.m4a",
+  "cut": "5054+24"
+ },
+ {
+  "s": 59,
+  "t": 8906,
+  "d": 30,
+  "title": "It will hurt in every timeline",
+  "id": "S59-8906",
+  "score": 1.0,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S59-8906.m4a",
+  "cut": "8906+30"
+ },
+ {
+  "s": 60,
+  "t": 1121,
+  "d": 40,
+  "title": "Not that kind of robot",
+  "id": "S60-1121",
+  "score": 0.15,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S60-1121.m4a",
+  "cut": "1121+40"
+ },
+ {
+  "s": 60,
+  "t": 3972,
+  "d": 35,
+  "title": "Classic Derek",
+  "id": "S60-3972",
+  "score": 0.57,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S60-3972.m4a",
+  "cut": "3972+35"
+ },
+ {
+  "s": 60,
+  "t": 6911,
+  "d": 38,
+  "title": "Take a census",
+  "id": "S60-6911",
+  "score": 0.47,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S60-6911.m4a",
+  "cut": "6911+38"
+ },
+ {
+  "s": 60,
+  "t": 8176,
+  "d": 40,
+  "title": "Intimidating the intimidation",
+  "id": "S60-8176",
+  "score": 0.58,
+  "pcs": [],
+  "kind": "funny",
+  "stars": 3,
+  "lines": [],
+  "audio": "media/audio/S60-8176.m4a",
+  "cut": "8176+40"
+ },
+ {
+  "s": 60,
+  "t": 9684,
+  "d": 60,
+  "title": "The Scales are used for the first time",
+  "id": "S60-9684",
+  "score": 0,
+  "pcs": [
+   "ulrick"
+  ],
+  "kind": "epic",
+  "stars": 5,
+  "blurb": "Ulrick slaps the Scales and shouts a name. Agni's verdict is still to come.",
+  "lines": [],
+  "audio": "media/audio/S60-9684.m4a",
+  "cut": "9684+60"
+ }
+]

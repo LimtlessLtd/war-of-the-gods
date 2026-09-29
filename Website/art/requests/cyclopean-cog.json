@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "cyclopean-cog",
+  "kind": "moment",
+  "moment_id": "S57-5842",
+  "title": "Cyclopean Cog",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a desolate, ash-grey wasteland at the end of time under a dim, bruised sky. D.E.R.E.K. (also called Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, wearing hooded red-and-orange robes decorated with clockwork and clock-face motifs. He stands in a heroic casting pose, one golden hand thrust forward, as a rift of golden light tears open in the air in front of him and a colossal ornate brass cog, ten feet wide and taller than a house, spins out of it, teeth glowing, hurtling towards shadowy enemy shapes in the distance. Sparks, wind and dust. Show him from a low angle so the cog dwarfs him. Epic and a little ridiculous, played completely straight.",
+  "references": [
+    {
+      "path": "PCs/Chadron.png",
+      "role": "Character appearance reference for D.E.R.E.K.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "D.E.R.E.K., a golden one-eyed construct in red robes, launches a colossal glowing brass cog out of a rift in the air across an ash-grey wasteland."
+}

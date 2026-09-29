@@ -1,0 +1,801 @@
+{
+ "chapters": [
+  {
+   "num": "I",
+   "title": "Campess Port",
+   "place": "Campess Port",
+   "blurb": "Fresh off the boat in the busy port that feeds Aurilia. Doppelgangers, drug smugglers, a hidden temple of death and the first inquisitor to fall.",
+   "pin": 1,
+   "sessions": [
+    {
+     "n": 1,
+     "day": "1",
+     "title": "Doppelgangers & Inquisitors",
+     "sumt": 0,
+     "text": "The heroes land in Campess Port. Land baron James Moorecroft wants his manor back from a doppelganger, and the team work out he <i>is</i> the doppelganger and help him anyway. Nate gives Moorecroft's name to Frost Warden Inquisitor Alaric Voss. Ulrick's first act of righteousness ruins a cabbage merchant. A charity worker called Cassandra is helping the Enimat addicts.",
+     "tags": [
+      "Campess Port"
+     ],
+     "clips": [
+      "rNEtaxbhijE",
+      "-tXoWU8pQ64"
+     ]
+    },
+    {
+     "n": 2,
+     "day": "2–3",
+     "title": "Farmer John's Livestock",
+     "sumt": 40,
+     "text": "Spider-things are stealing Farmer John's animals and laying eggs in them. Lyrial and Durzo kill the spider queen, but Daisy the cow has to be put down and a hatchling takes Farmer John's legs. That night Cassandra slips into Durzo's room and reveals the Ashen Brotherhood. Their price: deal with Alaric Voss. On the road north, boars trained by goblins attack.",
+     "tags": [
+      "Campess Port"
+     ],
+     "dead": [
+      "Daisy the cow"
+     ],
+     "clips": [
+      "yF8R9QiOc_I"
+     ]
+    },
+    {
+     "n": 3,
+     "day": "3–4",
+     "title": "The Goblin Camp",
+     "sumt": 95,
+     "text": "The goblin camp falls. Gobril the mage and war chief Borgan die, and the youngest brother, Gobgan, gets away. Durzo tears a goblin's arm off and keeps its wand. Back in the Campess sewers the team find Enimat smugglers and an old acquaintance of Lyrial's, Lazy Larry Lumps.",
+     "tags": [
+      "Campess Port"
+     ],
+     "dead": [
+      "Gobril the Goblin Mage",
+      "Borgan, Goblin War Chief"
+     ]
+    },
+    {
+     "n": 4,
+     "day": "4",
+     "title": "The Temple of Nyxara",
+     "sumt": 150,
+     "text": "Behind wards and rubble in the sewers lies a forgotten temple to Nyxara, the Veiled Shadow. Her acolytes reveal that Nyxara and Auril were once allies against Agni. Durzo pledges himself and is marked, and learns that his sister Elara is held in Nyxara's shadow realm.",
+     "tags": [
+      "Campess Port",
+      "god:Nyxara"
+     ],
+     "clips": [
+      "nwWRsyDLqzI"
+     ]
+    },
+    {
+     "n": 5,
+     "day": "5",
+     "title": "The Drug Den",
+     "sumt": 200,
+     "text": "The team raid the Enimat den, and production in Campess Port all but stops. Nate murders several people in cold blood, which becomes a habit. They meet Grub and his magical box, and win the Stones of Communication from a trapped maze.",
+     "tags": [
+      "Campess Port"
+     ]
+    },
+    {
+     "n": 6,
+     "day": "6",
+     "title": "Barrels of Oil",
+     "sumt": 270,
+     "text": "Two barrels of oil, a broken cart and an hour of faffing. Then the ambush: Alaric Voss's men die at once, and the Inquisitor is knocked prone and finished. Agni, the Humble Axeman, reveals himself, and Ulrick and Lyrial are marked. The Ashen Brotherhood asks them to find out why the Muttonham chapter has gone silent, four days to the north.",
+     "tags": [
+      "Campess Port",
+      "god:Agni"
+     ],
+     "dead": [
+      "Alaric Voss, Frost Warden Inquisitor"
+     ],
+     "clips": [
+      "GlDD5smr4Pw"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "II",
+   "title": "The Road North",
+   "place": "The river road",
+   "blurb": "Four days north to Muttonham, with a sea hag, a mad sea goddess and a sandwich shop.",
+   "pin": 2,
+   "sessions": [
+    {
+     "n": 7,
+     "day": "7–8",
+     "title": "The Mad Sea Mother",
+     "sumt": 330,
+     "text": "A sea hag and her fish-folk ambush the river crossing, and Nate is marked by Blibdoolpoolp (he loves it). Ulrick loads the oil cart onto a boat, which becomes a character-defining trait. In sunken ruins they kill Gobgan and meet the Mad Sea Mother herself. Her gifts: Nate's magic-eight-ball conch, Lyrial's whistle that summons Grub, Ulrick's branding gloves and Durzo's locket of Elara.",
+     "tags": [
+      "god:Blibdoolpoolp"
+     ],
+     "dead": [
+      "Gobgan the Younger"
+     ]
+    },
+    {
+     "n": 8,
+     "day": "9–10",
+     "title": "The Barely Cursed Bazaar",
+     "sumt": 420,
+     "text": "Han Jodgeman sells barely cursed items and mystery-meat sandwiches. The team bankrupt his guards, Spog, Spig, Biff and Boff, at a game of 21s, then find the butchery where the sandwiches come from. They free Grandpa Bulmore, who offers a reward in Muttonham that they never collect. They ignore a gnome running across the road.",
+     "tags": [],
+     "dead": [
+      "Han Jodgeman"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "III",
+   "title": "Muttonham",
+   "place": "Muttonham",
+   "blurb": "A market town under Auril's thumb, until the team arrive and it very much isn't.",
+   "pin": 3,
+   "sessions": [
+    {
+     "n": 9,
+     "day": "11",
+     "title": "Arrival in Muttonham",
+     "sumt": 470,
+     "text": "Nate tries to burn down the church of Auril within the hour and only just dodges a cone of cold. Lyrial spits on Auril's shrine and nearly dies to an ice wraith, and wanted posters go up. A hostel turns out to be the Muttonham Ashen Brotherhood, taken over by Karen, who is killed along with her lover Kyle. In the sewers, Boro Chalk the Turtle bores everyone with his life story. Ulrick has taken a vow of silence.",
+     "tags": [
+      "Muttonham"
+     ],
+     "dead": [
+      "Karen, usurper of the Muttonham chapter",
+      "Kyle"
+     ]
+    },
+    {
+     "n": 10,
+     "day": "12",
+     "title": "Breaking Vows & Prison Breaks",
+     "sumt": 550,
+     "text": "Ulrick breaks his vow of silence and Agni punishes him for it. The team break Sir Jared of Blampsfield out of Muttonham prison. Meanwhile Ulrick and Lyrial board a ship frozen in time, meet Chronos, the Timekeeper, and find his grandfather clock.",
+     "tags": [
+      "Muttonham",
+      "god:Chronos"
+     ],
+     "clips": [
+      "mGyrPFM7OLo"
+     ]
+    },
+    {
+     "n": 11,
+     "day": "13–14",
+     "title": "Visiting Hours",
+     "sumt": 615,
+     "text": "An attempted mutiny aboard the Stinky Binky over the clock goes nowhere. It turns out you can simply visit prisoners on visiting day. The team interrogate Martin Jr., then Warden Steven Highflag is murdered and Nate explodes his body. Nate strolls out of the prison disguised as the warden.",
+     "tags": [
+      "Muttonham"
+     ],
+     "dead": [
+      "Warden Steven Highflag"
+     ]
+    },
+    {
+     "n": 12,
+     "day": "15",
+     "title": "The Auction & the Church",
+     "sumt": 700,
+     "text": "An auction descends into chaos, with Nate yelling \"SKIP!\" as if the bidding were a cutscene. The team buy explosives without a licence, eventually get one, and blow up the Muttonham church of Auril.",
+     "tags": [
+      "Muttonham"
+     ],
+     "clips": [
+      "1S1XG0RNuTs"
+     ]
+    },
+    {
+     "n": 13,
+     "day": "16–17",
+     "title": "Mega-Jon",
+     "sumt": 770,
+     "text": "Sir Jared warns that the capital, Urbas Fortis, is mobilising to retake Muttonham. The druidic coven sends the team after three brothers: Tree Jon, who is blind; Bone Jon, who is mute; and Water Jon, who is deaf. Together they become Mega-Jon. Then the team see the gnome again and, finally, follow it down a hole.",
+     "tags": [
+      "Muttonham"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "IV",
+   "title": "The Battle of Muttonham",
+   "place": "Muttonham",
+   "blurb": "The Frostfall Four hold the bridge against Auril's army, and Nate Wavecrest becomes a legend.",
+   "pin": 3,
+   "sessions": [
+    {
+     "n": 14,
+     "title": "The One With The Gnomes",
+     "day": "18",
+     "text": "Underground lies Guh-Nome-Home: chest-high walls, robot guards and \"NO TALL-EES ALLOWED\". King Flippy Nips needs his auto-gnome factory fixed. Nate wanders off to find a ship, the team find a cheese compass, and the attack on Muttonham is two and a half days away.",
+     "tags": [
+      "Underdark"
+     ],
+     "clips": [
+      "3usfYWpNQ9Q",
+      "c5VlU3IWll4",
+      "QtsCKIcr-QQ",
+      "wanDaUzFVT4",
+      "VMvPbLNmxqQ",
+      "WkrifOo6b9M"
+     ]
+    },
+    {
+     "n": 15,
+     "title": "The Battle for Muttonham (Setup & Scouts)",
+     "day": "19–20",
+     "text": "Two hundred XP for whoever recaps the whole campaign, and a surprisingly good recap follows. Barricades go up, ballistae are placed and scouts go out, including Durzo's solo mission to spy on Urbas Fortis. Sir Jared rallies the town: \"For Muttonham, for Agni, for freedom!\"",
+     "tags": [
+      "Muttonham",
+      "battle"
+     ]
+    },
+    {
+     "n": 16,
+     "title": "The Battle for Muttonham (Part 2 of 70)",
+     "day": "21",
+     "text": "Blizzards, ice wraiths, Frost Wardens and giants. The bridge holds, and then it doesn't. Manly Stanley is last seen on the bridge, and whispers of betrayal go round. Durzo summons his sister Elara to fight beside him. The defenders fall back through the town.",
+     "tags": [
+      "Muttonham",
+      "battle"
+     ]
+    },
+    {
+     "n": 17,
+     "title": "The Final Battle for Muttonham",
+     "day": "21",
+     "text": "At the fallback line, Nate sends a ship over the waterfall and takes around three hundred Frost Wardens with it. Muttonham stands, and the crowd chants \"Wavecrest! Wavecrest!\" Sir Jared names Nate the architect of the victory. Nate paid a price for it: he had double-crossed Auril herself.",
+     "tags": [
+      "Muttonham",
+      "battle"
+     ],
+     "dead": [
+      "~300 Frost Wardens (the waterfall)"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "V",
+   "title": "Nogratis Pass",
+   "place": "Nogratis Pass",
+   "blurb": "Public transport, modron bureaucracy and a werewolf dinner party on the way to Nogratis.",
+   "pin": 4,
+   "sessions": [
+    {
+     "n": 18,
+     "title": "Train Tickets From Hell",
+     "day": "22–24",
+     "text": "Loot, levels and a victory lap. Auril's blackened mark is creeping up Nate's chest, the price of betraying a goddess, and the cure needs a flame-flower. At the Nogratis Pass station, modrons demand Form 374 DASH TX, triplicate signatures and a declaration of intent that may not use the word \"travel\".",
+     "tags": [
+      "modrons"
+     ],
+     "clips": [
+      "qE7xUUdtZiI",
+      "wv6r7wvbXGs",
+      "2BE8ssMFmTs",
+      "F0gwI0cCP7g"
+     ]
+    },
+    {
+     "n": 19,
+     "title": "Public Transport Experiences",
+     "day": "25",
+     "text": "All aboard. The train stops dead in a dark tunnel. A travelling circus invites the team to dinner in the werewolf carriage, and Ulrick walks out of it with lycanthropy.",
+     "tags": [
+      "modrons"
+     ]
+    },
+    {
+     "n": 20,
+     "title": "Vicious Children & Self Defence Situations",
+     "day": "25",
+     "text": "Further down the train: bear-folk called Breanne and Daniel, a lantern-obsessed conductor, Frost Wardens, and an immovable rod at last. There were children, and Nate was not gentle with them.",
+     "tags": [],
+     "clips": [
+      "Z9wLX54QcdM"
+     ]
+    },
+    {
+     "n": 21,
+     "title": "The One With No Sound!",
+     "day": "26",
+     "text": "Something definitely happened. The recording has no sound, so we will never know what.",
+     "tags": []
+    },
+    {
+     "n": 22,
+     "title": "Nate Dies… Again",
+     "day": "27",
+     "text": "Hugo's \"shortcut\" through the caves turns out to be a terrible idea. Nate touches a tree he shouldn't have. Ice zombies, a frost druid and charging mammoths follow, and Nate dies (again). He gets better. Durzo's arm gets blown off by an eldritch blast, and he has never let it go.",
+     "tags": [
+      "death"
+     ],
+     "clips": [
+      "0Gyq8K1Q0l0"
+     ]
+    },
+    {
+     "n": 23,
+     "title": "Everyone Definitely Had Their Turns",
+     "day": "28–29",
+     "text": "Goblin-dwarfs, an invisible grave shade that can see the invisible team, and a prison full of levers and switches. Nate is on five stacks of exhaustion (\"maybe don't betray a god\"). The train finally arrives in Nogratis.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "num": "VI",
+   "title": "Nogratis",
+   "place": "Nogratis",
+   "blurb": "A university town under frost, where Nate gets cleansed, Ulrick goes wolf and justice is not on the menu.",
+   "pin": 5,
+   "sessions": [
+    {
+     "n": 24,
+     "title": "Nate Finally Sees A Doctor",
+     "day": "30",
+     "text": "Grub's recon: the Frost Wardens are on high alert and the city knows the team by sight, especially \"Nate the Betrayer\". Out come the disguises. A church in the city offers to cleanse Nate of Auril's blight, and the cure is a ritual.",
+     "tags": [
+      "god:Auril"
+     ]
+    },
+    {
+     "n": 25,
+     "title": "Aurilian Enema",
+     "day": "31",
+     "text": "Nate's cleansing is complete, and it was an enema. Then Ulrick turns into a werewolf and runs through the streets of Nogratis, and not everyone survives. The team learn about the prison under the church and start telling the townsfolk about Agni.",
+     "tags": [
+      "god:Auril"
+     ],
+     "dead": [
+      "Victims of Ulrick's first transformation"
+     ]
+    },
+    {
+     "n": 26,
+     "title": "A Just & Fair Trial",
+     "day": "32–33",
+     "text": "Ulrick is captured and put on trial before Judge Mallory Voss, mother of the late Alaric. Borak \"The Bull\" Stonefist, a Scottish dwarf barbarian and truly terrible lawyer, takes the case. A ghost throws things at the guards. Lyrial spends an hour locked in a room.",
+     "tags": [
+      "trial"
+     ]
+    },
+    {
+     "n": 27,
+     "title": "The One With No Technical Difficulties",
+     "day": "33",
+     "text": "The kangaroo court continues. Witnesses lie and are lied about, and Nate flirts with the judge, who mind-probes Lyrial in a cupboard. Ulrick is found guilty of murder, blasphemy three times over, treason and terrorism. The team draft Operation Squeaky Clean Getaway.",
+     "tags": [
+      "trial"
+     ]
+    },
+    {
+     "n": 28,
+     "title": "Ulrick the Perceiver of Toes",
+     "day": "35",
+     "text": "Shopping first: smugglers' guild memberships, and a 7,225-gold flying broomstick for Nate. Then the plan: two felled trees across the road and a surprise attack on the prison escort. Borak gets caught standing in the middle of the road, but Ulrick comes out of the cage cart alive.",
+     "tags": [
+      "battle"
+     ]
+    },
+    {
+     "n": 29,
+     "title": "Great Actors & Offensive Accents",
+     "day": "36",
+     "text": "The team teleport away from the jailbreak, and Lyrial runs off without a word. Back in Nogratis the team pull off a job fuelled by quality role-play and questionable accents at the auction house. It works. Someone was greedy with the takings.",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "num": "VII",
+   "title": "Durzo's Quest",
+   "place": "Mt Mistmourne",
+   "blurb": "Nyxara calls her marked one home. The road to her citadel costs two heroes their lives.",
+   "pin": 6,
+   "sessions": [
+    {
+     "n": 30,
+     "title": "The Gang Gets Schooled",
+     "day": "37–39",
+     "text": "Nate goes in disguised as a woman journalist and Durzo goes in invisible. In the evidence room under the church, Ulrick and Borak decide everyone is fair game, and Ulrick gets his gear back. Borak outbids everyone at the auction house for an item he doesn't want. Lyrial sends a stone-message: <i>\"I have failed Ulrick… I am disguised and travelling.\"</i> The next lead is at Nogratis University, where Head Teacher Prismari keeps order and Ulrick gets detention for something Nate did.",
+     "tags": [
+      "Nogratis"
+     ]
+    },
+    {
+     "n": 31,
+     "title": "Durzo's Quest (F*ck Durzo)",
+     "day": "40–43",
+     "text": "The academy in peril: a hidden room behind the headmistress's quarters where two people worship forbidden gods. Nate touches an ice tree, again, and everyone sleeps in the teachers' lounge. Then Durzo's quest begins, and the team head north through the Drowsewood towards Mt Mistmourne.",
+     "tags": [
+      "god:Nyxara"
+     ]
+    },
+    {
+     "n": 32,
+     "title": "Durzo's Quest (F*ck Nate)",
+     "day": "44–45",
+     "text": "Riddles in the mountains. A hidden temple where fire and shadow must be kept in balance, with braziers, mirrors, and two keys that have to be taken together. Then a stooped man in a moth-eaten hood offers pre-paid burial rites: Mori the Mortuarian. The team turn him down, and not for the last time. Ghosts beg for help as the session ends.",
+     "tags": [
+      "god:Agni",
+      "god:Nyxara"
+     ],
+     "clips": [
+      "Kye2uzDwMw8",
+      "tiqEWM60_o4",
+      "04n8gdLwiA4"
+     ]
+    },
+    {
+     "n": 33,
+     "title": "Regards & Riddles (Nate & Lyrial's FINAL Regards)",
+     "day": "46",
+     "text": "Consuela Muerte, the cemetery's groundskeeper, sets three tasks: water the flowers, confess a secret (Ulrick speaks of his brother), and fetch the flesh ogre's skull. A vampire plays tricks at a tomb. Then Nate and Lyrial walk into a haunted house on their own, and they never walk out. Mori is waiting outside the door. Burial costs 50% extra when you refused the pre-paid plan three times.",
+     "tags": [
+      "death"
+     ],
+     "dead": [
+      "Nate Wavecrest",
+      "Lyrial Thorne"
+     ],
+     "clips": [
+      "rmMzuBEsN4g",
+      "G8yQYckbGfo",
+      "ewvVA7DWWWI",
+      "WLDHZQZM2PQ",
+      "98pmFtWQOtk",
+      "9C50Nn2_CJw",
+      "wEHLVTcJcnc",
+      "U5J0IHWOfsY"
+     ]
+    },
+    {
+     "n": 34,
+     "title": "DEATH & FIRE",
+     "day": "47",
+     "text": "The alpha team, Durzo and Ulrick, were sent by Mori to prepare bodies in a cold room, which turned out to hold an undead monstrosity and an undead dragon. They win. The beta team, Nate and Lyrial, lost their fight with the house's endless ghosts. Durzo and Ulrick find their bodies, solve the wall puzzle in about thirty seconds and douse the ghost-spawning fireplace with holy water. Ulrick speaks with the dead Nate, the conch and the Stones of Communication are passed on, and the fallen get a funeral. As it ends, a fairy necromancer flies between Ulrick and Durzo. His name is Gideon.",
+     "tags": [
+      "god:Nyxara"
+     ]
+    },
+    {
+     "n": 35,
+     "title": "Durzo Becomes The Emissary Of Death",
+     "day": "48",
+     "text": "Deeper in, a cracked mirror pulls Durzo in to relive the worst day of his life, and Ulrick follows him through. Death's Garden, a school of precise and deadly weapons, and a hidden library. At her citadel Nyxara speaks: Auril's cold has seeped into death itself, and a Frozen Seed of Discord is choking the paths of the departed. She names Durzo her Emissary of Death and sends him to offer Agni an alliance.",
+     "tags": [
+      "god:Nyxara"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "VIII",
+   "title": "Robot's Quest",
+   "place": "The swamp below Mt Mistmourne",
+   "blurb": "A new ally with luscious lips, an astral projection and a prison full of modrons.",
+   "pin": 6,
+   "sessions": [
+    {
+     "n": 36,
+     "title": "Robot's Quest",
+     "day": "50–51",
+     "text": "Eugenio's new hero arrives as an astral projection: D.E.R.E.K., a golden construct with one eye and very luscious lips, also known as Chadron. His body is locked in a prison in the swamp below Mt Mistmourne, so the team break in with him to break him out. There's a four-dial prime-number lock, a teleporter maze, and modrons who are strangely terrified of D.E.R.E.K. Gideon summons an army against the Fate Eater, and D.E.R.E.K. rewinds Durzo until he is \"just a sperm on the floor\".",
+     "tags": [
+      "modrons"
+     ],
+     "clips": [
+      "lghKIjiCIUc",
+      "lFD_SMH96_0",
+      "IuvJfdVlxDE",
+      "pHWmY818Poc",
+      "t5dcv2zuAjo"
+     ]
+    },
+    {
+     "n": 37,
+     "title": "MORE MODRONS!?",
+     "day": "52–53",
+     "text": "Out of the swamp prison, with Chadron free at last (everyone agrees the baby never happened). In Fireholm the team face the Concrete Tree, the most bureaucratic building in Aurilia: numbered tickets called in base-8 and then in hexadecimal colours, exact change only, fees waived for \"clerical inefficiency\".",
+     "tags": [
+      "modrons",
+      "Fireholm"
+     ],
+     "clips": [
+      "v9XkNPyyx0I",
+      "LcvpGBdqB4I",
+      "_8HsCvWnU4Q",
+      "8e6nwQHMhs8"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "IX",
+   "title": "Fireholm",
+   "place": "Fireholm",
+   "blurb": "The old heart of Agni's faith, now ruled by a greedy Lord Mayor, an arena and a great many sewers.",
+   "pin": 7,
+   "sessions": [
+    {
+     "n": 38,
+     "title": "Who The F*** Is Gamblok!?",
+     "day": "54",
+     "text": "Gamblok sits on a stone throne at the end of a conveyor belt and demands posture checks, hydration checks and stretch checks. The Great Modron March happens only every 289 years. Gavin joins the team, and B.0.B. is discovered, gets addicted to grapes and starts calling D.E.R.E.K. \"Father\".",
+     "tags": [
+      "modrons",
+      "Fireholm"
+     ],
+     "clips": [
+      "sGSjXzhMdhY",
+      "8sauX4rOLNk"
+     ]
+    },
+    {
+     "n": 39,
+     "title": "Prison Breaks & Forced Shankings",
+     "day": "55",
+     "text": "Gavin wants a prisoner freed from Fireholm Prison, across the ice past giants and trolls. The prisoner is Fiddle. Gavin turns out to be a bit of a dick, so the team settle it with a pit fight: Fiddle wins, resurrects Gavin, and wins again. Then they get greedy with the looting and the Frost Wardens arrive, every one of them with area healing.",
+     "tags": [
+      "Fireholm",
+      "death"
+     ],
+     "dead": [
+      "Gavin (the pit fight)"
+     ]
+    },
+    {
+     "n": 40,
+     "title": "Baby Sitters & Shopping Sprees",
+     "day": "56–57",
+     "text": "Walls of time, walls of stone, and a strategic withdrawal. Back in Fireholm it's shopping at last, with B.0.B. in tow. D.E.R.E.K. discovers his Deception Mode announces itself every time he lies. Gideon turns out to be even darker than everyone thought.",
+     "tags": [
+      "Fireholm"
+     ]
+    },
+    {
+     "n": 41,
+     "title": "The Tale of the 80ft Glaive",
+     "day": "58–59",
+     "text": "The team sign up to the Grand Arena. Death waivers, Rules &amp; Policies v14.8-3, and a Chief Judge who reserves the right to disqualify anyone for any reason. Fiddle is elected team leader for about a second. An enlarged Ulrick swings an 80-foot glaive in perfectly balanced arena combat.",
+     "tags": [
+      "arena",
+      "Fireholm"
+     ]
+    },
+    {
+     "n": 42,
+     "title": "MORE SEWERS!? MORE GNOMES!?",
+     "day": "60–61",
+     "text": "Beneath Fireholm: the Sewer Spelunking Association, a trap-laying contest, and an ogre on a bridge demanding \"fire words\" and a \"fire mark\". Behind a basalt door that takes an oath, a sacrifice and a truth, the team find the last of the Fireholm Ashen Brotherhood and Michael Flameaxes.",
+     "tags": [
+      "Fireholm",
+      "god:Agni"
+     ]
+    },
+    {
+     "n": 43,
+     "title": "Fiddle's Whale Saves The Day",
+     "day": "62–63",
+     "text": "The Brotherhood needs a secret supply route, which means an inn and a great many locked doors. The tavern has been drinking from a befouled well. Then comes the sewer's tyrant, and a whale, courtesy of Fiddle.",
+     "tags": [
+      "Fireholm",
+      "battle"
+     ],
+     "dead": [
+      "The sewer tyrant under the inn"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "X",
+   "title": "Cinderflow",
+   "place": "The Cinderflow river",
+   "blurb": "Agni names his Harbinger and sends him upriver to reclaim the Scales of Judgement.",
+   "pin": 8,
+   "sessions": [
+    {
+     "n": 44,
+     "title": "DM Loses His Sh*t With Poor Innocent Paladin",
+     "day": "64–66",
+     "text": "The sewer tyrant is dead and the gnomes are saved. Fiddle and Ulrick drink the tavern dry. Agni speaks to Ulrick: the deaths of Lyrial and Nate were not his fault, and he should seek the Scales that were stolen from Agni long ago and become the Harbinger of Judgement. The team quick-travel up the Cinderflow, find a big tree and Mega-Jon again, and fight two frost casters, one of whom Gideon throws a hundred feet into the sky with reverse gravity.",
+     "tags": [
+      "god:Agni"
+     ]
+    },
+    {
+     "n": 45,
+     "title": "Muscle Mummys & Horny Heroes",
+     "day": "67–68",
+     "text": "On the Cinderflow ravine the team meet Astrarius and her band of Agni-worshipping tieflings. The plan to take back the old Brotherhood outpost, Frostfall Fortress, from spider-vampires goes almost perfectly, with minimal friendly fire. A frozen heart goes into the river of ice. Then half the team wander into another loot house.",
+     "tags": [
+      "battle",
+      "god:Agni"
+     ]
+    },
+    {
+     "n": 46,
+     "title": "Durzo REALLY Wants To DIE!",
+     "day": "69",
+     "text": "The doors lock behind them and the vampires come out. Only Durzo can see the master vampire. He makes death saves for possibly the first time in the campaign. Ulrick's past comes out too: \"Mal-karash\" is what the orc slavers called him, and it means oathbreaker.",
+     "tags": [
+      "battle"
+     ],
+     "dead": [
+      "The master vampire of Frostfall Fortress"
+     ]
+    },
+    {
+     "n": 47,
+     "title": "The Lore That Time (And The DM) Forgot",
+     "day": "70–71",
+     "text": "The source of the Cinderflow. A spider's home is destroyed because Chadron said so. At the Floating Sanctuary, a fortune teller called Teller knows everyone's name and takes payment in odd ways. Fiddle hears \"Water is wet…\". Ulrick hears \"As before, so shall it be again.\" Gideon is asked which of his two gods will feed on him first. Durzo learns that one voice among the dead trembles. B.0.B. hears that when the Creator's shadow falls on him, the clock will stutter.",
+     "tags": [
+      "prophecy"
+     ],
+     "clips": [
+      "ceg3b0-sIDw"
+     ]
+    },
+    {
+     "n": 48,
+     "title": "Wasted Potential – D.E.R.E.K. Edition",
+     "day": "72",
+     "text": "Agni's sanctum and its trials: the red and white flames, an imprisoned imp, and questions of justice, mercy and sacrifice at Agni's Anvil. At the Test of Innovation a casket opens and out comes the King of the River (then the Emperor of the River, then the God of the River). The Experimental Cannon of Joyous Justice &amp; Fearsome Fiery Thrust is a one-shot super-weapon, and the team spend it on a whale. Two whales, in fact.",
+     "tags": [
+      "god:Agni"
+     ]
+    },
+    {
+     "n": 49,
+     "title": "Magic Mushrooms & Ancient Airships",
+     "day": "73",
+     "text": "Durzo's Emissary form earns its nickname: the Grim Weeper. In a sealed laboratory the inventor Vallos is teaching a red construct, R.E.D., D.E.R.E.K.'s brother, who shows D.E.R.E.K. how to fly an airship. And at last, <b>Agni's Searing Scales of Scorching Truth &amp; Righteous Judgement</b> are theirs, and so is an ancient airship.",
+     "tags": [
+      "god:Agni"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "XI",
+   "title": "The Skycrest",
+   "place": "Fireholm Skyport",
+   "blurb": "An airship, a crew of lunatics and dragon riders in the clouds.",
+   "pin": 7,
+   "sessions": [
+    {
+     "n": 50,
+     "title": "Plummet Gate: The Re-Plummeting",
+     "day": "74–75",
+     "text": "At night D.E.R.E.K. creeps to the Scales to pass judgement on his brother R.E.D. (\"he has to die\"). Ulrick wakes, talks him down, and hands him B.0.B. to look after instead. Then comes the ancient airship's maiden voyage: plummeting, rising, summiting and flying blind through cloud. Dragon riders strike from the clouds, but the team make it to Fireholm Skyport.",
+     "tags": [
+      "battle"
+     ]
+    },
+    {
+     "n": 51,
+     "title": "Birds WERE Real This WHOLE Time?!",
+     "day": "76–80",
+     "text": "The airship goes in for a refurbishment that will take weeks. Wanted posters and shopping sprees follow, and another arena bout, won by Gideon disguised as a tree, D.E.R.E.K. stepping briefly into the future, the Grim Weeper and a flaming horse. Ulrick attends Monsters Anonymous, where a grick is a vegetarian and an otyugh is an artist. An ogre learns that Durzo never lies, which is now canon. A challenge scroll demands attendance at seven feasts in a single day.",
+     "tags": [
+      "arena",
+      "battle"
+     ]
+    },
+    {
+     "n": 52,
+     "title": "New Year, New Sewer Arc",
+     "day": "82",
+     "text": "The arena is won, and then the whole of Fireholm's Frost Warden garrison comes for the team. They escape down a sewer hatch, in full view of everyone, and immediately get distracted by the annual trap-laying competition, which is held monthly. Beyond the rubble lies a second Gnome-Home. Loot includes a pendant holding a pocket-dimension pond and a satchel that can hold infinite hay.",
+     "tags": [
+      "Fireholm"
+     ]
+    },
+    {
+     "n": 53,
+     "title": "Sewer Dragons & Gnomish Gnonsense",
+     "day": "84",
+     "text": "The Wardens are climbing down the ladder after them, dragons and all. Ulrick races ahead to warn the Ashen Brotherhood while the rest deal with gnomes, dragons in the sewers and some truly award-winning traps. The Brotherhood is warned in time. Gideon draws a challenge scroll: steal and eat a candle.",
+     "tags": [
+      "Fireholm"
+     ]
+    },
+    {
+     "n": 54,
+     "title": "Actual Psychopaths Design INSANE Interview Process",
+     "day": "94",
+     "text": "The Skycrest needs a crew. Applicants include a goblin \"luxury morale officer\", a sky-privateer who trusts only machines, an ex-Frost Warden spy, a gnome who built submarines for sea-cults, three modrons in accordance, and several people who should not be anywhere near children. Interviews are conducted aggressively, and one candidate gets pushed straight off the ship.",
+     "tags": [
+      "Skycrest"
+     ]
+    },
+    {
+     "n": 55,
+     "title": "The Interview Arc Continues & B.0.B. Returns",
+     "day": "95",
+     "text": "B.0.B. comes back from the docks beaten and bruised, and he has killed a gnome who was impersonating his father. Moira Rarius, the Sky Splinters and Three in Accordance join the crew. Michael Flameaxes gives Ulrick the <b>Nimbus Coronet</b>, a crown of Auril's ice with one of Agni's avatars trapped inside.",
+     "tags": [
+      "Skycrest",
+      "god:Agni"
+     ],
+     "dead": [
+      "A gnome impersonating D.E.R.E.K. (B.0.B.'s doing)"
+     ]
+    }
+   ]
+  },
+  {
+   "num": "XII",
+   "title": "Out of Time",
+   "place": "Somewhere, somewhen",
+   "blurb": "A crown bound for Muttonham, a man dropped from a dragon, and a detour to the end of the world.",
+   "pin": 9,
+   "sessions": [
+    {
+     "n": 56,
+     "title": "Spontaneous Surgeries & Troublesome Timey-Wimey Tripe",
+     "day": "96",
+     "text": "The team vote to take the crown to the Ashen Brotherhood in Muttonham. As they leave Fireholm, <b>the White Judgement</b>, a knight on a white dragon, drops a tortured Michael Flameaxes onto the deck: \"I think you dropped this.\" Fiddle, now ship's surgeon, operates and finds every organ on the wrong side. Is this even Michael? He's shackled below. Then the fog, and the Temporal Anomaly: four possible futures of Snow, Jungle, Desert and Death.",
+     "tags": [
+      "prophecy",
+      "god:Chronos"
+     ]
+    },
+    {
+     "n": 57,
+     "title": "Can A 5 Year Old Baby Defeat The God Of Death?",
+     "day": "96 (+∞)",
+     "text": "The End. Nyxara won, and a sea of the undead stretches to the horizon. Mori is having a clearance sale on family plots. The Librarian of Dust demands an original story, and a new god, Thanatos, rises from a pit. The Cult of Gidlion the Colossal decides Gideon is close enough. At the dead World Tree, Gideon's Necrolith turns the wasteland green again. Their conclusion: no god should rule alone.",
+     "tags": [
+      "prophecy",
+      "god:Nyxara",
+      "god:Gaia"
+     ],
+     "dead": [
+      "Thanatos, the new god of a dead future"
+     ]
+    },
+    {
+     "n": 58,
+     "title": "D.E.R.E.K.'s Wibbly Wobbly Timey Wimey Arc",
+     "day": "96 (?)",
+     "text": "Out of the dead future and into D.E.R.E.K.'s own realm, the Timeless Timeline. The session opens with a long, fond look back at the whole campaign, including a reminder that Lan still has no memorial. Modrons have no souls, which Ulrick takes as permission to start punching. Friendly fire nearly finishes Fiddle, and D.E.R.E.K. insists the team leader technically approved it.",
+     "tags": [
+      "modrons"
+     ]
+    },
+    {
+     "n": 59,
+     "title": "D.E.R.E.K.'s Eye Room of One-ness",
+     "day": "96 (?)",
+     "text": "D.E.R.E.K.'s own realm, where the modrons worship him as The One. Toto's to-do list, Time Raider Vortos's containment test, and the Eye Room. D.E.R.E.K., who is sure he is the true god of time, declares from it that everyone is alive in all timelines, that a certain rumour about Fiddle is true in all of them, and that all humans are centaurs, Ulrick included. None of it outlasts leaving the room.",
+     "tags": [
+      "modrons",
+      "god:Chronos"
+     ],
+     "dead": [
+      "Time Raider Vortos (D.E.R.E.K. disagrees)"
+     ]
+    },
+    {
+     "n": 60,
+     "title": "Ulrick's True Form Is FINALLY Revealed",
+     "day": "96–97",
+     "text": "The table's AI-generated \"true form\" for Ulrick: a centaur, then a centaur with a retractable turtle shell. The team clear the spiders from the mines and take a census of the whole realm (\"roughly 85\"). Toto receives his lashings. A portal home finds the Skycrest repaired and the fog gone. Ulrick uses the Scales for the first time and names \"Flaxis\". The verdict will have to wait, because Nogratis air patrols are closing in.",
+     "tags": [
+      "Skycrest",
+      "god:Agni"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "gidlion-the-colossal",
+  "kind": "moment",
+  "moment_id": "S57-2100",
+  "title": "Gidlion the Colossal has returned",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a dead wasteland at the end of time under a bruised purple sky. An army of skeletons kneels and raises bony arms in worship before tiny Gideon, whom they have mistaken for their colossal titan god; behind them looms a giant crude stone statue of a green titan. Epic with a comedic undertone. Characters: Gideon: a slight fairy necromancer with large translucent insect wings, pointed ears and dark ragged clothing, faint green necrotic light around his hands.",
+  "references": [
+    {
+      "path": "PCs/Gideon Fleshripper2.png",
+      "role": "Character appearance reference for Gideon. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "An army of kneeling skeletons worships tiny Gideon as their colossal titan god in a dead wasteland."
+}

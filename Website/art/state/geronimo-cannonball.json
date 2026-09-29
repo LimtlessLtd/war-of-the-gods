@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "id": "geronimo-cannonball",
+  "status": "completed",
+  "token": "83f9af047ea45007b516bb3471e9ecde1c7b27101d926324",
+  "request_sha256": "6fd883feda39de3adc700d66a4e9aebb2c095eebe50f4d41ecc09c8acdae756b",
+  "request": {
+    "schema_version": 1,
+    "id": "geronimo-cannonball",
+    "kind": "moment",
+    "moment_id": "S52-4780",
+    "title": "Geronimo! Cannonball!",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the bottom of a sewer shaft beneath Fireholm Skyport, seen from the floor looking up at a round open hatch full of daylight. Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice, a quiver of arrows on his back; he lies flat on his back in the filthy water, groaning. Gideon: a slight fairy necromancer with large translucent insect wings, pointed ears, messy dark hair and dark ragged clothing; he has dived straight down the hole and landed sprawled on top of Fiddle, grinning. D.E.R.E.K. (also called Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, wearing hooded red-and-orange robes decorated with clockwork and clock-face motifs; he descends gracefully through the shaft of light, hovering, robes floating, perfectly clean, refusing to touch the floor. Above them all, framed in the hatch, Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, wearing heavy dark plate armour with bronze-orange pauldrons and a long white cloth tabard over the armour is mid-leap, knees tucked into a cannonball, armour and all, about to land on the pile. Slapstick energy, dynamic vertical composition, dramatic light from above.",
+    "references": [
+      {
+        "path": "PCs/Chadron.png",
+        "role": "Character appearance reference for D.E.R.E.K.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Gideon Fleshripper2.png",
+        "role": "Character appearance reference for Gideon. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Seen from a sewer floor: Gideon lands on a flattened Fiddle, D.E.R.E.K. hovers down serenely, and Ulrick cannonballs through the hatch in full plate."
+  },
+  "claimed_at": "2026-09-29T13:50:16+00:00",
+  "output": "art/generated/geronimo-cannonball.png",
+  "sha256": "b7659374e1b040a75f9e7078ed7973ed1cfa67da9ba2c5a1e8ed12ba18ec0ff9",
+  "format": "png",
+  "completed_at": "2026-09-29T13:51:48+00:00"
+}

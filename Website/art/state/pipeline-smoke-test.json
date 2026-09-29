@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "pipeline-smoke-test",
+  "status": "completed",
+  "token": "4fcb9d705380f33d3b12c7e55d0380306b7e4ca77d7f9376",
+  "request_sha256": "1fc94960918d91bf3d1fd4ad8dfd3b23b3b6e23fba7e0f81dfa4b604ade79ad2",
+  "request": {
+    "schema_version": 1,
+    "id": "pipeline-smoke-test",
+    "kind": "test",
+    "moment_id": null,
+    "title": "Artwork pipeline test — the lantern and the die",
+    "prompt": "Create an original cinematic fantasy illustration, wide landscape composition, of a small brass lantern and a single large faceted twenty-sided die on a worn wooden tavern table, beside a closed leather adventurer's journal. Warm amber lamplight, a softly blurred empty medieval tavern in the background, painterly detail, a quiet sense of adventure. The die's visible faces have simple engraved geometric markings rather than readable numbers. No people, no writing, no logos, no watermark. This is a fictional pipeline test, not a scene from the War of the Gods campaign.",
+    "references": [],
+    "alt": "A brass lantern illuminates a faceted die and closed leather journal on an empty tavern table."
+  },
+  "claimed_at": "2026-09-28T15:11:13+00:00",
+  "output": "art/generated/pipeline-smoke-test.png",
+  "sha256": "3cfd9e81897d6ac992a5b96239d19fde95f0f841a37718a4c64b117b34036cf9",
+  "format": "png",
+  "completed_at": "2026-09-28T15:12:39+00:00"
+}

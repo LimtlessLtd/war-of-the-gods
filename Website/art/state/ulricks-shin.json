@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "ulricks-shin",
+  "status": "completed",
+  "token": "fa8e11d97487bd85d4b2b7294166df8cc28048887fd8eb5a",
+  "request_sha256": "ebbc6b6761edd737bda6ca94960cfb079d5690f319493d146e055a43e5339f94",
+  "request": {
+    "schema_version": 1,
+    "id": "ulricks-shin",
+    "kind": "moment",
+    "moment_id": "S41-2650",
+    "title": "Standing in Ulrick's shin",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the sand floor of the Grand Arena in Fireholm, tiered stone stands full of cheering crowds, rocks scattered for cover. Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, wearing heavy dark plate armour with bronze-orange pauldrons and a long white cloth tabard over the armour, wielding a long glaive; magically enlarged to about sixty feet tall, towering over the arena and swinging a colossal glaive the length of a ship's mast. At his feet, tiny by comparison, Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour, holding a pair of daggers; he is crouched right beside Ulrick's enormous shin, daggers ready, using the giant as cover. Low camera angle looking up at the giant.",
+    "references": [
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Durzo.png",
+        "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "A giant, enlarged Ulrick swings a colossal glaive in the Fireholm arena while tiny Durzo crouches beside his shin."
+  },
+  "claimed_at": "2026-09-29T13:02:18+00:00",
+  "output": "art/generated/ulricks-shin.png",
+  "sha256": "14b37390faac7632c499024f84d5aca8301617b1c55e51b5a7e59848c133bbec",
+  "format": "png",
+  "completed_at": "2026-09-29T13:03:50+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "derek-in-the-swamp",
+  "kind": "moment",
+  "moment_id": "S35-11546",
+  "title": "I projected myself through time",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a misty swamp below a dark mountain. In a ruined, half-sunken prison a golden construct lies bound in chains, while a translucent, ghostly blue astral projection of the same construct stands among the reeds pointing at its own body. A mysterious reveal. Characters: D.E.R.E.K. (Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, in hooded red-and-orange robes with clockwork and clock-face motifs.",
+  "references": [
+    {
+      "path": "PCs/Chadron.png",
+      "role": "Character appearance reference for D.E.R.E.K. (Chadron). Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "In a misty swamp prison a chained golden construct lies beside a ghostly blue projection of itself."
+}

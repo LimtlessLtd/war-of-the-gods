@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "fiddle-ship-surgeon",
+  "kind": "moment",
+  "moment_id": "S56-3721",
+  "title": "Fiddle, ship's surgeon",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a cramped, lantern-lit sick bay below decks on an ancient wooden airship, the Skycrest, with brass pipes and a round porthole showing fog outside. Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice, now wearing a stained apron over it; he stands on an upturned crate to reach the operating table, holding a scalpel, and a comically large spurt of red has just splashed across his face. His expression says: oops. On the table lies an unconscious, battered man in chains, covered to the chest by a sheet (no visible wounds or organs). Leaning in from the side, Gideon: a slight fairy necromancer with large translucent insect wings, pointed ears and dark ragged clothing, peering at the patient with far too much interest, faint green necrotic light around one hand. Darkly comic tone, played completely straight.",
+  "references": [
+    {
+      "path": "PCs/Fiddle.jpg",
+      "role": "Character appearance reference for Fiddle. Preserve the face, ears, skin colour, build, charms and outfit; ignore the forest background and the spirit companion."
+    },
+    {
+      "path": "PCs/Gideon Fleshripper2.png",
+      "role": "Character appearance reference for Gideon. Preserve the wings, silhouette, hair and dark clothing; ignore the skeleton army and background."
+    }
+  ],
+  "alt": "Fiddle, a goblin in a stained apron, stands on a crate at an airship operating table as a spurt of red hits his face, while Gideon leans in with interest."
+}

@@ -1,0 +1,4 @@
+{
+ "video_base": "media/video/",
+ "_note": "Moment video clips (tools/videoclips.py) are published with the site from docs/media/video/. The repo's no-video guard allows only S<n>-<t>.mp4 files of 25 MiB or less in that folder (see GIT_SETUP.md). Point video_base (or the VIDEO_BASE env var) at another host only if the clips outgrow GitHub Pages' 1 GB site limit."
+}

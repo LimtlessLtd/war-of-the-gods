@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>War of the Gods</title>
+<meta name="description" content="The War of the Gods campaign: every session, the map, the funniest moments and the Discord chaos, for the players of Aurilia.">
+<meta property="og:title" content="War of the Gods">
+<meta property="og:description" content="Every session, the map, the funniest moments and the Discord chaos.">
+<meta property="og:image" content="media/og.jpg">
+<meta name="theme-color" content="#0C1117">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230C1117'/%3E%3Cpath d='M32 10c6 10 14 14 14 26a14 14 0 0 1-28 0c0-7 4-11 7-15 1 5 3 7 6 8-1-7 0-12 1-19z' fill='%23F0904A'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/style.css?v=__V__">
+</head>
+<body>
+<header class="hero" id="hero">
+  <div class="hero-art" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="kicker">A campaign chronicle · Sessions 1–__LAST__</div>
+    <h1><a href="#/">War of the <span>Gods</span></a></h1>
+    <p class="lede">Fire against ice, shadow and sea and time in between. Everything the heroes of Aurilia have seen, won, lost and blown up, from the docks of Campess Port to the end of time and back. Plus everything the table said while doing it.</p>
+    <div class="stats" id="stats"></div>
+    <nav class="hstrip" id="hstrip" aria-label="The heroes"></nav>
+  </div>
+  <div class="hero-cap" id="hero-cap"></div>
+</header>
+
+<nav class="tabs" aria-label="Site sections">
+  <ul id="tabs">
+    <li><a href="#/" data-v="timeline">Timeline</a></li>
+    <li><a href="#/map" data-v="map">The Map</a></li>
+    <li><a href="#/moments" data-v="moments">Best Moments</a></li>
+    <li><a href="#/art" data-v="art">Painted</a></li>
+    <li><a href="#/quotes" data-v="quotes">Quotes</a></li>
+    <li><a href="#/discord" data-v="discord">The Discord</a></li>
+    <li><a href="#/fallen" data-v="fallen">The Fallen</a></li>
+    <li><a href="#/heroes" data-v="heroes">Heroes</a></li>
+    <li><a href="#/gods" data-v="gods">The Gods</a></li>
+    <li><a href="#/people" data-v="people">People</a></li>
+    <li><a href="#/watch" data-v="watch">Watch</a></li>
+  </ul>
+</nav>
+
+<main class="wrap">
+<section class="view" data-view="timeline" id="v-timeline">
+  <h2>The Timeline</h2>
+  <p class="sub">Every session in order, grouped into chapters and set against the in-game calendar and the real-world dates we played them. Open any session for its best moments and what the Discord was posting that week.</p>
+  <p class="note">The in-game clock was never kept, so every in-game date is reckoned from the story: Day 1 is the landing at Campess Port in the year 1000 of the Age of Frost. Treat the dates as legend, not ledger.</p>
+  <div class="filters" role="group" aria-label="Filter sessions" id="tl-filters">
+    <button type="button" data-f="all" aria-pressed="true">Everything</button>
+    <button type="button" data-f="deaths" aria-pressed="false">Deaths</button>
+    <button type="button" data-f="gods" aria-pressed="false">The gods</button>
+    <button type="button" data-f="battles" aria-pressed="false">Battles</button>
+    <button type="button" data-f="prophecy" aria-pressed="false">Prophecy &amp; time</button>
+    <button type="button" data-f="modrons" aria-pressed="false">Modron bureaucracy</button>
+    <button type="button" data-f="fun" aria-pressed="false">Has best moments</button>
+  </div>
+  <div id="timeline"></div>
+</section>
+
+<section class="view" data-view="session" id="v-session" hidden></section>
+<section class="view" data-view="hero" id="v-hero" hidden></section>
+
+<section class="view" data-view="art" id="v-art" hidden>
+  <h2>Painted Moments</h2>
+  <p class="sub">The table's best moments, painted. Open one to see it large, hear how it actually went down at the table, or jump to its session.</p>
+  <p class="note">These are AI illustrations, made with ChatGPT from the session recordings and the players' own character portraits. More are on the way.</p>
+  <div class="art-grid" id="art-grid"></div>
+</section>
+
+<section class="view" data-view="map" id="v-map" hidden>
+  <h2>The Road So Far</h2>
+  <p class="sub">Drag the slider, or press play, to follow the party across Aurilia one session at a time. Click a place to see everything that happened there.</p>
+  <div class="mapwrap">
+    <div id="leaf" role="application" aria-label="Map of Aurilia"></div>
+    <aside class="mappanel" aria-live="polite">
+      <div class="mp-top">
+        <div class="scrub">
+          <span class="lbl">S1</span>
+          <input type="range" id="mp-range" min="1" max="60" value="1" aria-label="Session">
+          <span class="lbl" id="mp-last">S60</span>
+        </div>
+        <div class="mp-ctl">
+          <button class="btn" id="mp-prev" aria-label="Previous session">‹</button>
+          <button class="btn primary" id="mp-play">▶ Play the journey</button>
+          <button class="btn" id="mp-next" aria-label="Next session">›</button>
+        </div>
+      </div>
+      <div class="mp-body" id="mp-body"></div>
+    </aside>
+  </div>
+</section>
+
+<section class="view" data-view="moments" id="v-moments" hidden>
+  <h2>Best Moments</h2>
+  <p class="sub">The biggest laughs and the biggest swings of the campaign, found by listening for the table losing it. Press play to hear the moment, or jump to it in the full recording.</p>
+  <div class="filters" role="group" aria-label="Kind of moment" id="mo-kinds"></div>
+  <div class="filters" id="mo-filters">
+    <input type="search" id="mo-q" placeholder="Search moments, quotes, names…" aria-label="Search moments">
+    <select id="mo-hero" aria-label="Hero"><option value="">Every hero</option></select>
+    <select id="mo-ch" aria-label="Chapter"><option value="">All chapters</option></select>
+    <button type="button" class="btn" id="mo-rand">🎲 Random moment</button>
+  </div>
+  <div class="moments" id="moments"></div>
+</section>
+
+<section class="view" data-view="quotes" id="v-quotes" hidden>
+  <h2>Quotes</h2>
+  <p class="sub">Things that were actually said at the table. Click a quote to hear it. Anything D.E.R.E.K. claims about time is D.E.R.E.K.'s opinion, not canon.</p>
+  <div class="filters" id="q-filters"></div>
+  <div class="quotes" id="quotes"></div>
+</section>
+
+<section class="view" data-view="discord" id="v-discord" hidden>
+  <h2>Meanwhile, in the Discord</h2>
+  <p class="sub">What the table was posting between sessions, filed under the arc it belongs to.</p>
+  <div class="filters" id="dc-filters"></div>
+  <div id="discord"></div>
+</section>
+
+<section class="view" data-view="fallen" id="v-fallen" hidden>
+<!--PAGE:fallen-->
+</section>
+<section class="view" data-view="heroes" id="v-heroes" hidden>
+<!--PAGE:heroes-->
+</section>
+<section class="view" data-view="gods" id="v-gods" hidden>
+<!--PAGE:gods-->
+</section>
+<section class="view" data-view="people" id="v-people" hidden>
+<!--PAGE:people-->
+</section>
+
+<section class="view" data-view="watch" id="v-watch" hidden>
+  <h2>Watch It Again</h2>
+  <p class="sub">Everything on the Monsters &amp; Morons channel, gathered in one place.</p>
+  <div id="watch"></div>
+</section>
+</main>
+
+<div class="wrap"><footer>
+  Built from the campaign's Foundry world, the session recordings, the Monsters &amp; Morons channel and the Ballers &amp; Bandits Discord. In-game dates are reckoned, quotes are transcribed from the recordings and may be slightly off, and anything the heroes don't know yet has been left out. Last updated __DATE__.
+</footer></div>
+
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+  <div class="stage" id="lb-stage"></div>
+  <div class="cap" id="lb-cap"></div>
+  <button class="x" id="lb-x" aria-label="Close">✕</button>
+  <button class="pv" id="lb-pv" aria-label="Previous">‹</button>
+  <button class="nx" id="lb-nx" aria-label="Next">›</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/app.js?v=__V__"></script>
+</body>
+</html>

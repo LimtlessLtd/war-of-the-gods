@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "bob-takes-notes",
+  "status": "completed",
+  "token": "a876e1d10c52676f0cc971a1bb1cbcff480c72781747eacd",
+  "request_sha256": "28479886654bf892d0859aa57693cf4c9f4a54617caaedfe20f402e8403de2d3",
+  "request": {
+    "schema_version": 1,
+    "id": "bob-takes-notes",
+    "kind": "moment",
+    "moment_id": "S38-3196",
+    "title": "B.0.B. takes notes",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a warm, torchlit stone hall in Fireholm. B.0.B.: a small round brass construct about knee height, with one large eye, red lips and thin spindly clockwork arms and legs, who hovers a little off the ground. A little hatch in his back is open and he has taken out a scrap of parchment and a stub of charcoal. He can't write, so, tongue out in concentration, he has carefully drawn a crude little stick figure holding a knife, and he holds it up proudly towards the viewer, eye shining. The drawing is a simple childlike doodle, no words. Sweet, funny, faintly sinister. Close framing on B.0.B., soft background.",
+    "references": [
+      {
+        "path": "Website/docs/media/img/p_bob.jpg",
+        "role": "Character appearance reference for B.0.B.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Little B.0.B. proudly holds up a scrap of parchment on which he has drawn a crude stick figure holding a knife."
+  },
+  "claimed_at": "2026-09-29T13:44:56+00:00",
+  "output": "art/generated/bob-takes-notes.png",
+  "sha256": "8733379d723eedf51263ae1a9a542dcc80d8234a93a4e2ede86c9634657cce30",
+  "format": "png",
+  "completed_at": "2026-09-29T13:46:09+00:00"
+}

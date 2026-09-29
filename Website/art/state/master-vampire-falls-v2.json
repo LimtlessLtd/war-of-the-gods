@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "master-vampire-falls-v2",
+  "status": "completed",
+  "token": "700a4fe69ec083d0500aa134632f49ee1fcccff3b557125b",
+  "request_sha256": "0dcc7b616b4663a39fefc8c9488364d7ff3e7496b3ee696151b3a812989482d5",
+  "request": {
+    "schema_version": 1,
+    "id": "master-vampire-falls-v2",
+    "kind": "moment",
+    "moment_id": "S46-5717",
+    "title": "The vampire only Durzo could see",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the frozen great hall of Frostfall Fortress at night, frost on the stone floor, torn banners, a shaft of cold moonlight from a high window. Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour. He has just won a long, desperate duel and drops to one knee to catch his breath, two daggers lowered, looking up with a weary, vindicated half-smile. In front of him the last traces of a tall, gaunt master vampire in a high-collared cloak are coming apart into drifting grey ash and wisps of shadow that rise into the moonlight. The vampire is faint and translucent, as if only Durzo could ever see it; in the background two companions in silhouette stare at what looks to them like empty air. Quiet, triumphant aftermath rather than combat: no blood, no wounds, no gore.",
+    "references": [
+      {
+        "path": "PCs/Durzo.png",
+        "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Durzo kneels, daggers lowered, as a faint master vampire only he can see dissolves into ash and shadow in the moonlit hall of Frostfall Fortress."
+  },
+  "claimed_at": "2026-09-29T13:53:20+00:00",
+  "output": "art/generated/master-vampire-falls-v2.png",
+  "sha256": "79f2339d3158b44edd5fe956dc8899e8ec5b6c9a56e90dd02a55f2bf519751af",
+  "format": "png",
+  "completed_at": "2026-09-29T13:54:50+00:00"
+}

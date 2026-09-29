@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "replace-with-unique-art-job-id",
+  "kind": "moment",
+  "moment_id": "REPLACE_WITH_EXISTING_ID_FROM_content/moments.json",
+  "title": "REPLACE_WITH_SCENE_TITLE",
+  "prompt": "REPLACE with a self-contained visual scene based only on events already revealed to the players. State who is present, their actions, setting, composition, visual style and any details that must stay consistent. Explain how each reference image should be used. Do not include unrevealed DM notes.",
+  "references": [
+    {
+      "path": "PCs/REPLACE_WITH_EXACT_PORTRAIT_FILENAME.png",
+      "role": "Character appearance reference: replace with the character name and the features to preserve. Remove this entry if no reference is needed."
+    }
+  ],
+  "alt": "REPLACE with a concise visual description of the intended scene."
+}

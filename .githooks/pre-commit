@@ -1,0 +1,13 @@
+#!/bin/sh
+set -eu
+
+root=$(git rev-parse --show-toplevel)
+for candidate in python3 python; do
+    if "$candidate" -c 'import sys; sys.exit(sys.version_info < (3, 9))' >/dev/null 2>&1; then
+        "$candidate" "$root/scripts/check_no_videos.py" staged
+        "$candidate" "$root/scripts/check_public_paths.py" staged
+        exit 0
+    fi
+done
+echo 'Commit blocked: Python 3.9 or newer is required by the repository guards.' >&2
+exit 1

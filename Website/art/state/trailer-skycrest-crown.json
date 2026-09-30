@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "trailer-skycrest-crown",
+  "status": "processing",
+  "token": "77a3bc18b7b1362c3fe0fa93e0a80a002b12410849fc7b35",
+  "request_sha256": "01d682e9b31605f7cdf452dce4c41184836542027451f44c0ee40ea93e4599b2",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-skycrest-crown",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "The crown and the airship",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: an ancient airship, its hull patched and refurbished, races through a storm at night towards a distant town lit by fire on the horizon. In the foreground, on the airship's deck in a small open casket, sits the Nimbus Coronet: a crown carved from Auril's blue-white ice, with a small living flame, one of Agni's avatars, trapped and flickering inside it. Snow and sparks stream past. The crown is the focal point.",
+    "references": [
+      {
+        "path": "Website/docs/media/discord/1440842874206814249_0.webp",
+        "role": "Loose reference for an ancient airship at night; any airship design in this spirit is fine."
+      }
+    ],
+    "alt": "A crown of blue ice with a trapped flame inside sits in a casket on an airship racing through a storm towards a burning town."
+  },
+  "claimed_at": "2026-09-30T11:30:17+00:00"
+}

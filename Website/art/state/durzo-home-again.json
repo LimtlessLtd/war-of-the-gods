@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "durzo-home-again",
+  "status": "completed",
+  "token": "b473fd00a87225f7a16495704a36ad45c7f86cef046e7f0a",
+  "request_sha256": "2bec4dcf3cbfde12b323767c56882683f55d14ef88ff867635931b8091eb4a79",
+  "request": {
+    "schema_version": 1,
+    "id": "durzo-home-again",
+    "kind": "moment",
+    "moment_id": "S34-3598",
+    "title": "It's okay, son. I love you",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a small elven village at dusk on the day it was raided. A seven-year-old child version of Durzo (same silver-white hair and face as the reference, but a small boy) clings sobbing to his father Gren, a broad-shouldered elven blacksmith in a leather apron, in front of their cottage doorway, where his mother Silver, an elven healer, looks on in alarm. Around the corner a horde of orcs with torches is coming. At the edge of the village stands a tall ornate mirror, shimmering. Heartbreaking and tender, epic in scale. Characters: Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour.",
+    "references": [
+      {
+        "path": "PCs/Durzo.png",
+        "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "A young Durzo clings in tears to his father outside their cottage as orcs with torches round the corner, a shimmering mirror waiting at the village edge."
+  },
+  "claimed_at": "2026-09-30T10:57:28+00:00",
+  "output": "art/generated/durzo-home-again.png",
+  "sha256": "0a35e33f3876ee54880ca563afd5cd44be55b6dbfa46699a0aa6fde8642409b8",
+  "format": "png",
+  "completed_at": "2026-09-30T10:59:05+00:00"
+}

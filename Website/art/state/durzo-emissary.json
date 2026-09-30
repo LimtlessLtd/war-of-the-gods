@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "durzo-emissary",
+  "status": "completed",
+  "token": "2d904f2020eb7d53f0d786b98160258d877211b512f6671f",
+  "request_sha256": "4095d7e7d1f0873b73565a9d76d603363fe9fb4f0e03444fe05f64971131736d",
+  "request": {
+    "schema_version": 1,
+    "id": "durzo-emissary",
+    "kind": "moment",
+    "moment_id": "S35-9600",
+    "title": "The Mark of the Emissary",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: the Realm of Death and Shadow, a grey land of mist, dead trees and black water. Durzo stands with head thrown back as a mark burns violet-white on his neck, and behind him rises the towering spectral form of the Emissary of Death: a grim reaper of living shadow and violet flame with a great scythe. Awe and dread. Characters: Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour.",
+    "references": [
+      {
+        "path": "PCs/Durzo.png",
+        "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Durzo in the Realm of Death as a towering spectral grim reaper of shadow and violet fire rises behind him, a mark blazing on his neck."
+  },
+  "claimed_at": "2026-09-30T10:56:00+00:00",
+  "output": "art/generated/durzo-emissary.png",
+  "sha256": "d36e8a1dc924fd290877581590e7a793a354edd7606c6b7370eadbb3aa094bcb",
+  "format": "png",
+  "completed_at": "2026-09-30T10:57:27+00:00"
+}

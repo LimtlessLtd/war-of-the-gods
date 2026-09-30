@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-chronos",
+  "status": "completed",
+  "token": "094acbc6f8ddeadcc88c74c3ab6cf6f28b61ae25059ef6a2",
+  "request_sha256": "f5af9015d95f6b1c7a85b92cc8fff1ff674d57af71aad353c13327c7d83387dd",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-god-chronos",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Chronos, the Timekeeper",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Chronos, god of time, fate and destiny: whimsical, detached but wise. An ancient, long-bearded timekeeper sits cross-legged and relaxed on top of a giant floating hourglass, among drifting clock faces, gears and a tall grandfather clock hanging in the air. Below him, a battle is frozen mid-moment in a bubble of stopped time. He is not watching it: he looks off to the side with a faint, amused, knowing smile, turning a small pocket watch in his fingers. Dominant gold and deep blue palette.",
+    "references": [
+      {
+        "path": "Website/docs/media/discord/1427757501776003195_0.webp",
+        "role": "Appearance reference for Chronos only: the figure of the old wizard holding the hourglass (centre right) in this group painting of the six gods. Keep that figure's look, colours and costume; ignore the other gods, the title lettering and the composition."
+      },
+      {
+        "path": "Website/docs/media/img/g_clock.jpg",
+        "role": "Reference for the grandfather clock and the bubble of frozen time only. Ignore the man."
+      }
+    ],
+    "alt": "Chronos, an ancient bearded timekeeper sitting on a floating hourglass among clocks, smiling at nothing while a battle is frozen below."
+  },
+  "claimed_at": "2026-09-30T11:26:37+00:00",
+  "output": "art/generated/trailer-god-chronos.png",
+  "sha256": "7de65a792c5e224839e03b4ae453355553684ec7669622b2bd66d161041b80f2",
+  "format": "png",
+  "completed_at": "2026-09-30T11:28:10+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-aurilia-winter",
+  "status": "completed",
+  "token": "cc7b7d04e7e8a4d4e76e84de9080480577bcfaf3ebf8ef96",
+  "request_sha256": "c1ee319afdca1f56caa63abc5b27ceac8007a145b88e2b1d6fb0dbee95e8e9b6",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-aurilia-winter",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Aurilia under a thousand-year winter",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: an establishing shot of the land of Aurilia locked in an endless winter at dusk. A vast frozen continent of snowbound forests, iced-over rivers and black mountains, seen from high above. Far off rises a capital of pale ice-blue towers and high walls. Tiny lantern-lit patrols of armoured Frost Wardens move along a snowy road below. Deep beneath the cracked ice of a frozen lake in the foreground, a faint ember-orange glow pulses, as if an old fire is waking under the frost. Cold, quiet, oppressive, with that one warm glow as the focal point.",
+    "references": [
+      {
+        "path": "Website/docs/media/map/aurilia.jpg",
+        "role": "Geography reference only: the campaign map of Aurilia. Use it for the feel of the land (coast, mountains, forests, rivers), not as a map; do not reproduce labels or the map style."
+      }
+    ],
+    "alt": "Aurilia frozen under endless winter at dusk, an ice-blue capital in the distance and an ember glow waking beneath a frozen lake."
+  },
+  "claimed_at": "2026-09-30T11:16:31+00:00",
+  "output": "art/generated/trailer-aurilia-winter.png",
+  "sha256": "027c063d447e7e0a1582bef842a9a25844f13621a0cf16d0d34ab8f6a391b811",
+  "format": "png",
+  "completed_at": "2026-09-30T11:19:23+00:00"
+}

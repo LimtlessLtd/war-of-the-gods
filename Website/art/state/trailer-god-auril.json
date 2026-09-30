@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-auril",
+  "status": "completed",
+  "token": "517ae6eb56062c81e6e2edc2e6ffc66755f65f42b734477a",
+  "request_sha256": "4a956a9d298583dd3f5c12458e77f813a27db84130e2cf751af3554a10a898a5",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-god-auril",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Auril, Lady Frostkiss",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Auril, goddess of ice, winter and tyranny: powerful and authoritarian. A regal, imperious ice queen enthroned on a throne carved from a glacier, a crown of icicles, a cold commanding gaze straight at the viewer, one hand raised in command. Below the steps of her throne, ranks of armoured Frost Wardens kneel in perfect rows in the blizzard. Everything glitters and freezes. Dominant ice-blue and silver palette, very little warmth.",
+    "references": [
+      {
+        "path": "Website/docs/media/discord/1427757501776003195_0.webp",
+        "role": "Appearance reference for Auril only: the figure made of ice and snowflakes (upper right) in this group painting of the six gods. Keep that figure's look, colours and costume; ignore the other gods, the title lettering and the composition."
+      }
+    ],
+    "alt": "Auril, an imperious ice queen on a glacier throne, with armoured Frost Wardens kneeling in rows below her."
+  },
+  "claimed_at": "2026-09-30T11:24:23+00:00",
+  "output": "art/generated/trailer-god-auril.png",
+  "sha256": "a18dab8620779c652f8706dda7aba30e389cbc3a3037f689bfd9c894f2a0ee86",
+  "format": "png",
+  "completed_at": "2026-09-30T11:25:26+00:00"
+}

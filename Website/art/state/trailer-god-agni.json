@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-agni",
+  "status": "completed",
+  "token": "3c66f675d50790b60b014ba14a942b87080fd5ef34cc0989",
+  "request_sha256": "b799afbe73ead65a69ed80d4f76bedd9c726f0e2eaf23de67daae034227053c2",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-god-agni",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Agni, the Humble Axeman",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Agni, god of fire, warmth and justice: righteous and just. A towering, broad-shouldered bearded god of living fire and cooling stone, his great axe resting humbly on one shoulder, and in his other hand a pair of golden scales blazing with judgement. Behind him, a ruined temple in the snow bursts back into flame. His expression is stern but kind. Embers rise around him and melt the snow at his feet. Warm, dominant ember-orange palette against cold blue shadows.",
+    "references": [
+      {
+        "path": "Website/docs/media/img/g_agni.jpg",
+        "role": "Appearance reference for Agni: the towering fire god with the axe. Keep his build, beard, fire and axe; ignore the man in the foreground."
+      }
+    ],
+    "alt": "Agni, a towering bearded god of fire with an axe on his shoulder and blazing golden scales in his hand."
+  },
+  "claimed_at": "2026-09-30T11:23:18+00:00",
+  "output": "art/generated/trailer-god-agni.png",
+  "sha256": "e691693a7cca63b9d20932ebad9f82f372aa6f5ff67f9f36729821525c65bccf",
+  "format": "png",
+  "completed_at": "2026-09-30T11:24:22+00:00"
+}

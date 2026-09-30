@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "sea-mothers-bargain",
+  "status": "completed",
+  "token": "1b6714cb73bf14211ea14900bf0d680f09403a4f24d47529",
+  "request_sha256": "c42cdd0bc2ff568d26bddf52565152e3a669808e385cdfd74d448793ed992c8e",
+  "request": {
+    "schema_version": 1,
+    "id": "sea-mothers-bargain",
+    "kind": "moment",
+    "moment_id": "S46-8560",
+    "title": "A bargain with the Sea Mother",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a dark fortress corridor. Fiddle kneels before a sealed stone door performing a ritual with his dice and a conch shell; spectral sea-green tentacles of light rise from the floor as the Mad Sea Mother's presence answers, and the door begins to grind open. Eerie. Characters: Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice.",
+    "references": [
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Fiddle kneels before a sealed door with dice and a conch as ghostly sea-green tentacles rise around him."
+  },
+  "claimed_at": "2026-09-30T11:10:41+00:00",
+  "output": "art/generated/sea-mothers-bargain.png",
+  "sha256": "1faa12509ae8a9164a43e6d3276d0fcb06894c4aa2731c9642441317e588af32",
+  "format": "png",
+  "completed_at": "2026-09-30T11:12:14+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "derek-and-vallos",
+  "status": "completed",
+  "token": "e587f5deae15714162793aadeb0d89d0ec82f1577e57f04e",
+  "request_sha256": "b19913f4d232a472e6cda0745c7139f40c4bb4a7942566124b024b0316dd28cb",
+  "request": {
+    "schema_version": 1,
+    "id": "derek-and-vallos",
+    "kind": "moment",
+    "moment_id": "S49-1740",
+    "title": "My son, I am sorry",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a sealed alchemical laboratory full of glass vats and brass machinery. An elderly inventor, Vallos, grey-haired in a soot-stained apron, faces D.E.R.E.K. with a hand raised in apology; a red construct brother, R.E.D., stands nearby. D.E.R.E.K.'s single eye glistens. An emotional reunion. Characters: D.E.R.E.K. (Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, in hooded red-and-orange robes with clockwork and clock-face motifs.",
+    "references": [
+      {
+        "path": "PCs/Chadron.png",
+        "role": "Character appearance reference for D.E.R.E.K. (Chadron). Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "D.E.R.E.K. faces the elderly inventor who built him in a laboratory of vats, a red construct nearby."
+  },
+  "claimed_at": "2026-09-30T10:53:17+00:00",
+  "output": "art/generated/derek-and-vallos.png",
+  "sha256": "0a19c39d83d96735e4e487841cb2c730aa6e8002b007bdc8448a6120a1c98f99",
+  "format": "png",
+  "completed_at": "2026-09-30T10:54:24+00:00"
+}

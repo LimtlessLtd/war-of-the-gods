@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "trailer-future-desert",
+  "status": "completed",
+  "token": "68e02ddbb95310d7368f4d618881ec3b43f16c4773651893",
+  "request_sha256": "e253e1841ec148fe00822c4491dc34c763efe0ac81d6633cf73d0d65adeb808d",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-future-desert",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Desert: every god at war",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: the future where all six gods grasp for supremacy and the world itself is the battlefield: a scorched desert plain split by chasms under a sky torn into six clashing colours (fire, ice, shadow, sea-green, leaf-green and gold), with colossal shapes of the gods fighting far off on the horizon.",
+    "references": [],
+    "alt": "A scorched desert under a sky split into six colours, colossal gods fighting on the horizon."
+  },
+  "claimed_at": "2026-09-30T11:20:20+00:00",
+  "output": "art/generated/trailer-future-desert.png",
+  "sha256": "a0213884bb9de5194f169a05625f79cd78a66000374bd809bdad4569184d4fe9",
+  "format": "png",
+  "completed_at": "2026-09-30T11:21:17+00:00"
+}

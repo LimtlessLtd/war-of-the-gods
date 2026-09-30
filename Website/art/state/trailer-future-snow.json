@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "trailer-future-snow",
+  "status": "completed",
+  "token": "3ea83916a5d3bf5c5d8b8ac03e5428de1d222ad2542eb19e",
+  "request_sha256": "93700ceb85903e8e441bdaa8017c06d4883154199c2cca40f718445c0623069a",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-future-snow",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Snow: a thousand more years of winter",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: the future where Auril rules forever: the whole world frozen solid under a grey sky, cities turned to ice, people frozen like statues in the streets, Auril's pale banners hanging stiff from every tower. Silent and total.",
+    "references": [],
+    "alt": "A frozen city under a grey sky with people turned to ice statues and pale banners on every tower."
+  },
+  "claimed_at": "2026-09-30T11:22:21+00:00",
+  "output": "art/generated/trailer-future-snow.png",
+  "sha256": "f7c37bea195b771cbfc98495985e35d22d562d2aabcda0a3836de5b2e8fa8c5d",
+  "format": "png",
+  "completed_at": "2026-09-30T11:23:17+00:00"
+}

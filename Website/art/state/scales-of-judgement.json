@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "scales-of-judgement",
+  "status": "completed",
+  "token": "d039f3a4318b4fd00603107f967bc69d1af8129daf7d8ba2",
+  "request_sha256": "728f1cdff6bf747853677f2641727c4ff65eebac0eea3f3b0b62d528c8e55c7a",
+  "request": {
+    "schema_version": 1,
+    "id": "scales-of-judgement",
+    "kind": "moment",
+    "moment_id": "S49-8215",
+    "title": "Speak a mortal's name",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a volcanic sanctum of black basalt. On a dais stand the colossal ancient Scales of Judgement, bronze and smouldering like still-hot metal. Runes around their base blaze with fiery light as D.E.R.E.K. drifts a hand theatrically across them, while Ulrick stares up at the Scales in awe. Characters: Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, in heavy dark plate armour with bronze-orange pauldrons and a long white tabard. D.E.R.E.K. (Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, in hooded red-and-orange robes with clockwork and clock-face motifs.",
+    "references": [
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/Chadron.png",
+        "role": "Character appearance reference for D.E.R.E.K. (Chadron). Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "The colossal smouldering Scales of Judgement, runes blazing, with a golden construct touching them and Ulrick gazing up in awe."
+  },
+  "claimed_at": "2026-09-30T11:09:27+00:00",
+  "output": "art/generated/scales-of-judgement.png",
+  "sha256": "d1eab2aee770e9da494b33da02635870a924234cd4c71565358bcda7e3f563af",
+  "format": "png",
+  "completed_at": "2026-09-30T11:10:40+00:00"
+}

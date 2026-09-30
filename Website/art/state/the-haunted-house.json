@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "the-haunted-house",
+  "status": "completed",
+  "token": "eb5d0590d1b357a7dc1031740f8e25612793f9a9bf280e5f",
+  "request_sha256": "8e4e54f8a8929548c086508351ce303889ef34b99f8bf7fdfebf0c31e8728c53",
+  "request": {
+    "schema_version": 1,
+    "id": "the-haunted-house",
+    "kind": "moment",
+    "moment_id": "S33-8040",
+    "title": "The haunted house",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: inside a candle-lit haunted house on a misty mountain. Nate and Lyrial lie still on the dusty floorboards as pale ghosts swirl above them. Tragic, quiet, beautiful. Characters: Nate: a human warlock and pirate with long wild red hair and stubble, in a dark navy captain's coat over a loose white shirt. Lyrial: a lean half-elf bard with long brown braided hair, green eyes and light stubble, in a worn brown leather coat over an olive jacket.",
+    "references": [
+      {
+        "path": "PCs/DEAD/Nate.jpg",
+        "role": "Character appearance reference for Nate. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      },
+      {
+        "path": "PCs/DEAD/Lyrial.jpeg",
+        "role": "Character appearance reference for Lyrial. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Nate and Lyrial lie still on the floor of a candle-lit haunted house as pale ghosts swirl above them."
+  },
+  "claimed_at": "2026-09-30T11:12:15+00:00",
+  "output": "art/generated/the-haunted-house.png",
+  "sha256": "e9db21b7aa40714987a19b230747c9d5bfa827b1b72a156a6f151e3de8ae88df",
+  "format": "png",
+  "completed_at": "2026-09-30T11:13:28+00:00"
+}

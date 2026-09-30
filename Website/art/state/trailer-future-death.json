@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "trailer-future-death",
+  "status": "completed",
+  "token": "f9404b25c62e609f15d613987e704e69e929f4f2e666a8a2",
+  "request_sha256": "8558f158dd758522e4556cca908bae53f97385fefc7043c0ea184c2c8bea9f09",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-future-death",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Death: the quiet end",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: the future where Nyxara won: a grey, silent wasteland where a sea of the undead stretches to the horizon under a dead sky, and a vast dead World Tree stands leafless in the middle distance. No colour left but grey and a faint violet haze.",
+    "references": [],
+    "alt": "A sea of the undead to the horizon under a dead sky, a vast leafless World Tree in the distance."
+  },
+  "claimed_at": "2026-09-30T11:19:23+00:00",
+  "output": "art/generated/trailer-future-death.png",
+  "sha256": "c223e3dea317956db1fd92d3650b162e1f25fe7ebf64f38311d760f954baa205",
+  "format": "png",
+  "completed_at": "2026-09-30T11:20:19+00:00"
+}

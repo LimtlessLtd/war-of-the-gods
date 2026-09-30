@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "the-prisoner-is-fiddle",
+  "status": "completed",
+  "token": "0f5dbc3aca1c1688109b6f919cabac9533a4fb6880e6e016",
+  "request_sha256": "bb75e99a339e6e03915f0550665bda4f9364cadcfb43c1f760ebe20783ddfe75",
+  "request": {
+    "schema_version": 1,
+    "id": "the-prisoner-is-fiddle",
+    "kind": "moment",
+    "moment_id": "S39-5755",
+    "title": "The prisoner is Fiddle Blackthorne",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a cold stone prison cell glazed with ice. A caged goblin, Fiddle, grins knowingly through the bars while a rough human fighter in a plain tunic, sickle at his belt, sweats nervously beside the party. A sly reveal. Characters: Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice.",
+    "references": [
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "A caged goblin grins through icy prison bars at a nervous human fighter."
+  },
+  "claimed_at": "2026-09-30T11:13:29+00:00",
+  "output": "art/generated/the-prisoner-is-fiddle.png",
+  "sha256": "ba6e51d680b048e1594091d35fc1f6a1c7ad71a4669881cad7389ba8a40a8a67",
+  "format": "png",
+  "completed_at": "2026-09-30T11:14:56+00:00"
+}

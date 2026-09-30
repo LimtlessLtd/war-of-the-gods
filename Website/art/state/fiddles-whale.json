@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "fiddles-whale",
+  "status": "completed",
+  "token": "74e5b77d30ce59d3e4b4070d6b1f0cc57c4fcfe1a20a748c",
+  "request_sha256": "93ecd1291da940a9d1b4497b5f1bfc92023d199b8c1944e8b0ec22c3fb2a7d8a",
+  "request": {
+    "schema_version": 1,
+    "id": "fiddles-whale",
+    "kind": "moment",
+    "moment_id": "S43-5150",
+    "title": "Fiddle's whale saves the day",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a vast flooded sewer chamber beneath Fireholm. A monstrous sewer tyrant rears up; Fiddle, tiny on a ledge, raises a conch shell as a gigantic whale bursts out of the water and crashes down onto the tyrant. Epic and absurd. Characters: Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice.",
+    "references": [
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "A gigantic whale bursts from sewer water onto a monstrous tyrant as tiny Fiddle raises a conch."
+  },
+  "claimed_at": "2026-09-30T10:59:06+00:00",
+  "output": "art/generated/fiddles-whale.png",
+  "sha256": "c857b7031e541eee7b94d38346cb371b79508e1ff64ed51bf39f971a9842fb18",
+  "format": "png",
+  "completed_at": "2026-09-30T11:00:13+00:00"
+}

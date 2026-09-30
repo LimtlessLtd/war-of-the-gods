@@ -1,6 +1,6 @@
 # Artwork workflow handoff
 
-For campaign trailer work, first read `Website/art/trailer-2026-09-30/README.md`. It contains the critique, proposed edit, three completed image paths and essential framing instructions. Codex created the images at the user's request on 30 September 2026; these direct-request assets are separate from the website artwork queue. On the original workstation, the extended critique and source records remain in `Trailer Video/review/TRAILER_CRITIQUE.md` and `Trailer Video/art-2026-09-30/README.md`.
+For campaign trailer work, first read `Website/art/trailer-expansion-2026-09-30/README.md`: 20 additional widescreen images, a visual catalogue, shot replacements and framing/continuity notes. Then read `Website/art/trailer-2026-09-30/README.md` for the critique, proposed edit and three earlier divine images (23 new accepted assets total). Codex created these at the user's request on 30 September 2026; direct-request assets remain separate from the website artwork queue. The map outpaint failed geographic/label preservation and remains local only; the original map is unchanged. On the original workstation, extended sources remain in `Trailer Video/review/TRAILER_CRITIQUE.md`, `Trailer Video/art-2026-09-30/` and `Trailer Video/expansion-2026-09-30/`.
 
 Codex set up the shared artwork queue at the user's request while Claude usage was exhausted on 28 September 2026.
 

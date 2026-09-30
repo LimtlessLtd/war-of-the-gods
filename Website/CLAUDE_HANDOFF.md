@@ -2,17 +2,20 @@
 
 ## Latest trailer follow-up — 30 September 2026
 
-The user asked Codex to critique the existing trailer, create new supporting artwork, and then push the finished work. Start with `art/trailer-2026-09-30/README.md`: the repository now contains the three completed PNGs, an editing brief and verified metadata, usable by a remote editor. The user will relay the critique.
+The user asked Codex to critique the existing trailer, create supporting artwork, then generate about 20 more images and publish the finished work to main. Start with `art/trailer-expansion-2026-09-30/README.md`: **20 additional accepted widescreen PNGs**, a visual catalogue (`index.html`), a shot replacement table and verified metadata. This includes new environments, battle/airship shots, small-portrait replacements, relationships, loss and three individual divine scenes. The earlier `art/trailer-2026-09-30/README.md` retains the critique, proposed edit and three divine illustrations: **23 new accepted assets in total**. The user will relay the critique.
+
+The Aurilia map outpaint altered labels and geography and was withheld. Its draft remains local; `docs/media/map/aurilia.jpg` and the map pins are unchanged. IDs 02–21 comprise the accepted expansion batch; 01 was reserved for that rejected draft. An exact composite is an optional follow-up pending the user's compositing preference.
 
 For the extended source review on the original workstation, read these **local files relative to the campaign root**, outside Website:
 
 - `Trailer Video/review/TRAILER_CRITIQUE.md` — critique, candidate recording timestamps and proposed shorter edit.
 - `Trailer Video/art-2026-09-30/README.md` — three completed trailer images, suggested usage, identity references, integration instructions and visual limitations.
 - `Trailer Video/art-2026-09-30/prompts.json` and `manifest.json` — exact prompts and verified asset metadata.
+- `Trailer Video/expansion-2026-09-30/README.md` and `prompts.json` — expanded batch record, full prompts and private reference paths.
 
 The images were generated directly for this request, not through the automated website queue. Do not regenerate them or create fictitious queue completion receipts. Preserve all existing queue states. The pantheon replacement requires fresh crop/subject coordinates; a path-only swap will retain inappropriate cropping from the old image.
 
-The finished PNGs and repository editing brief are prepared for the user's requested push. Private source recordings, reference frames, full prompts and the extended source review remain local. No video was replaced or rendered, no website build was run, and no message was sent to Claude. The earlier dated notes below are historical; their queue and Git status statements are not a current status report.
+The earlier three-image batch was pushed in `6b0a691`; the expanded batch follows the user's explicit instruction to publish to main. Private source recordings, reference frames, full prompts and the extended source review remain local. Each new asset has an individual visual-review note; reset inherited crops and check symbolic scenes against narration. No video was replaced or rendered, no website build was run, and no message was sent to Claude. The earlier dated notes below are historical; their queue and Git status statements are not a current status report.
 
 ---
 

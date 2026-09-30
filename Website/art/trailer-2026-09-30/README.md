@@ -1,5 +1,7 @@
 # Trailer artwork and editing brief — 30 September 2026
 
+Follow-up: [20 additional widescreen images and visual catalogue](../trailer-expansion-2026-09-30/README.md) now cover weak/small portraits, locations, relationships, the airship and individual gods. Use that handoff alongside the critique below. The attempted map outpaint was withheld for label/geography drift.
+
 Three finished images created by Codex with built-in image generation at the user's request. The user subsequently requested that the finished work be pushed to this repository. These assets are separate from the automated artwork queue: no queue requests or completion receipts are required. They are available to the trailer editor but are not automatically included in the website gallery.
 
 ## Images

@@ -1,5 +1,7 @@
 # Campaign artwork handoff
 
+For the direct-request trailer assets, see [the 20-image expansion](trailer-expansion-2026-09-30/README.md) and [the earlier three-image set and critique](trailer-2026-09-30/README.md). These completed sets are independent of the queue described below.
+
 Claude prepares scene requests. A Codex routine uses built-in image generation, saves each result, and records completion. The website build attaches completed artwork to its matching moment. This setup does not call an image API, launch Claude, or publish the website.
 
 ## Files and ownership

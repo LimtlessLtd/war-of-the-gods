@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-30",
+  "requested_count": 20,
+  "assets": [
+    {
+      "id": "02-aurilia-long-winter",
+      "title": "Aurilia beneath the long winter",
+      "source": "Established setting: Auril's long winter; existing w4 narration",
+      "replace": [
+        "WINTER",
+        "MAP atmospheric world shots"
+      ],
+      "type": "illustration",
+      "file": "02-aurilia-long-winter.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3168666,
+      "sha256": "83aad30e3c2281c3c173493c306e144882b4a58dafebb4959bce6d0090737f4d",
+      "visual_review": "Reviewed: coherent winter panorama, visible patrol and warm settlements; interpretive environment, not map-accurate geography.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "03-campess-port-arrival",
+      "title": "Campess Port — where it began",
+      "source": "Sessions 1–6 and public location entry: Campess Port, southern port",
+      "replace": [
+        "new CAMPESS_ESTABLISHING; early world/party transition"
+      ],
+      "type": "illustration",
+      "file": "03-campess-port-arrival.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3008203,
+      "sha256": "f172ad021855bab05b443c064630327592b1db40d68c2ec0e432a0e71aa12ec1",
+      "visual_review": "Reviewed: readable harbour, warmer southern-coast palette, no labels; generic dock workers, interpretive architecture.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "04-muttonham-before-the-siege",
+      "title": "Muttonham — a town worth defending",
+      "source": "Sessions 9–17; map/location: Muttonham valley",
+      "replace": [
+        "new MUTTONHAM_ESTABLISHING; avoid misleading G_MUTTON"
+      ],
+      "type": "illustration",
+      "file": "04-muttonham-before-the-siege.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3252649,
+      "sha256": "332fb26fec5e71f6f9383819054dc260a6cc70cdd5d7d93865f71a8b3c1a5469",
+      "visual_review": "Reviewed: modest walled market town, river and mountains; interpretive earlier establishing view, architecture is not a canonical town plan.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "05-muttonham-fallback-line",
+      "title": "Muttonham — hold the fallback line",
+      "source": "Sessions 15–17; barricades, ballistae, Frost Wardens and fallback defence",
+      "replace": [
+        "G_BATTLE first battle uses"
+      ],
+      "type": "illustration",
+      "file": "05-muttonham-fallback-line.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2757391,
+      "sha256": "4cafe9c4c80dd64d78ffa18d1e669fe51b4abbe6cc786e96f845c53b438c2a86",
+      "visual_review": "Reviewed: Ulrick and Durzo identities retained, readable barricade and ballista, approaching ice forces; glaive tip near top edge, avoid extra crop.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "06-wavecrest-victory",
+      "title": "Wavecrest — the town remembers",
+      "source": "S17-15012; public Session 17 summary; wavecrest request",
+      "replace": [
+        "G_CHURCH under the Wavecrest chant"
+      ],
+      "type": "illustration",
+      "file": "06-wavecrest-victory.png",
+      "width": 1672,
+      "height": 940,
+      "bytes": 2395522,
+      "sha256": "f40ac4952a37dd9e22808cd05ba25b1faa6ea8a9444e39aa146da58a4ea99b78",
+      "visual_review": "Reviewed: Nate likeness and clothing retained; readable celebration and knight salute; raised hand and sword meet upper edge, avoid top crop. Crowd and knight appearance are illustrative.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "07-skycrest-above-the-clouds",
+      "title": "Skycrest — the ancient airship",
+      "source": "Sessions 49–50; existing SKYCREST loose-design reference",
+      "replace": [
+        "SKYCREST"
+      ],
+      "type": "illustration",
+      "file": "07-skycrest-above-the-clouds.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2571817,
+      "sha256": "735202fb8b3aad120addd743fd2b1343e225efed4db238e58f0342cb9af95ab4",
+      "visual_review": "Reviewed: coherent ornate airship and propellers, warm cabin lights, no weapons firing. Upper balloons are cropped by the generator; use as a medium-wide view, not an entire-ship silhouette.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "08-nimbus-coronet",
+      "title": "The Nimbus Coronet — fire imprisoned in ice",
+      "source": "Existing s2 narration and trailer-skycrest-crown request",
+      "replace": [
+        "GOD_AURIL crown + G_AGNI used for the trapped avatar"
+      ],
+      "type": "illustration",
+      "file": "08-nimbus-coronet.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2648333,
+      "sha256": "61d7e067b03d67243d11025bc15051b35dc131ccb25f55aee43f30421a15fd0a",
+      "visual_review": "Reviewed: icy crown, enclosed flame, open casket and airship deck all readable. Distant ice architecture is symbolic background, not a canonical flight location.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "09-chronos-the-still-moment",
+      "title": "Chronos — the still moment aboard ship",
+      "source": "Public gods page: ship frozen in time beside grandfather clock",
+      "replace": [
+        "G_CLOCK"
+      ],
+      "type": "illustration",
+      "file": "09-chronos-the-still-moment.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2656631,
+      "sha256": "77ae515ff455fbb9d25f889fa6c9670af22c713ea72c1e79ddef40b977b5fc1a",
+      "visual_review": "Reviewed: original bespectacled Chronos retained, ship setting, readable grandfather clock and suspended motion. Decorative marks on foreground scroll are not campaign text; clock top touches edge.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "10-nyxara-buried-temple",
+      "title": "Nyxara — the temple beneath Campess Port",
+      "source": "Session 4 public summary: sealed temple beneath sewers",
+      "replace": [
+        "new NYXARA_TEMPLE; do not assume G_NYX is this scene"
+      ],
+      "type": "illustration",
+      "file": "10-nyxara-buried-temple.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2449918,
+      "sha256": "13feaf23e1438248801f303fcbb2ef5a75a49853df1f38362c72869683e352f3",
+      "visual_review": "Reviewed: hooded white-eyed Nyxara, flooded ancient sanctuary, clean central composition. Temple architecture is interpretive; no extra living deity.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "11-mistmourne-house-exterior",
+      "title": "Mount Mistmourne — the house of ghosts",
+      "source": "Session 33: haunted house on Mt Mistmourne; source interior mood",
+      "replace": [
+        "G_HAUNT establishing shot"
+      ],
+      "type": "illustration",
+      "file": "11-mistmourne-house-exterior.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2618185,
+      "sha256": "c9383991cc174c67a7da21c4307828f093c61055e4cd9f78420687fee526e1b0",
+      "visual_review": "Reviewed: clear ominous doorway, mountain context and restrained ghosts; exterior architecture is interpretive. Dark image benefits from gentle grading, not further darkening.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "12-the-house-that-kept-them",
+      "title": "Nate and Lyrial — the haunted house aftermath",
+      "source": "S33-8040; Sessions 33–34; existing haunted-house request",
+      "replace": [
+        "G_HAUNT",
+        "HAUNTED alternative"
+      ],
+      "type": "illustration",
+      "file": "12-the-house-that-kept-them.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2499349,
+      "sha256": "67c980d83ddf015437842bdb6388f59d7f92d4318ef2e8c0409e652ae5982fd5",
+      "visual_review": "Reviewed: two distinct established characters, non-graphic death scene and ghosts. Feet extend toward frame edges; retain faces and resting hands during reframing.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "13-nate-wavecrest-portrait",
+      "title": "Nate Wavecrest — captain and warlock",
+      "source": "Public hero identity; P_NATE is 220px",
+      "replace": [
+        "P_NATE"
+      ],
+      "type": "illustration",
+      "file": "13-nate-wavecrest-portrait.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2490650,
+      "sha256": "932f9f64b3d4cdb7743cac3965a92ead020e112a8ebaf883a2420eba027eab96",
+      "visual_review": "Reviewed: red hair, human ears, navy coat, pendant and stubble retained; left region available for title. Symbolic living portrait, not a newly claimed event.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "14-lyrial-thorne-portrait",
+      "title": "Lyrial Thorne — smuggler and bard",
+      "source": "Public hero identity; P_LYRIAL is 220px",
+      "replace": [
+        "P_LYRIAL"
+      ],
+      "type": "illustration",
+      "file": "14-lyrial-thorne-portrait.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2329530,
+      "sha256": "5598433b057404319ffc04f523a7ed3adba81e6acf6169499f1fe791b41a98a3",
+      "visual_review": "Reviewed: half-elf ears, braids, green eyes, brown leather, coin and lute readable. Symbolic portrait; decorative coin markings are not campaign inscriptions.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "15-gavin-prison-yard-portrait",
+      "title": "Gavin — the would-be rescuer",
+      "source": "Public Gavin hero entry; P_GAVIN 220px; Session 39",
+      "replace": [
+        "P_GAVIN"
+      ],
+      "type": "illustration",
+      "file": "15-gavin-prison-yard-portrait.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2406368,
+      "sha256": "18a742cdd16ff8521f9cd23636163a17cb442a63b473403c0b1d2d43c83b4df6",
+      "visual_review": "Reviewed: rugged face, brown hood and plain equipment retained; cold prison setting and readable face. Detailed interpretation from a small 220px source.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "16-the-fallen-remembrance",
+      "title": "The fallen — Nate and Lyrial remembered",
+      "source": "Public fallen biographies; existing G_MEMORY memorial graphic",
+      "replace": [
+        "G_MEMORY"
+      ],
+      "type": "illustration",
+      "file": "16-the-fallen-remembrance.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2475825,
+      "sha256": "b535ea94e32ae626a32c0c07f7a4a94762b414cfb5967ff136f272e40f91d6aa",
+      "visual_review": "Reviewed: both likenesses retained, soft symbolic memory treatment, no generated names or dates. No literal resurrection implied; editor adds memorial typography.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "17-ulrick-the-promise",
+      "title": "Ulrick — the promise he could not keep",
+      "source": "S34-4496 and existing ulrick-edderick request; vision/memory",
+      "replace": [
+        "ULRICK_EDD emotional alternative"
+      ],
+      "type": "illustration",
+      "file": "17-ulrick-the-promise.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2468150,
+      "sha256": "347ee157a7c4e915e3b4739c09b88767e6481f97f92688235e76d4bf1105c80e",
+      "visual_review": "Reviewed: Ulrick likeness and armour retained, restrained expression, coherent clasped gauntlets and brother mostly off-frame. Use as memory/vision illustration, not current battle aftermath.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "18-durzo-and-elara",
+      "title": "Durzo and Elara — a debt in shadow",
+      "source": "Public Durzo biography and elara-at-the-gate request; symbolic relationship portrait",
+      "replace": [
+        "GHOST",
+        "DURZO_P relationship cutaway"
+      ],
+      "type": "illustration",
+      "file": "18-durzo-and-elara.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2328973,
+      "sha256": "dfff4666631b74cbd12771c97c27c316d6428779159e7b5172259a2536f6834b",
+      "visual_review": "Reviewed: Durzo retains silver hair and red-black clothing; Elara remains an indistinct violet apparition. Symbolic relationship image, not a new literal rescue scene.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "19-gideon-world-tree-awakening",
+      "title": "Gideon — the World Tree awakens",
+      "source": "S57-9626; public Session 57; existing gideon-world-tree request",
+      "replace": [
+        "WORLD_TREE",
+        "G_MEMORY alternative for hope transition"
+      ],
+      "type": "illustration",
+      "file": "19-gideon-world-tree-awakening.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2756186,
+      "sha256": "047f57be9e276fb41ddb10edeec4da8fa300122d3a35ea7ca6e0a5f34a5f927e",
+      "visual_review": "Reviewed: fairy scale, insect wings and dark robes retained; first green growth climbs a largely dead World Tree. Ring is too small to read clearly. Illustrative Session 57 awakening.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "20-derek-and-bob-skycrest",
+      "title": "D.E.R.E.K. and B.0.B. — aboard Skycrest",
+      "source": "Public hero identities; Sessions 49–50 airship and father/son bond",
+      "replace": [
+        "P_BOB",
+        "BOB_BOLT when no attack is being described",
+        "DEREK_P relationship cutaway"
+      ],
+      "type": "illustration",
+      "file": "20-derek-and-bob-skycrest.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2866271,
+      "sha256": "6d0920385f7ed7ca96fa8b20355f1f549236278ae3e56aa3a712ed024838cc33",
+      "visual_review": "Reviewed: distinct single blue eyes, red lips and correct father/son scale. Grapes readable. Scenic background includes another airship and a fanciful mountain city; use as symbolic relationship montage, not an exact voyage record.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    },
+    {
+      "id": "21-sea-mother-abyssal-domain",
+      "title": "Blibdoolpoolp — the abyss answers",
+      "source": "Established public Sea Mother identity and sea/madness domain; symbolic divine manifestation",
+      "replace": [
+        "G_BLIB",
+        "BLIBG domain reveal alternative"
+      ],
+      "type": "illustration",
+      "file": "21-sea-mother-abyssal-domain.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3363761,
+      "sha256": "b5973a1d51b1a526d98dbac2fc0fe2ce39397046bba893cd36d780c04428e313",
+      "visual_review": "Reviewed: skeletal sea-witch identity, skull/driftwood crown, serpent forms and small vessel are readable. Crown tips reach top edge despite requested margin; preserve full frame. Symbolic domain image, not an actual new ship encounter.",
+      "generation": "built-in image_gen",
+      "status": "complete"
+    }
+  ],
+  "completed_count": 20,
+  "map_status": "AI outpaint rejected for geographic and label drift; original map unchanged; draft retained locally only.",
+  "integration_status": "Prepared assets only; trailer and website gallery not rebuilt."
+}

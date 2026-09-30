@@ -25,6 +25,8 @@ All paths above are relative to `E:\DnD\War of the Gods\Website`. Portrait paths
 
 Putting a valid request in the queue makes it eligible for generation and local site integration. The example template is intentionally not a valid, queued request. A `kind: "test"` job never appears on the campaign website.
 
+A `kind: "trailer"` job (with `moment_id: null`) makes a still for the campaign trailer rather than a moment card. It is generated and receipted like any other job but never appears on the website; the trailer picks it up from `art/generated`.
+
 ## Worker lifecycle
 
 Run commands from the Website directory:

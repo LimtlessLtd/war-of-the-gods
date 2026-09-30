@@ -134,8 +134,10 @@ class ArtQueueTests(unittest.TestCase):
         self.request("missing-moment", kind="moment", moment_id="S99-1234")
         self.request("bad-test", kind="test", moment_id="S14-2926")
         self.request("bad-kind", kind="portrait")
-        self.assertEqual([j["id"] for j in self.queue.list()["pending"]], ["valid-moment"])
-        self.assertEqual(len(self.queue.list()["invalid"]), 3)
+        self.request("valid-trailer", kind="trailer", moment_id=None)
+        self.request("bad-trailer", kind="trailer", moment_id="S14-2926")
+        self.assertEqual([j["id"] for j in self.queue.list()["pending"]], ["valid-moment", "valid-trailer"])
+        self.assertEqual(len(self.queue.list()["invalid"]), 4)
 
     def test_reference_traversal_and_missing_file_are_invalid(self):
         self.request("escape", references=[{"path": "../outside.png", "role": "hero"}])

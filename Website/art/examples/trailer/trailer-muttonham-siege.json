@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "trailer-muttonham-siege",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "The Second Battle for Muttonham",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: [CONFIRM THE ATTACKERS BEFORE QUEUEING] the market town of Muttonham under siege again at night. The town sits on a river with a stone bridge and a waterfall. Its barricades are burning, the ruined church stands blackened in the middle of town, and townsfolk hold the walls with torches and spears. Across the river, the besieging army fills the dark in a blizzard. Wide, epic, desperate.",
+  "references": [
+    {
+      "path": "Website/docs/media/img/g_battle.jpg",
+      "role": "Reference for the first Battle of Muttonham: the Frost Warden army, ice giants and the town. Use for setting and enemy look only; do not include the two heroes in the foreground."
+    }
+  ],
+  "alt": "Muttonham burning under siege at night, townsfolk on the barricades as an army fills the dark across the river."
+}

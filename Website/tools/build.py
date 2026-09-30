@@ -111,8 +111,14 @@ def main(output_dir=None):
         if os.path.exists(D('media', 'video', f"{m['id']}.webp")):
             m['video'] = f"{vbase}{m['id']}.mp4"
             m['poster'] = f"media/video/{m['id']}.webp"
+    # the campaign trailer plays from the home page once docs/media/video/trailer.mp4 is in place
+    trailer = None
+    if os.path.exists(D('media', 'video', 'trailer.mp4')):
+        trailer = dict(src=f"{vbase}trailer.mp4")
+        if os.path.exists(D('media', 'video', 'trailer.webp')):
+            trailer['poster'] = 'media/video/trailer.webp'
     site = dict(
-        stats=dict(days=max(s['dayHi'] for s in sessions)),
+        stats=dict(days=max(s['dayHi'] for s in sessions)), trailer=trailer,
         chapters=chapters, sessions=sessions, locations=locs['locations'], map=locs['map'],
         moments=moments, posts=posts, videos=videos, heroes=heroes,
         built=datetime.date.today().isoformat())

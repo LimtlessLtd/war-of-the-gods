@@ -83,6 +83,13 @@ class ArtSiteTests(unittest.TestCase):
         self.assertEqual(attach_art(self.moments, self.root, self.output), self.moments)
         self.assertFalse(self.output.exists())
 
+    def test_trailer_stills_never_publish(self):
+        receipt = self.receipt()
+        receipt['request']['kind'] = 'trailer'
+        self.save(receipt)
+        self.assertEqual(attach_art(self.moments, self.root, self.output), self.moments)
+        self.assertFalse(self.output.exists())
+
     def test_unknown_moments_mismatched_ids_and_bad_hashes_never_publish(self):
         unknown = self.receipt('unknown-art')
         unknown['request']['moment_id'] = 'S999-0'

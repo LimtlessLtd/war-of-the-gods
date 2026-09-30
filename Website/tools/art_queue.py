@@ -76,16 +76,16 @@ class ArtQueue:
             raise QueueError("request filename must match id")
         if type(job.get("schema_version")) is not int or job["schema_version"] != 1:
             raise QueueError("schema_version must be 1")
-        if job.get("kind") not in ("test", "moment"):
-            raise QueueError("kind must be test or moment")
+        if job.get("kind") not in ("test", "moment", "trailer"):
+            raise QueueError("kind must be test, moment or trailer")
         for field in ("title", "prompt", "alt"):
             if not isinstance(job.get(field), str) or not job[field].strip():
                 raise QueueError(f"{field} must be nonempty text")
         if "moment_id" not in job:
-            raise QueueError("moment_id is required (null for a test)")
-        if job["kind"] == "test":
+            raise QueueError("moment_id is required (null for a test or trailer job)")
+        if job["kind"] in ("test", "trailer"):
             if job["moment_id"] is not None:
-                raise QueueError("test jobs must have moment_id null")
+                raise QueueError(f"{job['kind']} jobs must have moment_id null")
         else:
             if not isinstance(job["moment_id"], str) or not job["moment_id"]:
                 raise QueueError("moment jobs require a moment_id")

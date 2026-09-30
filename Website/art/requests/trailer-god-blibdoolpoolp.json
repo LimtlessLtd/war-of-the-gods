@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-blibdoolpoolp",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Blibdoolpoolp, the Mad Sea Mother",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Blibdoolpoolp, goddess of the sea, madness and chaos: insane and unpredictable, abyssal. The Mad Sea Mother rises out of a storm-churned black ocean at night: a vast sea-witch with writhing tentacles, barnacled skin and far too many glowing eyes, wearing a wide, manic grin. Ships are tossed like toys around her. In the foam at her feet tumbles a glowing die with too many faces. Unsettling, gleeful, deep-sea teal and bioluminescent green palette.",
+  "references": [
+    {
+      "path": "Website/docs/media/img/g_blib.jpg",
+      "role": "Appearance reference for Blibdoolpoolp: the tentacled sea-mother rising behind the small figure. Keep her look; ignore the small figure and the snow."
+    },
+    {
+      "path": "Website/docs/media/discord/1440842278427037778_0.webp",
+      "role": "Mood reference only: the sea goddess over a ship with jellyfish and lightning. Use for colour and atmosphere."
+    }
+  ],
+  "alt": "Blibdoolpoolp, a vast grinning sea-witch with tentacles and many glowing eyes rising from a stormy night sea."
+}

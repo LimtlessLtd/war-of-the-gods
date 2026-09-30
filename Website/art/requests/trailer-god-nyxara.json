@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-nyxara",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Nyxara, the Veiled Shadow",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Nyxara, goddess of death, shadow and secrets: deadly and secretive. A tall veiled goddess wrapped in black and violet shadow that trails away like smoke, her face hidden but for two cold glowing eyes, a long scythe in one hand and one finger raised to where her lips would be, as if keeping a secret. Pale souls drift around her like moths in a grey realm of mist, dead trees and black water. Dominant violet-black palette.",
+  "references": [
+    {
+      "path": "Website/docs/media/discord/1427757501776003195_0.webp",
+      "role": "Appearance reference for Nyxara only: the figure of the hooded reaper with the scythe (upper left) in this group painting of the six gods. Keep that figure's look, colours and costume; ignore the other gods, the title lettering and the composition."
+    },
+    {
+      "path": "Website/docs/media/discord/1428064719591182377_0.webp",
+      "role": "Second appearance reference for Nyxara: the dark hooded goddess with the scythe on the left. Ignore the fairy and the green goddess."
+    }
+  ],
+  "alt": "Nyxara, a veiled goddess of shadow with a scythe, a finger to her hidden lips, pale souls drifting around her."
+}

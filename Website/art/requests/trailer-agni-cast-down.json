@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "trailer-agni-cast-down",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Agni cast down",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: a mythic scene from a thousand years ago. Agni, the Humble Axeman, a colossal bearded god made of fire and molten stone with a great woodsman's axe, is falling out of a storm-torn sky like a burning comet, his axe spinning away. Above him, two goddesses strike him down together: Auril, queen of ice, radiant and pale in a crown of icicles, one hand thrust out in a blast of frost; and Nyxara, a veiled goddess of shadow and death in black and violet, her scythe raised. Below, the world begins to freeze where his fire goes out. Ancient, operatic, tragic.",
+  "references": [
+    {
+      "path": "Website/docs/media/discord/1427757501776003195_0.webp",
+      "role": "Appearance reference for Auril (the ice goddess, upper right) and Nyxara (the hooded reaper with the scythe, upper left) only; ignore the other figures and the lettering."
+    },
+    {
+      "path": "Website/docs/media/img/g_agni.jpg",
+      "role": "Appearance reference for Agni only: the towering fire god with the axe. Keep his look; ignore the man in the foreground and the setting."
+    }
+  ],
+  "alt": "A colossal fire god with an axe falls burning from the sky, struck down by an ice queen and a veiled goddess with a scythe."
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "trailer-god-gaia",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Gaia, Nature's Shepherd",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Gaia, goddess of nature, balance and life: nurturing and protective. A gentle giantess woven of living wood, moss and blossom kneels in a dead grey forest, cradling a single glowing sapling in both hands. Where her hands and knees touch the ground, green life spreads outwards through the ash, and small animals shelter beneath her. Soft golden light breaks through the canopy. Warm, calm, protective; dominant green and gold palette.",
+  "references": [
+    {
+      "path": "Website/docs/media/discord/1427757501776003195_0.webp",
+      "role": "Appearance reference for Gaia only: the figure of the green goddess with flowers in her hair (lower left) in this group painting of the six gods. Keep that figure's look, colours and costume; ignore the other gods, the title lettering and the composition."
+    },
+    {
+      "path": "Website/docs/media/discord/1428064719591182377_0.webp",
+      "role": "Second appearance reference for Gaia: the goddess of living wood and leaves on the right. Ignore the dark goddess and the fairy."
+    }
+  ],
+  "alt": "Gaia, a giantess of living wood and blossom, kneels in a dead forest cradling a glowing sapling as green life spreads out."
+}

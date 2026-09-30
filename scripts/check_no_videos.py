@@ -8,10 +8,11 @@ streamed through one cat-file process with bounded memory. Suspected MP4 audio i
 checked from the complete Git blob using a temporary file. No third-party packages
 needed.
 
-One exception: the campaign website's short moment clips, named like S34-3598.mp4
-directly inside Website/docs/media/video/ and no larger than MAX_CLIP_SIZE. Full
-session recordings are gigabytes, so the size cap keeps them out even if renamed
-into that folder. Video filenames anywhere else are still blocked.
+Two exceptions, both directly inside Website/docs/media/video/: the campaign
+website's short moment clips, named like S34-3598.mp4 and no larger than
+MAX_CLIP_SIZE, and the one campaign trailer, exactly trailer.mp4 and no larger than
+MAX_TRAILER_SIZE. Full session recordings are gigabytes, so the size caps keep them
+out even if renamed into that folder. Video filenames anywhere else are still blocked.
 """
 
 import argparse
@@ -38,11 +39,16 @@ OID_PATTERN = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
 CLIP_DIR = b"Website/docs/media/video"
 CLIP_NAME = re.compile(rb"S\d{1,3}-\d{1,6}\.mp4\Z")
 MAX_CLIP_SIZE = 25 * 1024 * 1024
+TRAILER_PATH = CLIP_DIR + b"/trailer.mp4"
+MAX_TRAILER_SIZE = 50 * 1024 * 1024
 
 
-def clip_path(path):
+def allowed_size(path):
+    """The largest video allowed at this path, or 0 where videos are not allowed."""
+    if path == TRAILER_PATH:
+        return MAX_TRAILER_SIZE
     folder, _, name = path.rpartition(b"/")
-    return folder == CLIP_DIR and bool(CLIP_NAME.match(name))
+    return MAX_CLIP_SIZE if folder == CLIP_DIR and CLIP_NAME.match(name) else 0
 
 
 def git(*args):
@@ -377,17 +383,24 @@ def check(mode):
     try:
         if mode == "staged":
             entries = list(staged_entries())
-            # Approve clips first so the result does not depend on index order.
-            clips = set()
+            # Approve clips and the trailer first so the result does not depend on
+            # index order. Each allowed path is checked against its own size cap.
+            sizes = {}
             for oid, path in entries:
-                if clip_path(path) and oid not in clips:
+                if allowed_size(path) and oid not in sizes:
                     kind, _, size = reader.read(oid)
-                    if kind == b"blob" and size <= MAX_CLIP_SIZE:
-                        clips.add(oid)
+                    sizes[oid] = size if kind == b"blob" else None
+
+            def fits(oid, limit):
+                return sizes.get(oid) is not None and sizes[oid] <= limit
+
+            clips = {oid for oid, path in entries if allowed_size(path) and fits(oid, allowed_size(path))}
             for oid, path in entries:
-                if clip_path(path) and oid not in clips:
-                    findings.append(display(path) + " (clip larger than " + str(MAX_CLIP_SIZE >> 20) + " MiB)")
-                elif video_extension(path) and not clip_path(path):
+                limit = allowed_size(path)
+                if limit and not fits(oid, limit):
+                    what = "trailer" if path == TRAILER_PATH else "clip"
+                    findings.append(display(path) + " (" + what + " larger than " + str(limit >> 20) + " MiB)")
+                elif video_extension(path) and not limit:
                     findings.append(display(path) + " (video filename)")
                 if oid in seen or oid in clips:
                     continue
@@ -416,10 +429,10 @@ def check(mode):
                 kind, data, size = reader.read(oid)
                 if kind == b"tree":
                     for name in tree_entries(data, reader.hash_bytes):
-                        if video_extension(name) and not clip_path(path + b"/" + name):
+                        if video_extension(name) and not allowed_size(path + b"/" + name):
                             findings.append(display(name) + " (video filename in historical tree " + oid[:12] + ")")
                 elif kind == b"blob":
-                    if clip_path(path) and size <= MAX_CLIP_SIZE:
+                    if allowed_size(path) and size <= allowed_size(path):
                         continue
                     signature = blob_video_signature(oid, data)
                     if signature:

@@ -514,6 +514,10 @@ fetch('data/site.json?v=' + (document.currentScript?.src.split('v=')[1] || '')).
     hero.style.setProperty('--art', cssUrl(m.art.web || m.art.src));
     $('#hero-cap').innerHTML = `<a href="#/art">🎨 ${esc(m.title)} · Session ${m.s}</a>`;
   }
+  if (D.trailer && $('#hero-acts')) {
+    lbGroups.trailer = [{ k: 'vid', src: D.trailer.src, poster: D.trailer.poster, cap: '<b>War of the Gods</b> · the trailer' }];
+    $('#hero-acts').innerHTML = `<button type="button" class="btn primary trailer-btn" data-lb="trailer" data-i="0">${PLAY}<span>Watch the trailer</span></button>`;
+  }
   $('#stats').innerHTML = [
     [order.length, 'sessions played'], ['~' + D.stats.days, 'days in Aurilia'], [D.chapters.length, 'chapters'],
     [D.moments.length || '…', 'best moments'], [D.posts.length || '…', 'Discord posts'], ...(D.art.length ? [[D.art.length, 'painted moments']] : []), ['300+', 'Frost Wardens over a waterfall']

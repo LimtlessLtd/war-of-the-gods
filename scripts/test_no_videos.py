@@ -168,6 +168,35 @@ class GuardTests(unittest.TestCase):
         self.commit()
         self.assert_blocked(self.push_check(), "MP4/QuickTime")
 
+    def test_campaign_trailer_allowed(self):
+        self.add("Website/docs/media/video/trailer.mp4", MP4 + bytes(MODULE.MAX_CLIP_SIZE))
+        result = self.guard()
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.commit()
+        result = self.push_check()
+        self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_trailer_exception_is_narrow(self):
+        for name in ("Website/docs/media/video/Trailer.mp4", "Website/docs/media/video/trailer2.mp4",
+                     "Website/docs/media/trailer.mp4", "Website/docs/media/video/nested/trailer.mp4",
+                     "Website/trailer.mp4"):
+            with self.subTest(name=name):
+                self.git("rm", "-rq", "--cached", "--ignore-unmatch", ".")
+                self.add(name, b"placeholder")
+                self.assert_blocked(self.guard(), name)
+
+    def test_oversized_trailer_blocked(self):
+        self.add("Website/docs/media/video/trailer.mp4", MP4 + bytes(MODULE.MAX_TRAILER_SIZE))
+        self.assert_blocked(self.guard(), "trailer larger than")
+        self.commit()
+        self.assert_blocked(self.push_check(), "MP4/QuickTime")
+
+    def test_trailer_sized_video_cannot_pass_as_clip(self):
+        data = MP4 + bytes(MODULE.MAX_CLIP_SIZE)
+        self.add("Website/docs/media/video/trailer.mp4", data)
+        self.add("Website/docs/media/video/S3-3.mp4", data)
+        self.assert_blocked(self.guard(), "S3-3.mp4 (clip larger than")
+
     def test_clip_copied_elsewhere_keeps_filename_block(self):
         self.add("Website/docs/media/video/S2-2.mp4", MP4)
         self.add("Session recordings/Session 2.mp4", MP4)

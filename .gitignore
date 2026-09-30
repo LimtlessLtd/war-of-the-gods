@@ -52,8 +52,9 @@
 *.[bB][iI][kK]
 *.[bB][kK]2
 *.[rR][oO][qQ]
-# ...except the campaign website's short moment clips (see GIT_SETUP.md).
+# ...except the campaign website's short moment clips and its trailer (see GIT_SETUP.md).
 !/Website/docs/media/video/S*.mp4
+!/Website/docs/media/video/trailer.mp4
 
 # Local caches and operating-system files
 __pycache__/

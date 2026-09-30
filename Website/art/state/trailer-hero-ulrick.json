@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-ulrick",
+  "status": "completed",
+  "token": "bd2b4d09486b02a1952cab73e3322956f8aea8612aa84309",
+  "request_sha256": "a17c4b327577650ee4a1be8e1591e612b25772ea526eb6920a24270bc2a89f42",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-hero-ulrick",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Ulrick, Harbinger of Judgement",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: Ulrick strides out of a wall of fire towards the viewer, glaive in hand and wreathed in Agni's flame, broken iron chains falling from his wrists. Behind him loom the colossal smouldering bronze Scales of Judgement. Heroic and fearsome. Characters: Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, in heavy dark plate armour with bronze-orange pauldrons and a long white tabard.",
+    "references": [
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Ulrick strides out of fire with his glaive, broken chains falling from his wrists, the Scales of Judgement behind him."
+  },
+  "claimed_at": "2026-09-30T16:27:54+00:00",
+  "output": "art/generated/trailer-hero-ulrick.png",
+  "sha256": "5355c28e1d237e895c98c9c0641fe9eba0a586d005ffaae3ed7414bea7a90fb0",
+  "format": "png",
+  "completed_at": "2026-09-30T16:29:14+00:00"
+}

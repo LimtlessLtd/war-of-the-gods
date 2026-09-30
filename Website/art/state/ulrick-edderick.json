@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "ulrick-edderick",
+  "status": "completed",
+  "token": "e4fd4d1a9a1cc626eecdf35c6b5c038f8581cb0bbae86756",
+  "request_sha256": "c0dc7d5806a56ad001d8281ff81fa386e74e7aedb25a93ca30b8a600d2e25dbe",
+  "request": {
+    "schema_version": 1,
+    "id": "ulrick-edderick",
+    "kind": "moment",
+    "moment_id": "S34-4496",
+    "title": "I told you I'd be there",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. Scene: a muddy battlefield at grey dawn, strewn with fallen soldiers and torn tents. Ulrick kneels in the mud cradling the head of his dead brother Edderick, a young armoured soldier, holding his hand, tears on his face. In the misty distance huge frost giants lumber closer, and an ornate mirror glimmers faintly. Grief, stillness, epic scale. Characters: Ulrick: a broad-shouldered human paladin with short swept-back dark brown hair and a full dark beard, in heavy dark plate armour with bronze-orange pauldrons and a long white tabard.",
+    "references": [
+      {
+        "path": "PCs/Ulrick.png",
+        "role": "Character appearance reference for Ulrick. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Ulrick kneels in battlefield mud cradling his dead brother while frost giants loom in the mist behind."
+  },
+  "claimed_at": "2026-09-30T16:29:15+00:00",
+  "output": "art/generated/ulrick-edderick.png",
+  "sha256": "e99fae602622f6bf0a02f75a63a6527ef249c53af6c8e43a2ff1667a5217aa05",
+  "format": "png",
+  "completed_at": "2026-09-30T16:30:32+00:00"
+}

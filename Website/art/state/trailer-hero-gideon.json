@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-gideon",
+  "status": "completed",
+  "token": "790fc6311c1b01710320be51e271c9ecef5731d6ae7efbc2",
+  "request_sha256": "97d295279481b21004a994e0fdaa4a6965fce802f79249fdee18fc16817371e9",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-hero-gideon",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Gideon, marked by death and by life",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: a battlefield graveyard at dusk. Gideon hovers with arms raised as skeletal warriors claw up out of the earth, and green vines and blossoms burst from their bones as they rise. Eerie and wondrous. Characters: Gideon: a slight fairy necromancer with large translucent insect wings, pointed ears and dark ragged clothing, faint green necrotic light around his hands.",
+    "references": [
+      {
+        "path": "PCs/Gideon Fleshripper2.png",
+        "role": "Character appearance reference for Gideon. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Gideon raises skeletal warriors from the earth as vines and flowers burst from their bones."
+  },
+  "claimed_at": "2026-09-30T16:26:28+00:00",
+  "output": "art/generated/trailer-hero-gideon.png",
+  "sha256": "8c6bdf18212dd4f999e584a2fac2219ead94a07d2953f4e32eeae245b7ea4c46",
+  "format": "png",
+  "completed_at": "2026-09-30T16:27:53+00:00"
+}

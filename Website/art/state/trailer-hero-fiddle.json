@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-fiddle",
+  "status": "completed",
+  "token": "9237d401e1cceb6d5c748b134b64683623eeb3e289756557",
+  "request_sha256": "d4cac716839c2f7551ce9aee1fa51b84c42e708ea47b99e40801509d5391fb6a",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-hero-fiddle",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Fiddle, when he calls",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: a storm at sea. Fiddle stands on the prow of a small ship holding a conch shell to his lips as a colossal wave rears up behind him and a gigantic whale breaches through it. Spectacular and joyful. Characters: Fiddle: a small green-skinned goblin ranger with large pointed ears, leather armour hung with clover charms and dice.",
+    "references": [
+      {
+        "path": "PCs/Fiddle.jpg",
+        "role": "Character appearance reference for Fiddle. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Fiddle blows a conch on a ship's prow as a gigantic whale breaches through a towering wave."
+  },
+  "claimed_at": "2026-09-30T16:25:29+00:00",
+  "output": "art/generated/trailer-hero-fiddle.png",
+  "sha256": "7290b85d747b6de9144d9128d004e1df92c19615fc180a1a412d411021c25b9e",
+  "format": "png",
+  "completed_at": "2026-09-30T16:26:27+00:00"
+}

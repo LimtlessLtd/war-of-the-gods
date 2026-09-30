@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-bob",
+  "status": "completed",
+  "token": "077295011330bdd0c1f5771c89b88a88727f5615b3825e9a",
+  "request_sha256": "072a915d9ba86dd452ae62cacc681eba125ca99e5defb09aa997c8527526c26e",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-hero-bob",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "B.0.B., deadly to impostors",
+    "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: a torch-lit hall. Tiny B.0.B. leaps through the air, a small blade raised, at a looming shadowy shapeshifter whose disguise is peeling away; a bunch of grapes spills across the floor. Fierce and funny. Characters: B.0.B.: a small round brass construct about knee height with one large eye, red lips and thin clockwork limbs, hovering slightly off the ground.",
+    "references": [
+      {
+        "path": "Website/docs/media/img/p_bob.jpg",
+        "role": "Character appearance reference for B.0.B.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+      }
+    ],
+    "alt": "Little B.0.B. leaps with a blade raised at a shadowy shapeshifter as grapes spill across the floor."
+  },
+  "claimed_at": "2026-09-30T16:21:53+00:00",
+  "output": "art/generated/trailer-hero-bob.png",
+  "sha256": "998d7e984defbc81d1065a3f14dee863d81ea266b0cec6e5ea5a69c4189e264f",
+  "format": "png",
+  "completed_at": "2026-09-30T16:22:48+00:00"
+}

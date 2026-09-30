@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-durzo",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Durzo, Emissary of Death",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: the grey Realm of Death and Shadow, mist over black water and dead trees. Durzo stands ready with twin daggers drawn, a violet mark glowing on his neck. Behind him, high in the mist, a veiled goddess's pale hand cradles a small glowing soul. Cold, sorrowful, deadly. Characters: Durzo: a lean half-elf rogue with swept-back silver-white hair and pointed ears, in fitted red-and-black leather armour.",
+  "references": [
+    {
+      "path": "PCs/Durzo.png",
+      "role": "Character appearance reference for Durzo. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "Durzo stands with daggers drawn in a grey realm of mist while a veiled hand holds a glowing soul above him."
+}

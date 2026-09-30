@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "trailer-hero-derek",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "D.E.R.E.K. turns back time",
+  "prompt": "Painterly dark-fantasy illustration in the style of a cinematic tabletop RPG book spread: wide 16:9 landscape composition, dramatic lighting with warm ember-orange highlights against cold ice-blue shadows, rich texture, a clear focal point. No text, no captions, no speech bubbles, no logos, no watermark. This is a still for a cinematic trailer: keep the main subject centred slightly above the middle with a strong silhouette, and keep the lower third darker and uncluttered so a title can sit over it. Scene: a battlefield frozen in a single moment. D.E.R.E.K. raises one golden hand and everything runs backwards: arrows fly back to their bows, falling rubble rises, and a vast spectral clock face spins in reverse behind him. Awe-inspiring and uncanny. Characters: D.E.R.E.K. (Chadron): a humanoid golden construct with a smooth metal face, a single large glowing blue eye and full red lips, in hooded red-and-orange robes with clockwork and clock-face motifs.",
+  "references": [
+    {
+      "path": "PCs/Chadron.png",
+      "role": "Character appearance reference for D.E.R.E.K.. Preserve the face, hair, build, colours and outfit shown; ignore the background, base and any interface elements."
+    }
+  ],
+  "alt": "D.E.R.E.K. raises a hand and a battlefield runs backwards around him beneath a vast reversing clock face."
+}

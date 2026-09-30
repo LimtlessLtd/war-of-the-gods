@@ -44,7 +44,7 @@ Each post is filed under the most recent session played before it (`content/date
 
 The home page's *Watch the trailer* button plays `docs/media/video/trailer.mp4` (poster `trailer.webp` beside it)
 in the lightbox. The build adds it only when the file is there. It is the one video allowed besides the moment clips:
-exactly that path, up to 50 MiB (see `GIT_SETUP.md`), so encode it for the web (720p H.264, about 1.2 Mbps).
+exactly that path, up to 95 MiB (see `GIT_SETUP.md`), so encode it for the web (720p H.264, about 1.3 Mbps).
 
 ## Campaign artwork
 

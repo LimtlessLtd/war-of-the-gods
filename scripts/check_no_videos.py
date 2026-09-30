@@ -40,7 +40,7 @@ CLIP_DIR = b"Website/docs/media/video"
 CLIP_NAME = re.compile(rb"S\d{1,3}-\d{1,6}\.mp4\Z")
 MAX_CLIP_SIZE = 25 * 1024 * 1024
 TRAILER_PATH = CLIP_DIR + b"/trailer.mp4"
-MAX_TRAILER_SIZE = 50 * 1024 * 1024
+MAX_TRAILER_SIZE = 95 * 1024 * 1024
 
 
 def allowed_size(path):

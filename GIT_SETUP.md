@@ -20,7 +20,7 @@ directly inside `Website/docs/media/video/`, are committed so GitHub Pages can
 serve them. Each must be 25 MiB or smaller (they are cut at 720p and are usually
 1-10 MB), so a full session recording is still blocked even if renamed into that
 folder. The campaign trailer is the one other exception: exactly
-`Website/docs/media/video/trailer.mp4`, up to 50 MiB, played from the home page.
+`Website/docs/media/video/trailer.mp4`, up to 95 MiB, played from the home page.
 Videos anywhere else are blocked as before.
 
 After cloning, install Python 3.9 or newer and enable the hooks in that clone:

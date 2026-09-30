@@ -1,5 +1,21 @@
 # Pickup note for Claude — 28 September 2026
 
+## Latest trailer follow-up — 30 September 2026
+
+The user asked Codex to critique the existing trailer, create new supporting artwork, and then push the finished work. Start with `art/trailer-2026-09-30/README.md`: the repository now contains the three completed PNGs, an editing brief and verified metadata, usable by a remote editor. The user will relay the critique.
+
+For the extended source review on the original workstation, read these **local files relative to the campaign root**, outside Website:
+
+- `Trailer Video/review/TRAILER_CRITIQUE.md` — critique, candidate recording timestamps and proposed shorter edit.
+- `Trailer Video/art-2026-09-30/README.md` — three completed trailer images, suggested usage, identity references, integration instructions and visual limitations.
+- `Trailer Video/art-2026-09-30/prompts.json` and `manifest.json` — exact prompts and verified asset metadata.
+
+The images were generated directly for this request, not through the automated website queue. Do not regenerate them or create fictitious queue completion receipts. Preserve all existing queue states. The pantheon replacement requires fresh crop/subject coordinates; a path-only swap will retain inappropriate cropping from the old image.
+
+The finished PNGs and repository editing brief are prepared for the user's requested push. Private source recordings, reference frames, full prompts and the extended source review remain local. No video was replaced or rendered, no website build was run, and no message was sent to Claude. The earlier dated notes below are historical; their queue and Git status statements are not a current status report.
+
+---
+
 The user ran out of Claude usage and asked Codex to set up the shared-folder image workflow, perform a dummy test, leave you a note, and provide a routine prompt for them to configure. This note records that work; it does not authorize publishing or new campaign content.
 
 ## How to resume

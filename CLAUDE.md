@@ -1,5 +1,7 @@
 # Artwork workflow handoff
 
+For campaign trailer work, first read `Website/art/trailer-2026-09-30/README.md`. It contains the critique, proposed edit, three completed image paths and essential framing instructions. Codex created the images at the user's request on 30 September 2026; these direct-request assets are separate from the website artwork queue. On the original workstation, the extended critique and source records remain in `Trailer Video/review/TRAILER_CRITIQUE.md` and `Trailer Video/art-2026-09-30/README.md`.
+
 Codex set up the shared artwork queue at the user's request while Claude usage was exhausted on 28 September 2026.
 
 Before continuing campaign website artwork work, read `Website/CLAUDE_HANDOFF.md`, then `Website/art/README.md`. They describe the tested file handoff and the existing unfinished work that was preserved. The user will configure the Codex routine separately.

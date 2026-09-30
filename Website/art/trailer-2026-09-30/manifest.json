@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-30",
+  "generation_mode": "built-in",
+  "not_upscaled": true,
+  "assets": [
+    {
+      "id": "fire-against-winter-v1",
+      "file": "fire-against-winter-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 3211361,
+      "sha256": "935dff96319ca74f6c15918c26a836496d000736ededbb85a9a24ab80da76e6c",
+      "status": "generated and visually reviewed",
+      "tool": "built-in image_gen",
+      "intended_use": "campaign trailer artwork; not automatically included in the site build"
+    },
+    {
+      "id": "life-and-shadow-v1",
+      "file": "life-and-shadow-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 3459329,
+      "sha256": "d5a43a6dfc8b180be650f6a4075b1108c8884618ebc6f2dd933f4485685681bc",
+      "status": "generated and visually reviewed",
+      "tool": "built-in image_gen",
+      "intended_use": "campaign trailer artwork; not automatically included in the site build"
+    },
+    {
+      "id": "pantheon-six-domains-v1",
+      "file": "pantheon-six-domains-v1.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 3374848,
+      "sha256": "6e5c0bf3b70f181ace3e844264363d4703543ee8a1b84e493d6653dc09537cbd",
+      "status": "generated and visually reviewed",
+      "tool": "built-in image_gen",
+      "intended_use": "campaign trailer artwork; not automatically included in the site build"
+    }
+  ],
+  "provenance": "Generated with the built-in image tool using campaign reveal imagery as identity references. Full prompts and source references remain in the local Trailer Video/art-2026-09-30 package."
+}

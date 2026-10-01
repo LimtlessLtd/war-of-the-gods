@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "trailer-v9-lan-the-choice",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Lan faces the choice",
+  "prompt": "Use case: stylized-concept. Create a single 16:9 cinematic high-fidelity dark fantasy painting for a campaign trailer. Lan, the dark-haired male adventurer with a stern face from reference 1, stands alone on a vast wind-swept stone causeway at dusk. A subtle crimson supernatural glow follows his raised hand while cold blue light breaks through storm clouds in the distance, expressing a grave moral choice. Show his entire head and upper body safely inside the frame, with sweeping environment filling the width. He should look like a compelling human adventurer rather than a god or a modern actor. Painterly, detailed, restrained red accents, deep blue shadows, dramatic atmosphere consistent with the campaign's epic artwork. One continuous widescreen scene; no square portrait, split screen, collage, frame, text, captions, logos or watermark. Reference 1 guides identity only, not composition.",
+  "references": [
+    {
+      "path": "Website/docs/media/img/p_lan.jpg",
+      "role": "Lan's established facial appearance and dark hair"
+    }
+  ],
+  "alt": "Lan stands on a windswept causeway beneath storm clouds, red magic gathering in his hand."
+}

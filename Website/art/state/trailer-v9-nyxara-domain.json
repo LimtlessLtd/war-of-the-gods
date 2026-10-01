@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-v9-nyxara-domain",
+  "status": "completed",
+  "token": "f431eb9fc2a1df79a12843290a264903ad3db9d237bd9af4",
+  "request_sha256": "799ddb70d4170a79a8cbdc78a004e156692a03cd8f01f6bbb276a0cf34bf9c72",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-v9-nyxara-domain",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Nyxara fills the screen",
+    "prompt": "Use case: stylized-concept. Asset type: full-frame 16:9 still for a dark-fantasy campaign trailer. Nyxara, the Veiled Shadow, appears alone and immense in her domain: a tall hooded goddess of shadow and death, her face hidden except for cold white glowing eyes beneath a long black veil, a long scythe held upright. Wisps of violet-black shadow and pale drifting souls radiate from her across the entire frame; ruined stone and dark water recede behind her. She is an epic divine presence, detailed from head to at least waist, with her hood, shoulders and scythe fully inside the frame and no crop across the face. Painterly high-fidelity fantasy concept art, nuanced violet, silver and black palette, backlit haze and precise luminous edges, powerful cinematic depth. One continuous scene only, no side-by-side panels, collage, secondary portraits, borders, text, captions, logos or watermark. Reference 1 guides Nyxara's established appearance, not the framing.",
+    "references": [
+      {
+        "path": "Website/art/generated/trailer-god-nyxara.png",
+        "role": "Nyxara's established appearance: hooded, faceless shadow goddess with pale eyes and scythe. Maintain this identity while creating a fresh scene and framing."
+      }
+    ],
+    "alt": "Nyxara, veiled goddess of shadow, looms with her scythe over a dark realm of mist and drifting souls."
+  },
+  "claimed_at": "2026-10-01T13:49:10+00:00",
+  "output": "art/generated/trailer-v9-nyxara-domain.png",
+  "sha256": "442558b58688bce2839d83adb60bd94fac70caf70fb436be686f94866a22e94d",
+  "format": "png",
+  "completed_at": "2026-10-01T13:51:22+00:00"
+}

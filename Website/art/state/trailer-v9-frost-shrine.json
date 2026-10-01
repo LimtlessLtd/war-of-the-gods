@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-v9-frost-shrine",
+  "status": "completed",
+  "token": "f8033976344438c00ae3d7f8c271099b06f447ee89a1365b",
+  "request_sha256": "33c133d4fca3493d02aa1a99078a9ff1f2a6beccaae6daf58ad7ada7b78e3591",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-v9-frost-shrine",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Auril's winter shrine",
+    "prompt": "Use case: stylized-concept. Asset type: full-frame 16:9 still for a dark-fantasy campaign trailer. A shrine to Auril, Lady Frostkiss, during the long winter: an austere stone sanctuary buried in deep snow and rimed with translucent ice. Armoured Frost Wardens kneel in the middle distance before a towering sculpted frost sigil; a faint icy blue light comes through high shattered windows, with snow blowing into the nave. The goddess herself is only suggested by an immense shadow in the ice, no new human character or stylised cartoon nun. Painterly high-fidelity fantasy illustration matching the cinematic, richly textured god artworks, restrained silver, slate and blue palette with a small warm candlelight contrast. Visually imposing widescreen environment, layered depth, clear shrine focal point, readable full frame without large empty side gutters. No split screen, panels, text, symbols resembling writing, logos or watermark. Reference 1 is a style and colour reference for Auril's winter realm, not an edit target.",
+    "references": [
+      {
+        "path": "Website/art/generated/trailer-god-auril.png",
+        "role": "Style and cold colour reference for Auril's divine domain. Do not insert or copy her portrait; illustrate the shrine."
+      }
+    ],
+    "alt": "Frost Wardens kneel in a snowbound stone shrine beneath cold blue light and Auril's looming shadow."
+  },
+  "claimed_at": "2026-10-01T13:47:13+00:00",
+  "output": "art/generated/trailer-v9-frost-shrine.png",
+  "sha256": "bfee04fdc48e760a2324acc28ae41b772d5a068c3b15aff1ca4e98a5852787a4",
+  "format": "png",
+  "completed_at": "2026-10-01T13:48:54+00:00"
+}

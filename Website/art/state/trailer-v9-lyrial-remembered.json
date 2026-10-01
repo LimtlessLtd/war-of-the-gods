@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "trailer-v9-lyrial-remembered",
+  "status": "completed",
+  "token": "c54680308396330e8a0f2ee68f086e0b40d5455545b1f856",
+  "request_sha256": "343a84970126089bc37b48529da3b495aa513d1cb7cf8c3a7b0f6144198f4599",
+  "request": {
+    "schema_version": 1,
+    "id": "trailer-v9-lyrial-remembered",
+    "kind": "trailer",
+    "moment_id": null,
+    "title": "Lyrial remembered",
+    "prompt": "Use case: stylized-concept. Create a single 16:9 cinematic high-fidelity dark fantasy painting for a campaign trailer. Lyrial Thorne, the youthful dark-haired elven bard in reference 1, stands fully visible from head to at least waist in a ruined candlelit hall, holding her lute, with a warm amber pool of light around her and a cold blue storm beyond the broken arches. She should feel beloved and heroic, with a wistful expression and a sense of coming tragedy, but no corpse or violence. Her entire head and instrument must fit comfortably within the frame. Rich painterly detail, atmospheric depth, nuanced colour, cohesive serious trailer aesthetic. A single continuous widescreen scene; no square portrait, side-by-side images, collage, borders, text, captions, logos, or watermark. Reference 1 provides Lyrial's identity and appearance, not framing.",
+    "references": [
+      {
+        "path": "Website/art/trailer-expansion-2026-09-30/14-lyrial-thorne-portrait.png",
+        "role": "Lyrial's established face, hair, costume and lute"
+      }
+    ],
+    "alt": "Lyrial Thorne holds her lute in a candlelit ruined hall as a blue storm gathers outside."
+  },
+  "claimed_at": "2026-10-01T14:21:53+00:00",
+  "output": "art/generated/trailer-v9-lyrial-remembered.png",
+  "sha256": "cf7874acce271a10b40ec4b86ad55f265d021e915eb2614330a5bc8d5a792532",
+  "format": "png",
+  "completed_at": "2026-10-01T14:22:05+00:00"
+}

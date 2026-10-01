@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "trailer-v9-agni-ulrick-revelation",
+  "kind": "trailer",
+  "moment_id": null,
+  "title": "Agni and Ulrick, fire rising",
+  "prompt": "Use case: stylized-concept. Asset type: full-frame 16:9 still for a dark-fantasy campaign trailer. Paint one continuous cinematic scene, not two portraits, not a split screen or collage. Agni, the immense bearded fire god and humble axeman, rises from a wall of flame behind his champion Ulrick Mal-Karash. Ulrick stands in the foreground at full height, face and head wholly visible, broad-shouldered, short swept-back dark brown hair, full dark beard, heavy dark plate armour with bronze-orange pauldrons, long white tabard, a glaive held ready. Both figures are imposing and visually connected by fire; beyond them, falling frost and shadow hint at the coming divine war. High-fidelity painterly tabletop RPG art, deep bronze and ember light against restrained blue-black cold, dramatic volumetric light and crisp faces, textured armour, cinematic depth, readable full-screen silhouette. Keep main faces within the central safe 70 percent of the frame, with breathing room above heads and below feet. No title, words, lettering, borders, panels, logos or watermark. No random extra heroes. Reference 1 controls Agni's appearance; Reference 2 controls Ulrick's appearance. Do not copy either reference's framing.",
+  "references": [
+    {
+      "path": "Gods/Agni/Fire God’s War of Ember and Ice.png",
+      "role": "Appearance reference for Agni only: bearded fire god, ember armour and axe. Preserve his identity, not the portrait crop."
+    },
+    {
+      "path": "PCs/Ulrick.png",
+      "role": "Appearance reference for Ulrick only: preserve face, hair, beard, broad build and armour details. Keep his complete head visible."
+    }
+  ],
+  "alt": "Ulrick stands with his glaive before the towering fire god Agni as frost and shadow gather around them."
+}

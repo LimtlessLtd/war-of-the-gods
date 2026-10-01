@@ -2,7 +2,7 @@
 
 Run from anywhere:  python tools/build.py
 """
-import argparse, json, os, re, datetime
+import argparse, json, os, re, datetime, hashlib
 from art_site import attach_art
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -114,7 +114,12 @@ def main(output_dir=None):
     # the campaign trailer plays from the home page once docs/media/video/trailer.mp4 is in place
     trailer = None
     if os.path.exists(D('media', 'video', 'trailer.mp4')):
-        trailer = dict(src=f"{vbase}trailer.mp4")
+        # A new cut must have a new URL so returning visitors do not replay a cached trailer.
+        digest = hashlib.sha256()
+        with open(D('media', 'video', 'trailer.mp4'), 'rb') as trailer_file:
+            for block in iter(lambda: trailer_file.read(1024 * 1024), b''):
+                digest.update(block)
+        trailer = dict(src=f"{vbase}trailer.mp4?v={digest.hexdigest()[:12]}")
         if os.path.exists(D('media', 'video', 'trailer.webp')):
             trailer['poster'] = 'media/video/trailer.webp'
     site = dict(
